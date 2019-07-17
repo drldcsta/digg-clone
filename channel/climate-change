@@ -1,0 +1,6910 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/channel/climate-change" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content=" on Digg">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/channel/climate-change" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content=" on Digg" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title> - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Sleep Stories RSS" href="/channel/climate-change.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+</script>
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/channel_v2_1.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<style type="text/css">
+
+
+
+
+
+
+
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/channel/climate-change&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=70842380.1873973480.1563332648.1563332648.1563332648&_utmz=70842380.1563332648.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=1873973480.1563332648&tid=UA-33556916-1&z=1873973480
+" border="0">
+</noscript>
+
+
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_feed', ['fluid', [1, 1]], 'gpt--channel_feed')
+
+.addService(googletag.pubads());
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_featured_grid', ['fluid', [1, 1]], 'gpt--channel_featured_grid')
+
+.addService(googletag.pubads());
+
+
+googletag.pubads().setTargeting('digg-page', 'index');
+
+googletag.pubads().setTargeting('digg-section', 'channel');
+
+googletag.pubads().setTargeting('digg-slug', 'climate-change');
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+//googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="channel">
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+site-header--secondary
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fchannel%2Fclimate-change" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+<div class="site-header__title-wrapper">
+<div class="site-header__title">
+<span class="site-header__title__live">Live</span>
+
+<span class="site-header__title__text js--site-header__title">Climate Change</span>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+
+
+<div id="js--content-main" class="content-main channel-page--branded" role="main">
+
+
+
+<div class="channel__subnav-outer">
+<div class="channel__subnav scrollable">
+
+
+<a class="channel__subnav__nav-item" href="/channel/technology">
+
+Tech<span class="channel__subnav__nav-item-abbrev-truncate">nology</span>
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/longreads">
+
+Long Reads
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/science">
+
+Science
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/donaldtrump">
+
+Donald Trump
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/news">
+
+News
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/entertainment">
+
+Entertainment
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/digg-feature">
+
+Digg Features
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/originals">
+
+Originals
+
+</a>
+
+
+</div>
+</div>
+
+<div class="channel-branding--plain js--channel-branding">
+
+<div class="channel-branding__overlay"></div>
+<div class="channel-branding-content">
+<div class="channel-branding-content-inner">
+
+<div class="channel-branding-title">
+
+
+
+Climate Change
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="channel__body has--col-right">
+<section
+class="digg-story-stream digg-story-stream--v2 js--tag-profile col-left"
+data-tag-name="Climate Change"
+data-tag-slug="climate-change"
+data-tag-id="9ddeefb0346e458d92811390fa918fe9"
+data-new-items-polling="false"
+>
+<div class="digg-story-stream--v2__hdr">
+
+Latest News
+
+</div>
+<div
+class="digg-user-diggs js--digg-story-stream"
+data-next-position="1561829978.0"
+data-tracking-section="Tag Page"
+data-new-items-polling="false"
+>
+<div class="js--digg-story-stream__stories">
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2k8dBcJ
+
+
+"
+data-content-id="2k8dBcJ"
+data-contenturl="https://www.citylab.com/perspective/2019/07/infrastructure-climate-change-impacts-new-orleans-flood-risk/594004/"
+data-position="0"
+data-datetime="1563324261.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.citylab.com/perspective/2019/07/infrastructure-climate-change-impacts-new-orleans-flood-risk/594004/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.citylab.com%2Fperspective%2F2019%2F07%2Finfrastructure-climate-change-impacts-new-orleans-flood-risk%2F594004%2F&amp;position=0&amp;content_id=2k8dBcJ"
+
+>
+
+
+<img src="http://static.digg.com/images/a6f5d81701f84e1fa19abe7fa2e0f8ec_2k8dBcJ_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+TESTING THE WATERS
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.citylab.com/perspective/2019/07/infrastructure-climate-change-impacts-new-orleans-flood-risk/594004/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.citylab.com%2Fperspective%2F2019%2F07%2Finfrastructure-climate-change-impacts-new-orleans-flood-risk%2F594004%2F&amp;position=0&amp;content_id=2k8dBcJ"
+
+>
+
+The Knock-On Effects Of Keeping New Orleans Dry
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/citylab.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.citylab.com%2Fperspective%2F2019%2F07%2Finfrastructure-climate-change-impacts-new-orleans-flood-risk%2F594004%2F&amp;position=0&amp;content_id=2k8dBcJ"
+
+>
+
+citylab.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-17 00:44:20 GMT">
+<time datetime="2019-07-17 00:44:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Hurricane Barry largely spared New Orleans, but it underscored that climate change brings complex impacts and hard choices.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k8dBcJ&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k8dBcJ&amp;text=The+Knock-On+Effects+Of+Keeping+New+Orleans+Dry&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k8dBcJ&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k8dBcJ&amp;text=The+Knock-On+Effects+Of+Keeping+New+Orleans+Dry&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2lJJLff
+
+
+"
+data-content-id="2lJJLff"
+data-contenturl="https://www.weforum.org/agenda/2019/07/melting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect/"
+data-position="1"
+data-datetime="1563315773.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.weforum.org/agenda/2019/07/melting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2019%2F07%2Fmelting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect%2F&amp;position=1&amp;content_id=2lJJLff"
+
+>
+
+
+<img src="http://static.digg.com/images/f799474d8f2a488e82755c1bb44cc2eb_2lJJLff_2_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+EXTREMELY NOT CHILL
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.weforum.org/agenda/2019/07/melting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2019%2F07%2Fmelting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect%2F&amp;position=1&amp;content_id=2lJJLff"
+
+>
+
+Russia's Permafrost Is Melting And It Could Have A Devastating Global Effect
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/weforum.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2019%2F07%2Fmelting-russian-permafrost-could-speed-up-global-warming-devastating-global-effect%2F&amp;position=1&amp;content_id=2lJJLff"
+
+>
+
+weforum.org
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 22:22:52 GMT">
+<time datetime="2019-07-16 22:22:52 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+An environmental vicious circle is taking hold in Russia and other parts of the Arctic as permafrost — the frozen ground beneath a quarter of the Northern Hemisphere and almost 20% of Earth's landmass — thaws.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lJJLff&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lJJLff&amp;text=Russia%27s+Permafrost+Is+Melting+And+It+Could+Have+A+Devastating+Global+Effect&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lJJLff&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lJJLff&amp;text=Russia%27s+Permafrost+Is+Melting+And+It+Could+Have+A+Devastating+Global+Effect&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2YUF5S6
+
+
+"
+data-content-id="2YUF5S6"
+data-contenturl="https://www.washingtonpost.com/sports/2019/07/15/extreme-heat-is-changing-sports-olympics-local-races/?utm_term=.662261e6312f"
+data-position="2"
+data-datetime="1563204856.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.washingtonpost.com/sports/2019/07/15/extreme-heat-is-changing-sports-olympics-local-races/?utm_term=.662261e6312f" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fsports%2F2019%2F07%2F15%2Fextreme-heat-is-changing-sports-olympics-local-races%2F%3Futm_term%3D.662261e6312f&amp;position=2&amp;content_id=2YUF5S6"
+
+>
+
+
+<img src="http://static.digg.com/images/f82f687d1a674ff6afd738a14d21dfe2_2YUF5S6_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+MAN VS. MAN'S EFFECTS ON NATURE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.washingtonpost.com/sports/2019/07/15/extreme-heat-is-changing-sports-olympics-local-races/?utm_term=.662261e6312f" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fsports%2F2019%2F07%2F15%2Fextreme-heat-is-changing-sports-olympics-local-races%2F%3Futm_term%3D.662261e6312f&amp;position=2&amp;content_id=2YUF5S6"
+
+>
+
+Athletes Vs. Heat
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/washingtonpost.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fsports%2F2019%2F07%2F15%2Fextreme-heat-is-changing-sports-olympics-local-races%2F%3Futm_term%3D.662261e6312f&amp;position=2&amp;content_id=2YUF5S6"
+
+>
+
+Washington Post
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Sports"
+data-tag-slug="sports"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sports"
+>
+Sports
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-15 15:34:15 GMT">
+<time datetime="2019-07-15 15:34:15 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Scorching conditions are increasingly common at sporting events, creating risks and challenges for athletes.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YUF5S6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YUF5S6&amp;text=Athletes+Vs.+Heat&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YUF5S6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YUF5S6&amp;text=Athletes+Vs.+Heat&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XACSPc
+
+
+"
+data-content-id="2XACSPc"
+data-contenturl="https://slate.com/technology/2019/07/weather-forecasts-new-orleans-andrew-blum-weather-machine.html"
+data-position="3"
+data-datetime="1563152599.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://slate.com/technology/2019/07/weather-forecasts-new-orleans-andrew-blum-weather-machine.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fslate.com%2Ftechnology%2F2019%2F07%2Fweather-forecasts-new-orleans-andrew-blum-weather-machine.html&amp;position=3&amp;content_id=2XACSPc"
+
+>
+
+
+<img src="http://static.digg.com/images/4be1e2a5121c40179defc91649368dfc_2XACSPc_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+FROM POOR-CAST TO MORE-CAST
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://slate.com/technology/2019/07/weather-forecasts-new-orleans-andrew-blum-weather-machine.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fslate.com%2Ftechnology%2F2019%2F07%2Fweather-forecasts-new-orleans-andrew-blum-weather-machine.html&amp;position=3&amp;content_id=2XACSPc"
+
+>
+
+The Weather Is Worse, But Forecasts Keep Getting Better
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/slate.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fslate.com%2Ftechnology%2F2019%2F07%2Fweather-forecasts-new-orleans-andrew-blum-weather-machine.html&amp;position=3&amp;content_id=2XACSPc"
+
+>
+
+Slate Magazine
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-15 01:03:18 GMT">
+<time datetime="2019-07-15 01:03:18 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+How weather-prediction models improve — and why they haven't made the weatherman obsolete.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XACSPc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XACSPc&amp;text=The+Weather+Is+Worse%2C+But+Forecasts+Keep+Getting+Better&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XACSPc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XACSPc&amp;text=The+Weather+Is+Worse%2C+But+Forecasts+Keep+Getting+Better&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-fa8a07f68dd3437fd1564efb0d288c84f664d04f:di
+
+
+"
+data-content-id="fa8a07f68dd3437fd1564efb0d288c84f664d04f:di"
+data-contenturl="https://www.youtube.com/watch?v=vSNF6tzmmVs"
+data-position="4"
+data-datetime="1563023278.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+is--youtube
+">
+
+
+
+<script type="text/html" class="js--story-embed-html">
+
+
+
+
+
+
+&lt;div class=&quot;digg-story__html-embed-container&quot;&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/vSNF6tzmmVs?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.youtube.com/watch?v=vSNF6tzmmVs" target="_blank"
+
+>
+
+
+<img src="https://i.ytimg.com/vi/vSNF6tzmmVs/maxresdefault.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.youtube.com/watch?v=vSNF6tzmmVs" target="_blank"
+
+>
+
+The most sustainable seafood for your pescatarian diet 🐟
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Hot Content™ brought to you by Skynet.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 13:07:58 GMT">
+<time datetime="2019-07-13 13:07:58 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Getting your protein from the sea with the planet in mind? Well, it's pretty complicated. We laid out all the (sometimes contradictory) factors that go into ...
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvSNF6tzmmVs&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvSNF6tzmmVs&amp;text=The+most+sustainable+seafood+for+your+pescatarian+diet+%F0%9F%90%9F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvSNF6tzmmVs&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvSNF6tzmmVs&amp;text=The+most+sustainable+seafood+for+your+pescatarian+diet+%F0%9F%90%9F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-59dd11d3a44019b688e575edb266d46f9e3fff1c:di
+
+
+"
+data-content-id="59dd11d3a44019b688e575edb266d46f9e3fff1c:di"
+data-contenturl="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life"
+data-position="5"
+data-datetime="1563021115.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life" target="_blank"
+
+>
+
+
+<img src="https://video-images.vice.com/articles/5d24e169fdeb46000a542044/lede/1562698940426-CLIMATE_CHANGE_WORKING_04_061219.png?crop=1xw:1xh;center,center&amp;resize=1200:*" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life" target="_blank"
+
+>
+
+'Climate Despair' Is Making People Give Up on Life
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Algorithms helped find this.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life"
+target="_blank"
+
+
+>
+
+VICE
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 12:31:55 GMT">
+<time datetime="2019-07-13 12:31:55 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+"It's super painful to be a human being right now at this point in history."
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;text=%27Climate+Despair%27+Is+Making+People+Give+Up+on+Life&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;text=%27Climate+Despair%27+Is+Making+People+Give+Up+on+Life&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2NOghu6
+
+
+"
+data-content-id="2NOghu6"
+data-contenturl="http://blogs.discovermagazine.com/crux/2019/07/10/reforestation-climate-change-plant-trees/"
+data-position="6"
+data-datetime="1562957439.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://blogs.discovermagazine.com/crux/2019/07/10/reforestation-climate-change-plant-trees/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fblogs.discovermagazine.com%2Fcrux%2F2019%2F07%2F10%2Freforestation-climate-change-plant-trees%2F&amp;position=6&amp;content_id=2NOghu6"
+
+>
+
+
+<img src="http://static.digg.com/images/dc8c24857a064a0e9dfd7507c57a3f9c_2NOghu6_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+CAN'T SEE THE FOREST FOR THE TREES
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://blogs.discovermagazine.com/crux/2019/07/10/reforestation-climate-change-plant-trees/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fblogs.discovermagazine.com%2Fcrux%2F2019%2F07%2F10%2Freforestation-climate-change-plant-trees%2F&amp;position=6&amp;content_id=2NOghu6"
+
+>
+
+We Can't Just Plant Billions Of Trees To Stop Climate Change
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/blogs.discovermagazine.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fblogs.discovermagazine.com%2Fcrux%2F2019%2F07%2F10%2Freforestation-climate-change-plant-trees%2F&amp;position=6&amp;content_id=2NOghu6"
+
+>
+
+Discover Magazine Blogs
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 18:50:37 GMT">
+<time datetime="2019-07-12 18:50:37 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Battling climate change with carbon-sucking trees requires more planning and strategy than just planting trees everywhere we can.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NOghu6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NOghu6&amp;text=We+Can%27t+Just+Plant+Billions+Of+Trees+To+Stop+Climate+Change&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NOghu6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NOghu6&amp;text=We+Can%27t+Just+Plant+Billions+Of+Trees+To+Stop+Climate+Change&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2NKrR9v
+
+
+"
+data-content-id="2NKrR9v"
+data-contenturl="https://www.nationalgeographic.com/environment/2019/07/major-us-cities-will-face-unprecedente-climates-2050/"
+data-position="7"
+data-datetime="1562885339.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nationalgeographic.com/environment/2019/07/major-us-cities-will-face-unprecedente-climates-2050/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fmajor-us-cities-will-face-unprecedente-climates-2050%2F&amp;position=7&amp;content_id=2NKrR9v"
+
+>
+
+
+<img src="http://static.digg.com/images/286913e4dde24396b5f86b2bc2ddc80e_2NKrR9v_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+DARK SKIES AHEAD
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nationalgeographic.com/environment/2019/07/major-us-cities-will-face-unprecedente-climates-2050/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fmajor-us-cities-will-face-unprecedente-climates-2050%2F&amp;position=7&amp;content_id=2NKrR9v"
+
+>
+
+By 2050, Many World Cities Will Have Weather Like They've Never Seen, New Study Says
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nationalgeographic.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fmajor-us-cities-will-face-unprecedente-climates-2050%2F&amp;position=7&amp;content_id=2NKrR9v"
+
+>
+
+National Geographic
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 22:48:59 GMT">
+<time datetime="2019-07-11 22:48:59 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+New York, San Francisco, and Washington are among the 17 US cities that will soon face unprecedented weather.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NKrR9v&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NKrR9v&amp;text=By+2050%2C+Many+World+Cities+Will+Have+Weather+Like+They%27ve+Never+Seen%2C+New+Study+Says&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NKrR9v&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NKrR9v&amp;text=By+2050%2C+Many+World+Cities+Will+Have+Weather+Like+They%27ve+Never+Seen%2C+New+Study+Says&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Xyjf5I
+
+
+"
+data-content-id="2Xyjf5I"
+data-contenturl="https://www.wired.com/story/this-summers-weird-weather-is-the-death-of-predictability/?mbid=synd_digg"
+data-position="8"
+data-datetime="1562688776.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.wired.com/story/this-summers-weird-weather-is-the-death-of-predictability/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fthis-summers-weird-weather-is-the-death-of-predictability%2F%3Fmbid%3Dsynd_digg&amp;position=8&amp;content_id=2Xyjf5I"
+
+>
+
+
+<img src="http://static.digg.com/images/86afd032e2344e64b301e946ba97ddf1_2Xyjf5I_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THIS IS PROBABLY NOT FINE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.wired.com/story/this-summers-weird-weather-is-the-death-of-predictability/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fthis-summers-weird-weather-is-the-death-of-predictability%2F%3Fmbid%3Dsynd_digg&amp;position=8&amp;content_id=2Xyjf5I"
+
+>
+
+This Summer's Weird Weather Is The Death Of Predictability
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wired.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fthis-summers-weird-weather-is-the-death-of-predictability%2F%3Fmbid%3Dsynd_digg&amp;position=8&amp;content_id=2Xyjf5I"
+
+>
+
+Wired
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-09 16:12:56 GMT">
+<time datetime="2019-07-09 16:12:56 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+When you hear about 100-year storms or once-in-a-lifetime heat waves, those frequency estimates assume stationarity. But when it comes to climate, researchers no longer expect it.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xyjf5I&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xyjf5I&amp;text=This+Summer%27s+Weird+Weather+Is+The+Death+Of+Predictability&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xyjf5I&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xyjf5I&amp;text=This+Summer%27s+Weird+Weather+Is+The+Death+Of+Predictability&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-32cI1M6
+
+
+"
+data-content-id="32cI1M6"
+data-contenturl="https://www.gq.com/story/anchorage-heat-record?mbid=synd_digg"
+data-position="9"
+data-datetime="1562621597.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.gq.com/story/anchorage-heat-record?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fanchorage-heat-record%3Fmbid%3Dsynd_digg&amp;position=9&amp;content_id=32cI1M6"
+
+>
+
+
+<img src="http://static.digg.com/images/17dbd2ff036b4b428416fff3a2abe07b_32cI1M6_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+CAN'T TAKE THE HEAT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.gq.com/story/anchorage-heat-record?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fanchorage-heat-record%3Fmbid%3Dsynd_digg&amp;position=9&amp;content_id=32cI1M6"
+
+>
+
+Anchorage, Alaska Hit 90 Degrees For The First Time In Recorded History
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/gq.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fanchorage-heat-record%3Fmbid%3Dsynd_digg&amp;position=9&amp;content_id=32cI1M6"
+
+>
+
+GQ
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-08 21:33:17 GMT">
+<time datetime="2019-07-08 21:33:17 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+On the Fourth of July, temperatures in Anchorage hit 90 degrees, shattering the previous high from 1969 by an entire five degrees.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32cI1M6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32cI1M6&amp;text=Anchorage%2C+Alaska+Hit+90+Degrees+For+The+First+Time+In+Recorded+History&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32cI1M6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32cI1M6&amp;text=Anchorage%2C+Alaska+Hit+90+Degrees+For+The+First+Time+In+Recorded+History&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2FXVwGa
+
+
+"
+data-content-id="2FXVwGa"
+data-contenturl="https://www.washingtonpost.com/science/ancient-life-awakens-amid-thawing-ice-caps-and-permafrost/2019/07/05/335281f8-7108-11e9-9f06-5fc2ee80027a_story.html"
+data-position="10"
+data-datetime="1562621597.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.washingtonpost.com/science/ancient-life-awakens-amid-thawing-ice-caps-and-permafrost/2019/07/05/335281f8-7108-11e9-9f06-5fc2ee80027a_story.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fscience%2Fancient-life-awakens-amid-thawing-ice-caps-and-permafrost%2F2019%2F07%2F05%2F335281f8-7108-11e9-9f06-5fc2ee80027a_story.html&amp;position=10&amp;content_id=2FXVwGa"
+
+>
+
+
+<img src="http://static.digg.com/images/79ab6443edcd4663b917a50bec3bd476_2FXVwGa_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+BREAKING THE ICE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.washingtonpost.com/science/ancient-life-awakens-amid-thawing-ice-caps-and-permafrost/2019/07/05/335281f8-7108-11e9-9f06-5fc2ee80027a_story.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fscience%2Fancient-life-awakens-amid-thawing-ice-caps-and-permafrost%2F2019%2F07%2F05%2F335281f8-7108-11e9-9f06-5fc2ee80027a_story.html&amp;position=10&amp;content_id=2FXVwGa"
+
+>
+
+Ancient Life Awakens Amid Thawing Ice Caps And Permafrost
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/washingtonpost.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fscience%2Fancient-life-awakens-amid-thawing-ice-caps-and-permafrost%2F2019%2F07%2F05%2F335281f8-7108-11e9-9f06-5fc2ee80027a_story.html&amp;position=10&amp;content_id=2FXVwGa"
+
+>
+
+Washington Post
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-08 21:33:17 GMT">
+<time datetime="2019-07-08 21:33:17 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Researchers in a warming Arctic are discovering organisms, frozen and presumed dead for millennia, that can bear life anew.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FXVwGa&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FXVwGa&amp;text=Ancient+Life+Awakens+Amid+Thawing+Ice+Caps+And+Permafrost&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FXVwGa&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FXVwGa&amp;text=Ancient+Life+Awakens+Amid+Thawing+Ice+Caps+And+Permafrost&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2FY01Ao
+
+
+"
+data-content-id="2FY01Ao"
+data-contenturl="https://www.latimes.com/projects/la-me-climate-change-ocean-game/"
+data-position="11"
+data-datetime="1562588568.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.latimes.com/projects/la-me-climate-change-ocean-game/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-climate-change-ocean-game%2F&amp;position=11&amp;content_id=2FY01Ao"
+
+>
+
+
+<img src="http://static.digg.com/images/8898990b88ed445f86045c1d046c53db_2FY01Ao_3_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THIS IS YOUR CHANCE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.latimes.com/projects/la-me-climate-change-ocean-game/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-climate-change-ocean-game%2F&amp;position=11&amp;content_id=2FY01Ao"
+
+>
+
+The Ocean Game: The Sea Is Rising. Can You Save Your Town?
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/latimes.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-climate-change-ocean-game%2F&amp;position=11&amp;content_id=2FY01Ao"
+
+>
+
+Los Angeles Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-08 12:22:48 GMT">
+<time datetime="2019-07-08 12:22:48 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+California could see a jump of more than 9 feet by the end of the century. Flooding and erosion threaten homes. Beaches could vanish. But everyone insists: This is a game that can be won.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FY01Ao&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FY01Ao&amp;text=The+Ocean+Game%3A+The+Sea+Is+Rising.+Can+You+Save+Your+Town%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FY01Ao&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FY01Ao&amp;text=The+Ocean+Game%3A+The+Sea+Is+Rising.+Can+You+Save+Your+Town%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2L5CGRo
+
+
+"
+data-content-id="2L5CGRo"
+data-contenturl="https://www.latimes.com/projects/la-me-sea-level-rise-california-coast/"
+data-position="12"
+data-datetime="1562584972.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.latimes.com/projects/la-me-sea-level-rise-california-coast/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-sea-level-rise-california-coast%2F&amp;position=12&amp;content_id=2L5CGRo"
+
+>
+
+
+<img src="http://static.digg.com/images/f2d89f3626614ceea5b1ecc6c6f96693_2L5CGRo_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+GRIM TIDES
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.latimes.com/projects/la-me-sea-level-rise-california-coast/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-sea-level-rise-california-coast%2F&amp;position=12&amp;content_id=2L5CGRo"
+
+>
+
+The California Coast Is Disappearing Under The Rising Sea
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/latimes.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.latimes.com%2Fprojects%2Fla-me-sea-level-rise-california-coast%2F&amp;position=12&amp;content_id=2L5CGRo"
+
+>
+
+Los Angeles Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-08 11:22:52 GMT">
+<time datetime="2019-07-08 11:22:52 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+California's coastline is eroding with every tide and storm, but everything built before we knew better is fixed in place with nowhere to go.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2L5CGRo&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2L5CGRo&amp;text=The+California+Coast+Is+Disappearing+Under+The+Rising+Sea&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2L5CGRo&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2L5CGRo&amp;text=The+California+Coast+Is+Disappearing+Under+The+Rising+Sea&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2KVYpeL
+
+
+"
+data-content-id="2KVYpeL"
+data-contenturl="https://www.laphamsquarterly.org/happiness/hell-breaks-loose"
+data-position="13"
+data-datetime="1562515212.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.laphamsquarterly.org/happiness/hell-breaks-loose" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.laphamsquarterly.org%2Fhappiness%2Fhell-breaks-loose&amp;position=13&amp;content_id=2KVYpeL"
+
+>
+
+
+<img src="http://static.digg.com/images/0222a096954f461f9b139eab12d163ad_2KVYpeL_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THIS ISN'T FINE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.laphamsquarterly.org/happiness/hell-breaks-loose" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.laphamsquarterly.org%2Fhappiness%2Fhell-breaks-loose&amp;position=13&amp;content_id=2KVYpeL"
+
+>
+
+Hell Breaks Loose
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/laphamsquarterly.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.laphamsquarterly.org%2Fhappiness%2Fhell-breaks-loose&amp;position=13&amp;content_id=2KVYpeL"
+
+>
+
+Lapham's Quarterly
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Beliefs"
+data-tag-slug="beliefs"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/beliefs"
+>
+Beliefs
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Human Nature"
+data-tag-slug="human-nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/human-nature"
+>
+Human Nature
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-07 16:00:11 GMT">
+<time datetime="2019-07-07 16:00:11 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+I sat down, heavy with despair, on a bench nearby and thought: This may yet not be the hell we are thinking of.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2KVYpeL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2KVYpeL&amp;text=Hell+Breaks+Loose&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2KVYpeL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2KVYpeL&amp;text=Hell+Breaks+Loose&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2xsBpuL
+
+
+"
+data-content-id="2xsBpuL"
+data-contenturl="https://www.nationalgeographic.com/environment/2019/07/how-to-erase-100-years-carbon-emissions-plant-trees/"
+data-position="14"
+data-datetime="1562420986.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nationalgeographic.com/environment/2019/07/how-to-erase-100-years-carbon-emissions-plant-trees/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fhow-to-erase-100-years-carbon-emissions-plant-trees%2F&amp;position=14&amp;content_id=2xsBpuL"
+
+>
+
+
+<img src="http://static.digg.com/images/5c5fe106f9164bec9d1598c80ffb4c93_2xsBpuL_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE LORAX WAS RIGHT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nationalgeographic.com/environment/2019/07/how-to-erase-100-years-carbon-emissions-plant-trees/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fhow-to-erase-100-years-carbon-emissions-plant-trees%2F&amp;position=14&amp;content_id=2xsBpuL"
+
+>
+
+How To Erase 100 Years Of Carbon Emissions? Plant Trees—Lots Of Them
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nationalgeographic.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2F2019%2F07%2Fhow-to-erase-100-years-carbon-emissions-plant-trees%2F&amp;position=14&amp;content_id=2xsBpuL"
+
+>
+
+National Geographic
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-06 13:49:46 GMT">
+<time datetime="2019-07-06 13:49:46 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Increasing the Earth’s forests by an area the size of the United States would cut atmospheric carbon dioxide 25 percent.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2xsBpuL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2xsBpuL&amp;text=How+To+Erase+100+Years+Of+Carbon+Emissions%3F+Plant+Trees%E2%80%94Lots+Of+Them&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2xsBpuL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2xsBpuL&amp;text=How+To+Erase+100+Years+Of+Carbon+Emissions%3F+Plant+Trees%E2%80%94Lots+Of+Them&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2FQubW1
+
+
+"
+data-content-id="2FQubW1"
+data-contenturl="https://grist.org/article/what-does-this-record-heatwave-mean-for-alaska/"
+data-position="15"
+data-datetime="1562264147.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://grist.org/article/what-does-this-record-heatwave-mean-for-alaska/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fgrist.org%2Farticle%2Fwhat-does-this-record-heatwave-mean-for-alaska%2F&amp;position=15&amp;content_id=2FQubW1"
+
+>
+
+
+<img src="http://static.digg.com/images/d53c2f4c1c9346c68d28056a685847fc_2FQubW1_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+BAKED ALASKA
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://grist.org/article/what-does-this-record-heatwave-mean-for-alaska/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fgrist.org%2Farticle%2Fwhat-does-this-record-heatwave-mean-for-alaska%2F&amp;position=15&amp;content_id=2FQubW1"
+
+>
+
+What Does This Record Heatwave Mean For Alaska?
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/grist.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fgrist.org%2Farticle%2Fwhat-does-this-record-heatwave-mean-for-alaska%2F&amp;position=15&amp;content_id=2FQubW1"
+
+>
+
+Grist
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-04 18:15:46 GMT">
+<time datetime="2019-07-04 18:15:46 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Record-breaking heat across Alaska is pushing tourists to beaches, and sending flames across the unseasonably hot, dry state.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FQubW1&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FQubW1&amp;text=What+Does+This+Record+Heatwave+Mean+For+Alaska%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FQubW1&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FQubW1&amp;text=What+Does+This+Record+Heatwave+Mean+For+Alaska%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-66906a63cdf73255288a53c4231e36d266532dff:di
+
+
+"
+data-content-id="66906a63cdf73255288a53c4231e36d266532dff:di"
+data-contenturl="https://www.washingtonpost.com/business/2019/07/02/midwestern-farmers-struggles-with-extreme-weather-are-visible-space/?utm_term=.2c4aad9717c0"
+data-position="16"
+data-datetime="1562181220.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.washingtonpost.com/business/2019/07/02/midwestern-farmers-struggles-with-extreme-weather-are-visible-space/?utm_term=.2c4aad9717c0" target="_blank"
+
+>
+
+
+<img src="https://www.washingtonpost.com/resizer/yvpkzS94ylmZeXZ_5VeHWrrlzjs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FA3GJLKC55FP5NW36TXJGOQJZU.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.washingtonpost.com/business/2019/07/02/midwestern-farmers-struggles-with-extreme-weather-are-visible-space/?utm_term=.2c4aad9717c0" target="_blank"
+
+>
+
+Midwestern farmers’ struggles with extreme weather are visible from space
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>*bleep* *bloop*</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.washingtonpost.com/business/2019/07/02/midwestern-farmers-struggles-with-extreme-weather-are-visible-space/?utm_term=.2c4aad9717c0"
+target="_blank"
+
+
+>
+
+Washington Post
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-03 19:13:40 GMT">
+<time datetime="2019-07-03 19:13:40 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Extreme weather means Midwest farm country, usually green, looks brown from orbit.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2019%2F07%2F02%2Fmidwestern-farmers-struggles-with-extreme-weather-are-visible-space%2F%3Futm_term%3D.2c4aad9717c0&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2019%2F07%2F02%2Fmidwestern-farmers-struggles-with-extreme-weather-are-visible-space%2F%3Futm_term%3D.2c4aad9717c0&amp;text=Midwestern+farmers%E2%80%99+struggles+with+extreme+weather+are+visible+from+space&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2019%2F07%2F02%2Fmidwestern-farmers-struggles-with-extreme-weather-are-visible-space%2F%3Futm_term%3D.2c4aad9717c0&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2019%2F07%2F02%2Fmidwestern-farmers-struggles-with-extreme-weather-are-visible-space%2F%3Futm_term%3D.2c4aad9717c0&amp;text=Midwestern+farmers%E2%80%99+struggles+with+extreme+weather+are+visible+from+space&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2FMWlBg
+
+
+"
+data-content-id="2FMWlBg"
+data-contenturl="https://www.theguardian.com/world/2019/jul/01/precipitous-fall-in-antarctic-sea-ice-revealed"
+data-position="17"
+data-datetime="1562023834.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.theguardian.com/world/2019/jul/01/precipitous-fall-in-antarctic-sea-ice-revealed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2019%2Fjul%2F01%2Fprecipitous-fall-in-antarctic-sea-ice-revealed&amp;position=17&amp;content_id=2FMWlBg"
+
+>
+
+
+<img src="http://static.digg.com/images/890f342fb8b540ac9906bd1ec1146ca7_2FMWlBg_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WOW, THE EARTH REALLY FELL OFF
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.theguardian.com/world/2019/jul/01/precipitous-fall-in-antarctic-sea-ice-revealed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2019%2Fjul%2F01%2Fprecipitous-fall-in-antarctic-sea-ice-revealed&amp;position=17&amp;content_id=2FMWlBg"
+
+>
+
+'Precipitous' Fall In Antarctic Sea Ice Since 2014 Revealed
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/theguardian.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2019%2Fjul%2F01%2Fprecipitous-fall-in-antarctic-sea-ice-revealed&amp;position=17&amp;content_id=2FMWlBg"
+
+>
+
+theguardian.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Oceans"
+data-tag-slug="oceans"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/oceans"
+>
+Oceans
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-01 23:30:34 GMT">
+<time datetime="2019-07-01 23:30:34 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The plunge is far faster than in Arctic and may lead to more global heating, say scientists.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FMWlBg&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FMWlBg&amp;text=%27Precipitous%27+Fall+In+Antarctic+Sea+Ice+Since+2014+Revealed&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FMWlBg&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FMWlBg&amp;text=%27Precipitous%27+Fall+In+Antarctic+Sea+Ice+Since+2014+Revealed&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2KLG4AE
+
+
+"
+data-content-id="2KLG4AE"
+data-contenturl="https://www.theatlantic.com/science/archive/2019/06/earthquakes-and-sea-level-rise-are-deadly-combination/592945/?utm_source=feed"
+data-position="18"
+data-datetime="1561943033.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.theatlantic.com/science/archive/2019/06/earthquakes-and-sea-level-rise-are-deadly-combination/592945/?utm_source=feed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F06%2Fearthquakes-and-sea-level-rise-are-deadly-combination%2F592945%2F%3Futm_source%3Dfeed&amp;position=18&amp;content_id=2KLG4AE"
+
+>
+
+
+<img src="http://static.digg.com/images/542248445e6b417398153e0e63fd8c18_2KLG4AE_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+UNDER THE SEA
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.theatlantic.com/science/archive/2019/06/earthquakes-and-sea-level-rise-are-deadly-combination/592945/?utm_source=feed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F06%2Fearthquakes-and-sea-level-rise-are-deadly-combination%2F592945%2F%3Futm_source%3Dfeed&amp;position=18&amp;content_id=2KLG4AE"
+
+>
+
+An Ancient City's Demise Hints At A Hidden Risk Of Sea-Level Rise
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/theatlantic.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F06%2Fearthquakes-and-sea-level-rise-are-deadly-combination%2F592945%2F%3Futm_source%3Dfeed&amp;position=18&amp;content_id=2KLG4AE"
+
+>
+
+The Atlantic
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-01 01:03:52 GMT">
+<time datetime="2019-07-01 01:03:52 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Two millennia ago, an earthquake liquefied the ground beneath the Egyptian port of Thonis-Heracleion.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2KLG4AE&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2KLG4AE&amp;text=An+Ancient+City%27s+Demise+Hints+At+A+Hidden+Risk+Of+Sea-Level+Rise&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2KLG4AE&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2KLG4AE&amp;text=An+Ancient+City%27s+Demise+Hints+At+A+Hidden+Risk+Of+Sea-Level+Rise&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2J9gJ0s
+
+
+"
+data-content-id="2J9gJ0s"
+data-contenturl="http://digg.com/video/the-case-for-a-climate-debate"
+data-position="19"
+data-datetime="1561829978.0"
+data-source="channel.climate-change"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/the-case-for-a-climate-debate" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/17229b0167854568ba8eba5844337514_c0abcc87548e06ebd151b780d505b8a1_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE DNC SAID NO BUT ACTIVISTS WON'T QUIT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/the-case-for-a-climate-debate" target="_blank"
+
+>
+
+The Case For A Climate Change Debate, Explained
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Climate Change"
+data-tag-slug="climate-change"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/climate-change"
+>
+Climate Change
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Politics"
+data-tag-slug="politics"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/politics"
+>
+Politics
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Explainer"
+data-tag-slug="explainer"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/explainer"
+>
+Explainer
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-29 17:39:37 GMT">
+<time datetime="2019-06-29 17:39:37 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The Sunrise Movement has been making the case for a debate entirely focused on climate change — here's the backstory.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2J9gJ0s&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2J9gJ0s&amp;text=The+Case+For+A+Climate+Change+Debate%2C+Explained&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2J9gJ0s&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2J9gJ0s&amp;text=The+Case+For+A+Climate+Change+Debate%2C+Explained&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+</div>
+<div class="digg-story-stream__loading-icon"></div>
+<div class="digg-story-stream__error js--digg-story-stream__error"></div>
+
+<div class="digg-story-stream__read-more js--digg-story-stream__read-more">
+That's our best stuff for today. Great job!
+<a href="#" class="digg-story-stream__read-more__link">Read more</a>
+</div>
+
+</div>
+</section>
+<div class="col-right">
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="js--story-sources" class="modal-story-sources modal--v2 modal hide fade">
+<div class="modal--v2__header">
+<div class="modal--v2__close js--btn-modal-close" data-dismiss="modal" aria-label="Close">&#x2716;</div>
+<div class="modal__header-text">Also On</div>
+</div>
+<div class="modal--v2__body">
+<div id="js--story-sources__main-item"></div>
+<div class="story-source__related-hdr digg-story__also-on__label" id="js--story-source__related-hdr"></div>
+<div id="js--story-sources__related"></div>
+</div>
+</div>
+<form>
+<input type="hidden" name="_xsrf" value="dd5e28f694e24f1d86ff4768518c9258"/>
+</form>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/channel_v2_1.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+window._sf_async_config.useCanonical = true;
+
+
+window._sf_async_config.sections = "Channels";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>

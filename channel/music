@@ -1,0 +1,6886 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/channel/music" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content="Music">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/channel/music" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Music" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+<meta name="description" content="Music on Digg: the best articles, videos, tweets, and original content that the web is talking about right now.">
+<meta name="twitter:description" content="Music on Digg: the best articles, videos, tweets, and original content that the web is talking about right now." />
+<meta property="og:description" content="Music on Digg: the best articles, videos, tweets, and original content that the web is talking about right now." />
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title>Music - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Sleep Stories RSS" href="/channel/music.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+</script>
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/channel_v2_1.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<style type="text/css">
+
+
+
+
+
+
+
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/channel/music&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=53319892.1061281911.1563332629.1563332629.1563332629&_utmz=53319892.1563332629.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=1061281911.1563332629&tid=UA-33556916-1&z=1061281911
+" border="0">
+</noscript>
+
+
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_feed', ['fluid', [1, 1]], 'gpt--channel_feed')
+
+.addService(googletag.pubads());
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_featured_grid', ['fluid', [1, 1]], 'gpt--channel_featured_grid')
+
+.addService(googletag.pubads());
+
+
+googletag.pubads().setTargeting('digg-page', 'index');
+
+googletag.pubads().setTargeting('digg-section', 'channel');
+
+googletag.pubads().setTargeting('digg-slug', 'music');
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+//googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="channel">
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+site-header--secondary
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fchannel%2Fmusic" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+<div class="site-header__title-wrapper">
+<div class="site-header__title">
+<span class="site-header__title__live">Live</span>
+
+<span class="site-header__title__text js--site-header__title">Music</span>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+
+
+<div id="js--content-main" class="content-main channel-page--branded" role="main">
+
+
+
+<div class="channel__subnav-outer">
+<div class="channel__subnav scrollable">
+
+
+<a class="channel__subnav__nav-item" href="/channel/technology">
+
+Tech<span class="channel__subnav__nav-item-abbrev-truncate">nology</span>
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/longreads">
+
+Long Reads
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/science">
+
+Science
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/donaldtrump">
+
+Donald Trump
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/news">
+
+News
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/entertainment">
+
+Entertainment
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/digg-feature">
+
+Digg Features
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/originals">
+
+Originals
+
+</a>
+
+
+</div>
+</div>
+
+<div class="channel-branding--plain js--channel-branding">
+
+<div class="channel-branding__overlay"></div>
+<div class="channel-branding-content">
+<div class="channel-branding-content-inner">
+
+<div class="channel-branding-title">
+
+
+
+Music
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="channel__body has--col-right">
+<section
+class="digg-story-stream digg-story-stream--v2 js--tag-profile col-left"
+data-tag-name="Music"
+data-tag-slug="music"
+data-tag-id="5ff797028e5445269466e6eb38245b3e"
+data-new-items-polling="false"
+>
+<div class="digg-story-stream--v2__hdr">
+
+Latest News
+
+</div>
+<div
+class="digg-user-diggs js--digg-story-stream"
+data-next-position="1562606968.0"
+data-tracking-section="Tag Page"
+data-new-items-polling="false"
+>
+<div class="js--digg-story-stream__stories">
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JDLlHu
+
+
+"
+data-content-id="2JDLlHu"
+data-contenturl="http://digg.com/video/beyonce-spirit"
+data-position="0"
+data-datetime="1563329691.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/beyonce-spirit" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/373160bd84c04312aa8586f9e55e77b5_5a3b05851f2b69b2af7a879db1caf8db_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+DANG
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/beyonce-spirit" target="_blank"
+
+>
+
+Beyoncé Just Dropped The Music Video For Her 'Lion King' Song 'Spirit' And It's Stunning
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-17 02:14:50 GMT">
+<time datetime="2019-07-17 02:14:50 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+"The concept of the video is to show how God is the painter, and natural beauty in nature needs no art direction."
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JDLlHu&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JDLlHu&amp;text=Beyonc%C3%A9+Just+Dropped+The+Music+Video+For+Her+%27Lion+King%27+Song+%27Spirit%27+And+It%27s+Stunning&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JDLlHu&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JDLlHu&amp;text=Beyonc%C3%A9+Just+Dropped+The+Music+Video+For+Her+%27Lion+King%27+Song+%27Spirit%27+And+It%27s+Stunning&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2lldWsF
+
+
+"
+data-content-id="2lldWsF"
+data-contenturl="https://www.theringer.com/music/2019/7/15/20691544/sufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork"
+data-position="1"
+data-datetime="1563311755.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.theringer.com/music/2019/7/15/20691544/sufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theringer.com%2Fmusic%2F2019%2F7%2F15%2F20691544%2Fsufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork&amp;position=1&amp;content_id=2lldWsF"
+
+>
+
+
+<img src="http://static.digg.com/images/ad62fc7f9f564d089141ae050518b558_2lldWsF_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SHOULD HAVE KNOWN BETTER
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.theringer.com/music/2019/7/15/20691544/sufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theringer.com%2Fmusic%2F2019%2F7%2F15%2F20691544%2Fsufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork&amp;position=1&amp;content_id=2lldWsF"
+
+>
+
+Sufjan Stevens And The Curious Case Of The Missing 48 States
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/theringer.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theringer.com%2Fmusic%2F2019%2F7%2F15%2F20691544%2Fsufjan-stevens-50-states-illinois-michigan-seven-swans-indie-folk-pitchfork&amp;position=1&amp;content_id=2lldWsF"
+
+>
+
+theringer.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 21:15:55 GMT">
+<time datetime="2019-07-16 21:15:55 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+More than 15 years ago, a young indie folk artist set a course to traverse the United States of America through song, accruing acclaim, a fan base, and lots of anticipation along the way. Or did he?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lldWsF&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lldWsF&amp;text=Sufjan+Stevens+And+The+Curious+Case+Of+The+Missing+48+States&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lldWsF&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lldWsF&amp;text=Sufjan+Stevens+And+The+Curious+Case+Of+The+Missing+48+States&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2kgla0T
+
+
+"
+data-content-id="2kgla0T"
+data-contenturl="http://digg.com/video/ringo-starr-surprise-appearance"
+data-position="2"
+data-datetime="1563308248.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/ringo-starr-surprise-appearance" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/1fbcccd4f44d46988d18a1a089492d6b_e4f64bed5980d70789b28d10d750bfb8_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+COME TOGETHER, YEAH
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/ringo-starr-surprise-appearance" target="_blank"
+
+>
+
+The Crowd Goes Wild As Ringo Starr Makes A Surprise Appearance At A Paul McCartney Concert
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Fame"
+data-tag-slug="fame"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/fame"
+>
+Fame
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 20:17:24 GMT">
+<time datetime="2019-07-16 20:17:24 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>6h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+We, too, would flip our freaking lids.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kgla0T&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kgla0T&amp;text=The+Crowd+Goes+Wild+As+Ringo+Starr+Makes+A+Surprise+Appearance+At+A+Paul+McCartney+Concert&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kgla0T&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kgla0T&amp;text=The+Crowd+Goes+Wild+As+Ringo+Starr+Makes+A+Surprise+Appearance+At+A+Paul+McCartney+Concert&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+
+<div class="gpt-ad gpt--channel_feed js--gpt--channel_feed" id="gpt--channel_feed" data-ad-unit-component="channel_feed">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt--channel_feed'); });
+</script>
+
+</div>
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2kcxIGz
+
+
+"
+data-content-id="2kcxIGz"
+data-contenturl="http://digg.com/video/jimmy-fallon-stephen-colbert-the-neverending-story-stranger-things"
+data-position="3"
+data-datetime="1563283147.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/jimmy-fallon-stephen-colbert-the-neverending-story-stranger-things" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/4904285ec80b4dc1b41055a8493e9217_42b6f3b757acabfd1c91a55524f41d6c_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+COLBERT MAKES A GOOD SUZIE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/jimmy-fallon-stephen-colbert-the-neverending-story-stranger-things" target="_blank"
+
+>
+
+Jimmy Fallon And Stephen Colbert Reenact 'The Neverending Story' Singing Scene From 'Stranger Things'
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Late Night"
+data-tag-slug="late-night"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/late-night"
+>
+Late Night
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="TV"
+data-tag-slug="tv"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/tv"
+>
+TV
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 13:19:06 GMT">
+<time datetime="2019-07-16 13:19:06 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>13h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+It's an ambitious crossover event that has thrown our worlds upside down.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kcxIGz&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kcxIGz&amp;text=Jimmy+Fallon+And+Stephen+Colbert+Reenact+%27The+Neverending+Story%27+Singing+Scene+From+%27Stranger+Things%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kcxIGz&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kcxIGz&amp;text=Jimmy+Fallon+And+Stephen+Colbert+Reenact+%27The+Neverending+Story%27+Singing+Scene+From+%27Stranger+Things%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2lajx4Z
+
+
+"
+data-content-id="2lajx4Z"
+data-contenturl="http://digg.com/video/more-than-a-feeling-explained"
+data-position="4"
+data-datetime="1563144410.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/more-than-a-feeling-explained" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/ea1157f43b134b5f8f6a53d3cf41aace_4125517a70211e2c4d84734ea3962295_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+LOSING YOURSELF IN A FAMILIAR SONG
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/more-than-a-feeling-explained" target="_blank"
+
+>
+
+Why Does Boston's 'More Than A Feeling' Sound So Good? A Musicologist Breaks It All Down
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Explainer"
+data-tag-slug="explainer"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/explainer"
+>
+Explainer
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 15:46:23 GMT">
+<time datetime="2019-07-13 15:46:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Looking at all the ingredients that made this classic rock song something special.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;text=Why+Does+Boston%27s+%27More+Than+A+Feeling%27+Sound+So+Good%3F+A+Musicologist+Breaks+It+All+Down&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;text=Why+Does+Boston%27s+%27More+Than+A+Feeling%27+Sound+So+Good%3F+A+Musicologist+Breaks+It+All+Down&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2jELxgG
+
+
+"
+data-content-id="2jELxgG"
+data-contenturl="https://noise.thehardtimes.net/2019/07/11/my-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship/"
+data-position="5"
+data-datetime="1563119728.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://noise.thehardtimes.net/2019/07/11/my-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fnoise.thehardtimes.net%2F2019%2F07%2F11%2Fmy-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship%2F&amp;position=5&amp;content_id=2jELxgG"
+
+>
+
+
+<img src="http://static.digg.com/images/d38f83ce207b4ba7a61d809a7df8a1d1_2jELxgG_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+ROCKIN' ON AIR
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://noise.thehardtimes.net/2019/07/11/my-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fnoise.thehardtimes.net%2F2019%2F07%2F11%2Fmy-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship%2F&amp;position=5&amp;content_id=2jELxgG"
+
+>
+
+My 60 Seconds Of Fame At The Brooklyn Air Guitar Championship
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/noise.thehardtimes.net"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fnoise.thehardtimes.net%2F2019%2F07%2F11%2Fmy-60-seconds-of-fame-at-the-brooklyn-air-guitar-championship%2F&amp;position=5&amp;content_id=2jELxgG"
+
+>
+
+noise.thehardtimes.net
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-14 15:55:28 GMT">
+<time datetime="2019-07-14 15:55:28 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Thinking of all the legendary bands that had played on the stage mere feet above my head — Megadeth, Anthrax, Sick Of It All — I cringed at the thought of screwing up. But I wouldn’t be playing drums, or bass, or even singing. I’d be playing air guitar
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jELxgG&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jELxgG&amp;text=My+60+Seconds+Of+Fame+At+The+Brooklyn+Air+Guitar+Championship&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jELxgG&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jELxgG&amp;text=My+60+Seconds+Of+Fame+At+The+Brooklyn+Air+Guitar+Championship&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2lajx4Z
+
+
+"
+data-content-id="2lajx4Z"
+data-contenturl="http://digg.com/video/more-than-a-feeling-explained"
+data-position="6"
+data-datetime="1563032785.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/more-than-a-feeling-explained" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/ea1157f43b134b5f8f6a53d3cf41aace_4125517a70211e2c4d84734ea3962295_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+LOSING YOURSELF IN A FAMILIAR SONG
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/more-than-a-feeling-explained" target="_blank"
+
+>
+
+Why Does Boston's 'More Than A Feeling' Sound So Good? A Musicologist Breaks It All Down
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Explainer"
+data-tag-slug="explainer"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/explainer"
+>
+Explainer
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 15:46:23 GMT">
+<time datetime="2019-07-13 15:46:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Looking at all the ingredients that made this classic rock song something special.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;text=Why+Does+Boston%27s+%27More+Than+A+Feeling%27+Sound+So+Good%3F+A+Musicologist+Breaks+It+All+Down&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2lajx4Z&amp;text=Why+Does+Boston%27s+%27More+Than+A+Feeling%27+Sound+So+Good%3F+A+Musicologist+Breaks+It+All+Down&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-d1e190dc2e96c76dd90239c6968b533d5f1388c7:di
+
+
+"
+data-content-id="d1e190dc2e96c76dd90239c6968b533d5f1388c7:di"
+data-contenturl="https://www.thefader.com/2019/07/11/drakeo-the-ruler-murder-trial-los-angeles-report"
+data-position="7"
+data-datetime="1562961083.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.thefader.com/2019/07/11/drakeo-the-ruler-murder-trial-los-angeles-report" target="_blank"
+
+>
+
+
+<img src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_532,w_1022,x_0,y_463,f_auto,q_auto:eco/3-20_y9nyx9/3-20_y9nyx9.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.thefader.com/2019/07/11/drakeo-the-ruler-murder-trial-los-angeles-report" target="_blank"
+
+>
+
+Stabbing, lies, and a twisted detective: Inside the murder trial of Drakeo the Ruler
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>We, too, anticipate our robot overlords with hope and trepidation.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.thefader.com/2019/07/11/drakeo-the-ruler-murder-trial-los-angeles-report"
+target="_blank"
+
+
+>
+
+thefader.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 19:51:23 GMT">
+<time datetime="2019-07-12 19:51:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The South Central rapper faces life in prison. Over a month in the courtroom, after countless witness testimonies, Drakeo the Ruler's fate remains murky.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.thefader.com%2F2019%2F07%2F11%2Fdrakeo-the-ruler-murder-trial-los-angeles-report&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thefader.com%2F2019%2F07%2F11%2Fdrakeo-the-ruler-murder-trial-los-angeles-report&amp;text=Stabbing%2C+lies%2C+and+a+twisted+detective%3A+Inside+the+murder+trial+of+Drakeo+the+Ruler&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.thefader.com%2F2019%2F07%2F11%2Fdrakeo-the-ruler-murder-trial-los-angeles-report&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thefader.com%2F2019%2F07%2F11%2Fdrakeo-the-ruler-murder-trial-los-angeles-report&amp;text=Stabbing%2C+lies%2C+and+a+twisted+detective%3A+Inside+the+murder+trial+of+Drakeo+the+Ruler&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2l8Cyot
+
+
+"
+data-content-id="2l8Cyot"
+data-contenturl="http://digg.com/video/old-town-road-lil-nas-x-young-thug"
+data-position="8"
+data-datetime="1562954992.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/old-town-road-lil-nas-x-young-thug" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/521f308d301147d79726610bff103bd6_b3f386b11ca0ec1166c734daee8b0d4d_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+AY-YO YIPPIE-O KI YAY
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/old-town-road-lil-nas-x-young-thug" target="_blank"
+
+>
+
+Lil Nas X Remixes 'Old Town Road' — This Time Featuring Young Thug And *The Walmart Yodeling Kid*
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Entertainment"
+data-tag-slug="entertainment"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/entertainment"
+>
+Entertainment
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 18:09:51 GMT">
+<time datetime="2019-07-12 18:09:51 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Mason Ramsey has a lot more staying power than we would have expected. Good for him.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2l8Cyot&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2l8Cyot&amp;text=Lil+Nas+X+Remixes+%27Old+Town+Road%27+%E2%80%94+This+Time+Featuring+Young+Thug+And+%2AThe+Walmart+Yodeling+Kid%2A&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2l8Cyot&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2l8Cyot&amp;text=Lil+Nas+X+Remixes+%27Old+Town+Road%27+%E2%80%94+This+Time+Featuring+Young+Thug+And+%2AThe+Walmart+Yodeling+Kid%2A&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-970750617b765a6ddc34c41b576e00f8751c5d2c:di
+
+
+"
+data-content-id="970750617b765a6ddc34c41b576e00f8751c5d2c:di"
+data-contenturl="https://www.fastcompany.com/90375683/an-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time?partner=feedburner&amp;utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=feedburner+fastcompany&amp;utm_content=feedburner"
+data-position="9"
+data-datetime="1562953351.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.fastcompany.com/90375683/an-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time?partner=feedburner&amp;utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=feedburner+fastcompany&amp;utm_content=feedburner" target="_blank"
+
+>
+
+
+<img src="https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/07/p-1-90375683an-astrophysicist-explains-the-most-famous-album-art-of-the-century.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.fastcompany.com/90375683/an-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time?partner=feedburner&amp;utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=feedburner+fastcompany&amp;utm_content=feedburner" target="_blank"
+
+>
+
+An astrophysicist explains one of the most famous album covers of all time
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>These bots are making our editorial team jealous.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.fastcompany.com/90375683/an-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time?partner=feedburner&amp;utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=feedburner+fastcompany&amp;utm_content=feedburner"
+target="_blank"
+
+
+>
+
+Fast Company
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 17:42:31 GMT">
+<time datetime="2019-07-12 17:42:31 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The University of Manchester’s Patrick Weltevrede writes about Peter Saville’s iconic pulsar design for Joy Division’s “Unknown Pleasures” and what’s been discovered about the stellar remnant since 1979.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.fastcompany.com%2F90375683%2Fan-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time%3Fpartner%3Dfeedburner%26utm_source%3Dfeedly%26utm_medium%3Dfeed%26utm_campaign%3Dfeedburner%2Bfastcompany%26utm_content%3Dfeedburner&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.fastcompany.com%2F90375683%2Fan-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time%3Fpartner%3Dfeedburner%26utm_source%3Dfeedly%26utm_medium%3Dfeed%26utm_campaign%3Dfeedburner%2Bfastcompany%26utm_content%3Dfeedburner&amp;text=An+astrophysicist+explains+one+of+the+most+famous+album+covers+of+all+time&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.fastcompany.com%2F90375683%2Fan-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time%3Fpartner%3Dfeedburner%26utm_source%3Dfeedly%26utm_medium%3Dfeed%26utm_campaign%3Dfeedburner%2Bfastcompany%26utm_content%3Dfeedburner&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.fastcompany.com%2F90375683%2Fan-astrophysicist-explains-one-of-the-most-famous-album-covers-of-all-time%3Fpartner%3Dfeedburner%26utm_source%3Dfeedly%26utm_medium%3Dfeed%26utm_campaign%3Dfeedburner%2Bfastcompany%26utm_content%3Dfeedburner&amp;text=An+astrophysicist+explains+one+of+the+most+famous+album+covers+of+all+time&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Y2Frcc
+
+
+"
+data-content-id="2Y2Frcc"
+data-contenturl="https://www.washingtonpost.com/entertainment/music/a-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions/2019/07/10/440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html?utm_term=.d0e06259db52"
+data-position="10"
+data-datetime="1562939076.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.washingtonpost.com/entertainment/music/a-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions/2019/07/10/440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html?utm_term=.d0e06259db52" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fentertainment%2Fmusic%2Fa-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions%2F2019%2F07%2F10%2F440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html%3Futm_term%3D.d0e06259db52&amp;position=10&amp;content_id=2Y2Frcc"
+
+>
+
+
+<img src="http://static.digg.com/images/12e7e296c66747f3ac23cde2edfa1334_2Y2Frcc_2_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SUDDENLY THE BLUES
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.washingtonpost.com/entertainment/music/a-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions/2019/07/10/440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html?utm_term=.d0e06259db52" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fentertainment%2Fmusic%2Fa-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions%2F2019%2F07%2F10%2F440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html%3Futm_term%3D.d0e06259db52&amp;position=10&amp;content_id=2Y2Frcc"
+
+>
+
+A Jazz Legend Said He Was In Desperate Need Of Money. His Friends Had Questions
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/washingtonpost.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.washingtonpost.com%2Fentertainment%2Fmusic%2Fa-jazz-legend-said-he-was-in-desperate-need-of-money-his-friends-had-questions%2F2019%2F07%2F10%2F440e76ec-99b6-11e9-830a-21b9b36b64ad_story.html%3Futm_term%3D.d0e06259db52&amp;position=10&amp;content_id=2Y2Frcc"
+
+>
+
+Washington Post
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 13:44:35 GMT">
+<time datetime="2019-07-12 13:44:35 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Kenny Burrell, a hero to generations of guitarists and one of the few jazz giants still alive, was in serious trouble, according to a May GoFundMe campaign. Or was he?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Y2Frcc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Y2Frcc&amp;text=A+Jazz+Legend+Said+He+Was+In+Desperate+Need+Of+Money.+His+Friends+Had+Questions&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Y2Frcc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Y2Frcc&amp;text=A+Jazz+Legend+Said+He+Was+In+Desperate+Need+Of+Money.+His+Friends+Had+Questions&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2jC465h
+
+
+"
+data-content-id="2jC465h"
+data-contenturl="https://www.gq.com/story/mark-mcgrath-sugar-ray-yacht-rock-interview?mbid=synd_digg"
+data-position="11"
+data-datetime="1562937828.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.gq.com/story/mark-mcgrath-sugar-ray-yacht-rock-interview?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fmark-mcgrath-sugar-ray-yacht-rock-interview%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2jC465h"
+
+>
+
+
+<img src="http://static.digg.com/images/b2b2111e43024d28811dda0f28bcca4f_2jC465h_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+HE'LL LEND YOU SOME SUGAR
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.gq.com/story/mark-mcgrath-sugar-ray-yacht-rock-interview?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fmark-mcgrath-sugar-ray-yacht-rock-interview%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2jC465h"
+
+>
+
+Mark McGrath Just Wants To Make Yacht Rock
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/gq.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fmark-mcgrath-sugar-ray-yacht-rock-interview%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2jC465h"
+
+>
+
+GQ
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 13:23:48 GMT">
+<time datetime="2019-07-12 13:23:48 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Sugar Ray's lead singer talks the band's surprise new album, nineties nostalgia and why he'll never ditch the highlights.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jC465h&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jC465h&amp;text=Mark+McGrath+Just+Wants+To+Make+Yacht+Rock&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jC465h&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jC465h&amp;text=Mark+McGrath+Just+Wants+To+Make+Yacht+Rock&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2LiNBHq
+
+
+"
+data-content-id="2LiNBHq"
+data-contenturl="https://www.bitchmedia.org/article/lil-nas-x-coming-out-challenges-hip-hop"
+data-position="12"
+data-datetime="1562889513.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.bitchmedia.org/article/lil-nas-x-coming-out-challenges-hip-hop" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bitchmedia.org%2Farticle%2Flil-nas-x-coming-out-challenges-hip-hop&amp;position=12&amp;content_id=2LiNBHq"
+
+>
+
+
+<img src="http://static.digg.com/images/bfc66af9facd48848714bfd1012a811b_2LiNBHq_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+CAN'T NOBODY TELL HIM NOTHIN'
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bitchmedia.org/article/lil-nas-x-coming-out-challenges-hip-hop" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bitchmedia.org%2Farticle%2Flil-nas-x-coming-out-challenges-hip-hop&amp;position=12&amp;content_id=2LiNBHq"
+
+>
+
+Lil Nas X Forges A Freer, More Fluid Hip Hop
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bitchmedia.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bitchmedia.org%2Farticle%2Flil-nas-x-coming-out-challenges-hip-hop&amp;position=12&amp;content_id=2LiNBHq"
+
+>
+
+bitchmedia.org
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="LGBT"
+data-tag-slug="lgbt"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/lgbt"
+>
+LGBT
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 23:58:33 GMT">
+<time datetime="2019-07-11 23:58:33 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+With his June 30 coming-out tweet, Lil Nas X further challenged conventional wisdom on hip hop and found a way to link together conversations on homophobia, racism and music-industry gatekeeping.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LiNBHq&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LiNBHq&amp;text=Lil+Nas+X+Forges+A+Freer%2C+More+Fluid+Hip+Hop&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LiNBHq&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LiNBHq&amp;text=Lil+Nas+X+Forges+A+Freer%2C+More+Fluid+Hip+Hop&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2l2oL2G
+
+
+"
+data-content-id="2l2oL2G"
+data-contenturl="http://digg.com/video/can-feel-love-tonight"
+data-position="13"
+data-datetime="1562866780.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/can-feel-love-tonight" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/c3ea56ab5bb840ee9379c8f6a08a9644_88764d51bd88403e53597ce17dbd1f2c_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WE LIKE IT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/can-feel-love-tonight" target="_blank"
+
+>
+
+Here's Beyoncé And Donald Glover's Cover Of 'Can You Feel The Love Tonight' From The New 'Lion King'
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 17:39:40 GMT">
+<time datetime="2019-07-11 17:39:40 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+We never thought we'd hear Seth Rogen on a track with Beyoncé.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2l2oL2G&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2l2oL2G&amp;text=Here%27s+Beyonc%C3%A9+And+Donald+Glover%27s+Cover+Of+%27Can+You+Feel+The+Love+Tonight%27+From+The+New+%27Lion+King%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2l2oL2G&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2l2oL2G&amp;text=Here%27s+Beyonc%C3%A9+And+Donald+Glover%27s+Cover+Of+%27Can+You+Feel+The+Love+Tonight%27+From+The+New+%27Lion+King%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JCGuqi
+
+
+"
+data-content-id="2JCGuqi"
+data-contenturl="https://public.tableau.com/views/IronViz-TheDaytheMusicDied/TheDaytheMusicDied"
+data-position="14"
+data-datetime="1562865662.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://public.tableau.com/views/IronViz-TheDaytheMusicDied/TheDaytheMusicDied" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fpublic.tableau.com%2Fviews%2FIronViz-TheDaytheMusicDied%2FTheDaytheMusicDied&amp;position=14&amp;content_id=2JCGuqi"
+
+>
+
+
+<img src="http://static.digg.com/images/e6d4f6b2cd3940db90a987a0713d42f6_2JCGuqi_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NAPSTERED
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://public.tableau.com/views/IronViz-TheDaytheMusicDied/TheDaytheMusicDied" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fpublic.tableau.com%2Fviews%2FIronViz-TheDaytheMusicDied%2FTheDaytheMusicDied&amp;position=14&amp;content_id=2JCGuqi"
+
+>
+
+The Day The Music Died
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/public.tableau.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fpublic.tableau.com%2Fviews%2FIronViz-TheDaytheMusicDied%2FTheDaytheMusicDied&amp;position=14&amp;content_id=2JCGuqi"
+
+>
+
+public.tableau.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Data Viz"
+data-tag-slug="data-viz"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/data-viz"
+>
+Data Viz
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 17:21:01 GMT">
+<time datetime="2019-07-11 17:21:01 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+In the 1990s, the music industry was booming. What happened?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JCGuqi&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JCGuqi&amp;text=The+Day+The+Music+Died&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JCGuqi&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JCGuqi&amp;text=The+Day+The+Music+Died&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XDFFm3
+
+
+"
+data-content-id="2XDFFm3"
+data-contenturl="https://www.forbes.com/sites/zackomalleygreenburg/2019/07/09/kanyes-second-coming-inside-the-billion-dollar-yeezy-empire/#3adab0ba5ec3"
+data-position="15"
+data-datetime="1562774505.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.forbes.com/sites/zackomalleygreenburg/2019/07/09/kanyes-second-coming-inside-the-billion-dollar-yeezy-empire/#3adab0ba5ec3" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fzackomalleygreenburg%2F2019%2F07%2F09%2Fkanyes-second-coming-inside-the-billion-dollar-yeezy-empire%2F%233adab0ba5ec3&amp;position=15&amp;content_id=2XDFFm3"
+
+>
+
+
+<img src="http://static.digg.com/images/f8b29002e0f1412abe54d97966c5c031_2XDFFm3_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+GOTTA TESTIFY
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.forbes.com/sites/zackomalleygreenburg/2019/07/09/kanyes-second-coming-inside-the-billion-dollar-yeezy-empire/#3adab0ba5ec3" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fzackomalleygreenburg%2F2019%2F07%2F09%2Fkanyes-second-coming-inside-the-billion-dollar-yeezy-empire%2F%233adab0ba5ec3&amp;position=15&amp;content_id=2XDFFm3"
+
+>
+
+Kanye's Second Coming: Inside The Billion-Dollar Yeezy Empire
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/forbes.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fzackomalleygreenburg%2F2019%2F07%2F09%2Fkanyes-second-coming-inside-the-billion-dollar-yeezy-empire%2F%233adab0ba5ec3&amp;position=15&amp;content_id=2XDFFm3"
+
+>
+
+Forbes
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Fame"
+data-tag-slug="fame"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/fame"
+>
+Fame
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Style"
+data-tag-slug="style"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/style"
+>
+Style
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Profiles"
+data-tag-slug="profiles"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/profiles"
+>
+Profiles
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 16:01:44 GMT">
+<time datetime="2019-07-10 16:01:44 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+You know when Kanye West is coming. His matte-black Lamborghini SUV rumbles up his gated driveway on the outskirts of Los Angeles like an earthquake, and when he steps out, in a white T-shirt and dark sweats, the obsessiveness kicks in immediately.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XDFFm3&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XDFFm3&amp;text=Kanye%27s+Second+Coming%3A+Inside+The+Billion-Dollar+Yeezy+Empire&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XDFFm3&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XDFFm3&amp;text=Kanye%27s+Second+Coming%3A+Inside+The+Billion-Dollar+Yeezy+Empire&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Xzx2Oa
+
+
+"
+data-content-id="2Xzx2Oa"
+data-contenturl="http://digg.com/video/creedence-clearwater-rain"
+data-position="16"
+data-datetime="1562772373.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/creedence-clearwater-rain" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/9d0189be28144b02b69e4695bea27244_80a7e6e312e0ccba9ff0cce80c49f939_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+PLUCK ALL
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/creedence-clearwater-rain" target="_blank"
+
+>
+
+Have You Heard This Gayageum Cover Of Creedence Clearwater Revival's 'Have You Ever Seen The Rain?'
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 15:26:13 GMT">
+<time datetime="2019-07-10 15:26:13 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+We want to know.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xzx2Oa&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xzx2Oa&amp;text=Have+You+Heard+This+Gayageum+Cover+Of+Creedence+Clearwater+Revival%27s+%27Have+You+Ever+Seen+The+Rain%3F%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xzx2Oa&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xzx2Oa&amp;text=Have+You+Heard+This+Gayageum+Cover+Of+Creedence+Clearwater+Revival%27s+%27Have+You+Ever+Seen+The+Rain%3F%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XDeGvM
+
+
+"
+data-content-id="2XDeGvM"
+data-contenturl="http://digg.com/video/donald-glover-kimmel-lion-king"
+data-position="17"
+data-datetime="1562764579.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/donald-glover-kimmel-lion-king" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/06bd0a5df7c2420a80afcfb9f4e86d0c_46367e5dbb06655888654469d23f3a46_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+KING OF THE CONCRETE JUNGLE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/donald-glover-kimmel-lion-king" target="_blank"
+
+>
+
+Donald Glover Jokes About Being Intimidated By Beyoncé While Working On 'The Lion King'
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Late Night"
+data-tag-slug="late-night"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/late-night"
+>
+Late Night
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Entertainment"
+data-tag-slug="entertainment"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/entertainment"
+>
+Entertainment
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 13:16:18 GMT">
+<time datetime="2019-07-10 13:16:18 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Glover also chats with Jimmy Kimmel about being a piss poor RA in college, meeting Elton John and getting his first big paychecks and spending them on gushers.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XDeGvM&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XDeGvM&amp;text=Donald+Glover+Jokes+About+Being+Intimidated+By+Beyonc%C3%A9+While+Working+On+%27The+Lion+King%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XDeGvM&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XDeGvM&amp;text=Donald+Glover+Jokes+About+Being+Intimidated+By+Beyonc%C3%A9+While+Working+On+%27The+Lion+King%27&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2YH5frC
+
+
+"
+data-content-id="2YH5frC"
+data-contenturl="https://longreads.com/2019/07/09/tom-pettys-problematic-album-southern-accents/"
+data-position="18"
+data-datetime="1562717055.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://longreads.com/2019/07/09/tom-pettys-problematic-album-southern-accents/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F09%2Ftom-pettys-problematic-album-southern-accents%2F&amp;position=18&amp;content_id=2YH5frC"
+
+>
+
+
+<img src="http://static.digg.com/images/e51a903f15bb4cc1b646dbe6d4819a38_2YH5frC_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+HEARTBROKEN
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://longreads.com/2019/07/09/tom-pettys-problematic-album-southern-accents/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F09%2Ftom-pettys-problematic-album-southern-accents%2F&amp;position=18&amp;content_id=2YH5frC"
+
+>
+
+Tom Petty's Problematic Album Southern Accents
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/longreads.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F09%2Ftom-pettys-problematic-album-southern-accents%2F&amp;position=18&amp;content_id=2YH5frC"
+
+>
+
+longreads.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Language"
+data-tag-slug="language"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/language"
+>
+Language
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 00:04:15 GMT">
+<time datetime="2019-07-10 00:04:15 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+In 1985, one of rock 'n' roll's most beloved songwriters made a regrettable misstep with a narrow conception of Southern identity.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YH5frC&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YH5frC&amp;text=Tom+Petty%27s+Problematic+Album+Southern+Accents&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YH5frC&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YH5frC&amp;text=Tom+Petty%27s+Problematic+Album+Southern+Accents&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XAqZcc
+
+
+"
+data-content-id="2XAqZcc"
+data-contenturl="http://digg.com/video/piano-drum-kit"
+data-position="19"
+data-datetime="1562606968.0"
+data-source="channel.music"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/piano-drum-kit" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/75e1f9c6885a4ed0974bb98a2987aee6_da0d77b093314187e05490ed79e7ace7_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SHRED 'TIL YOU'RE DEAD
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/piano-drum-kit" target="_blank"
+
+>
+
+Musician Lays Down A Sick Beat Using His Piano As A Synth Drum Kit
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Curious"
+data-tag-slug="curious"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/curious"
+>
+Curious
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-08 17:29:27 GMT">
+<time datetime="2019-07-08 17:29:27 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Not even drum kits are safe from technology making their jobs redundant.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XAqZcc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XAqZcc&amp;text=Musician+Lays+Down+A+Sick+Beat+Using+His+Piano+As+A+Synth+Drum+Kit&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XAqZcc&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XAqZcc&amp;text=Musician+Lays+Down+A+Sick+Beat+Using+His+Piano+As+A+Synth+Drum+Kit&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+</div>
+<div class="digg-story-stream__loading-icon"></div>
+<div class="digg-story-stream__error js--digg-story-stream__error"></div>
+
+<div class="digg-story-stream__read-more js--digg-story-stream__read-more">
+That's our best stuff for today. Great job!
+<a href="#" class="digg-story-stream__read-more__link">Read more</a>
+</div>
+
+</div>
+</section>
+<div class="col-right">
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="js--story-sources" class="modal-story-sources modal--v2 modal hide fade">
+<div class="modal--v2__header">
+<div class="modal--v2__close js--btn-modal-close" data-dismiss="modal" aria-label="Close">&#x2716;</div>
+<div class="modal__header-text">Also On</div>
+</div>
+<div class="modal--v2__body">
+<div id="js--story-sources__main-item"></div>
+<div class="story-source__related-hdr digg-story__also-on__label" id="js--story-source__related-hdr"></div>
+<div id="js--story-sources__related"></div>
+</div>
+</div>
+<form>
+<input type="hidden" name="_xsrf" value="dd5e28f694e24f1d86ff4768518c9258"/>
+</form>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/channel_v2_1.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+window._sf_async_config.useCanonical = true;
+
+
+window._sf_async_config.sections = "Channels";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>

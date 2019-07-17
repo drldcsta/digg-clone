@@ -1,0 +1,6943 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/channel/new-york-city" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content=" on Digg">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/channel/new-york-city" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content=" on Digg" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title> - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Sleep Stories RSS" href="/channel/new-york-city.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+</script>
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/channel_v2_1.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<style type="text/css">
+
+
+
+
+
+
+
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/channel/new-york-city&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=36523430.2023265396.1563332659.1563332659.1563332659&_utmz=36523430.1563332659.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=2023265396.1563332659&tid=UA-33556916-1&z=2023265396
+" border="0">
+</noscript>
+
+
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_feed', ['fluid', [1, 1]], 'gpt--channel_feed')
+
+.addService(googletag.pubads());
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_featured_grid', ['fluid', [1, 1]], 'gpt--channel_featured_grid')
+
+.addService(googletag.pubads());
+
+
+googletag.pubads().setTargeting('digg-page', 'index');
+
+googletag.pubads().setTargeting('digg-section', 'channel');
+
+googletag.pubads().setTargeting('digg-slug', 'new-york-city');
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+//googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="channel">
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+site-header--secondary
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fchannel%2Fnew-york-city" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+<div class="site-header__title-wrapper">
+<div class="site-header__title">
+<span class="site-header__title__live">Live</span>
+
+<span class="site-header__title__text js--site-header__title">New York City</span>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+
+
+<div id="js--content-main" class="content-main channel-page--branded" role="main">
+
+
+
+<div class="channel__subnav-outer">
+<div class="channel__subnav scrollable">
+
+
+<a class="channel__subnav__nav-item" href="/channel/technology">
+
+Tech<span class="channel__subnav__nav-item-abbrev-truncate">nology</span>
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/longreads">
+
+Long Reads
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/science">
+
+Science
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/donaldtrump">
+
+Donald Trump
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/news">
+
+News
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/entertainment">
+
+Entertainment
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/digg-feature">
+
+Digg Features
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/originals">
+
+Originals
+
+</a>
+
+
+</div>
+</div>
+
+<div class="channel-branding--plain js--channel-branding">
+
+<div class="channel-branding__overlay"></div>
+<div class="channel-branding-content">
+<div class="channel-branding-content-inner">
+
+<div class="channel-branding-title">
+
+
+
+New York City
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="channel__body has--col-right">
+<section
+class="digg-story-stream digg-story-stream--v2 js--tag-profile col-left"
+data-tag-name="New York City"
+data-tag-slug="new-york-city"
+data-tag-id="5cdf7e29a7184bc995a753433a95f69b"
+data-new-items-polling="false"
+>
+<div class="digg-story-stream--v2__hdr">
+
+Latest News
+
+</div>
+<div
+class="digg-user-diggs js--digg-story-stream"
+data-next-position="1557944580.0"
+data-tracking-section="Tag Page"
+data-new-items-polling="false"
+>
+<div class="js--digg-story-stream__stories">
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XCHpvX
+
+
+"
+data-content-id="2XCHpvX"
+data-contenturl="https://www.nydailynews.com/new-york/ny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html"
+data-position="0"
+data-datetime="1562705254.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nydailynews.com/new-york/ny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html&amp;position=0&amp;content_id=2XCHpvX"
+
+>
+
+
+<img src="http://static.digg.com/images/f2ad53f078374da6b39a48066b5f9844_2XCHpvX_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+STEERING RIGHT INTO TROUBLE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nydailynews.com/new-york/ny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html&amp;position=0&amp;content_id=2XCHpvX"
+
+>
+
+Billionaire Infuriates Neighbors With 'Fake' Parking Spot On West Village Street
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nydailynews.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fny-wealthy-curb-cutting-resident-20190709-bxtufzgiofeyhg6s2k72he6nge-story.html&amp;position=0&amp;content_id=2XCHpvX"
+
+>
+
+NY Daily News
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Scams"
+data-tag-slug="scam"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/scam"
+>
+Scams
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cars"
+data-tag-slug="cars"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cars"
+>
+Cars
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-09 20:47:33 GMT">
+<time datetime="2019-07-09 20:47:33 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+A billionaire hedge fund honcho carved out a personal driveway in a West Village sidewalk — and didn't pay a dime for the brazen annexation of public space.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XCHpvX&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XCHpvX&amp;text=Billionaire+Infuriates+Neighbors+With+%27Fake%27+Parking+Spot+On+West+Village+Street&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XCHpvX&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XCHpvX&amp;text=Billionaire+Infuriates+Neighbors+With+%27Fake%27+Parking+Spot+On+West+Village+Street&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2YO92na
+
+
+"
+data-content-id="2YO92na"
+data-contenturl="https://jezebel.com/i-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307?utm_source=jezebel_twitter&amp;utm_campaign=socialfow_jezebel_twitter&amp;utm_medium=socialflow"
+data-position="1"
+data-datetime="1562694215.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://jezebel.com/i-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307?utm_source=jezebel_twitter&amp;utm_campaign=socialfow_jezebel_twitter&amp;utm_medium=socialflow" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fjezebel.com%2Fi-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307%3Futm_source%3Djezebel_twitter%26utm_campaign%3Dsocialfow_jezebel_twitter%26utm_medium%3Dsocialflow&amp;position=1&amp;content_id=2YO92na"
+
+>
+
+
+<img src="http://static.digg.com/images/be015d7ecc6f45abbd20233f8fe9b96e_2YO92na_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SWEET NIGHTMARES
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://jezebel.com/i-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307?utm_source=jezebel_twitter&amp;utm_campaign=socialfow_jezebel_twitter&amp;utm_medium=socialflow" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fjezebel.com%2Fi-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307%3Futm_source%3Djezebel_twitter%26utm_campaign%3Dsocialfow_jezebel_twitter%26utm_medium%3Dsocialflow&amp;position=1&amp;content_id=2YO92na"
+
+>
+
+The Surreal Horror Of The Hershey's Store In Times Square
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/jezebel.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fjezebel.com%2Fi-took-a-joyless-trip-to-the-hersheys-store-in-times-sq-1835854307%3Futm_source%3Djezebel_twitter%26utm_campaign%3Dsocialfow_jezebel_twitter%26utm_medium%3Dsocialflow&amp;position=1&amp;content_id=2YO92na"
+
+>
+
+Jezebel
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-09 17:43:34 GMT">
+<time datetime="2019-07-09 17:43:34 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+For the seven vanishingly brief years I lived in New York, I have, like most people who live here, avoided Times Square as much as possible.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YO92na&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YO92na&amp;text=The+Surreal+Horror+Of+The+Hershey%27s+Store+In+Times+Square&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YO92na&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YO92na&amp;text=The+Surreal+Horror+Of+The+Hershey%27s+Store+In+Times+Square&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-4f465156b185a6dd56e7ef76dd5dd6ea7b2f2a83:di
+
+
+"
+data-content-id="4f465156b185a6dd56e7ef76dd5dd6ea7b2f2a83:di"
+data-contenturl="http://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html"
+data-position="2"
+data-datetime="1560533033.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html" target="_blank"
+
+>
+
+
+<img src="https://pixel.nymag.com/imgs/daily/grub/2019/06/05/05-nutcrackers-1.w1200.h630.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html" target="_blank"
+
+>
+
+On the Trail of New York’s Nutcracker Kings
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>You can thank the bots for this one.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="http://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html"
+target="_blank"
+
+
+>
+
+grubstreet.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-14 17:23:53 GMT">
+<time datetime="2019-06-14 17:23:53 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+How a brain-numbing street cocktail became a multimillion-dollar uptown hustle.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fwww.grubstreet.com%2F2019%2F06%2Fon-the-trail-of-nyc-nutcracker-kings.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.grubstreet.com%2F2019%2F06%2Fon-the-trail-of-nyc-nutcracker-kings.html&amp;text=On+the+Trail+of+New+York%E2%80%99s+Nutcracker+Kings&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fwww.grubstreet.com%2F2019%2F06%2Fon-the-trail-of-nyc-nutcracker-kings.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.grubstreet.com%2F2019%2F06%2Fon-the-trail-of-nyc-nutcracker-kings.html&amp;text=On+the+Trail+of+New+York%E2%80%99s+Nutcracker+Kings&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XaTBrs
+
+
+"
+data-content-id="2XaTBrs"
+data-contenturl="https://tedium.co/2019/06/13/nyc-subway-os2-history/"
+data-position="3"
+data-datetime="1560522305.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://tedium.co/2019/06/13/nyc-subway-os2-history/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Ftedium.co%2F2019%2F06%2F13%2Fnyc-subway-os2-history%2F&amp;position=3&amp;content_id=2XaTBrs"
+
+>
+
+
+<img src="http://static.digg.com/images/41c0b9bc7bc244ba8a606ab62b40e074_2XaTBrs_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE ONLY THING ON THE SUBWAY THAT WORKS
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://tedium.co/2019/06/13/nyc-subway-os2-history/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Ftedium.co%2F2019%2F06%2F13%2Fnyc-subway-os2-history%2F&amp;position=3&amp;content_id=2XaTBrs"
+
+>
+
+How IBM's Much-Hyped But Underwhelming OS Found A Home — In The NYC Subway
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/tedium.co"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Ftedium.co%2F2019%2F06%2F13%2Fnyc-subway-os2-history%2F&amp;position=3&amp;content_id=2XaTBrs"
+
+>
+
+tedium.co
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-14 14:25:04 GMT">
+<time datetime="2019-06-14 14:25:04 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Vintage technology has powered the innards of the NYC subway system for decades — and sometimes, it surfaces in interesting ways.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XaTBrs&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XaTBrs&amp;text=How+IBM%27s+Much-Hyped+But+Underwhelming+OS+Found+A+Home+%E2%80%94+In+The+NYC+Subway&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XaTBrs&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XaTBrs&amp;text=How+IBM%27s+Much-Hyped+But+Underwhelming+OS+Found+A+Home+%E2%80%94+In+The+NYC+Subway&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2X2Ni96
+
+
+"
+data-content-id="2X2Ni96"
+data-contenturl="https://onezero.medium.com/the-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b"
+data-position="4"
+data-datetime="1560193344.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://onezero.medium.com/the-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fonezero.medium.com%2Fthe-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b&amp;position=4&amp;content_id=2X2Ni96"
+
+>
+
+
+<img src="http://static.digg.com/images/dbedd445f9ef42958c4ec123a36c9171_2X2Ni96_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NO HANDOUTS IN MY BACKYARD
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://onezero.medium.com/the-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fonezero.medium.com%2Fthe-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b&amp;position=4&amp;content_id=2X2Ni96"
+
+>
+
+The Legacy Of Amazon HQ2: Rebellion Against Corporate Welfare
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/onezero.medium.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fonezero.medium.com%2Fthe-legacy-of-amazon-hq2-rebellion-against-corporate-welfare-939f6a189b&amp;position=4&amp;content_id=2X2Ni96"
+
+>
+
+onezero.medium.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Money"
+data-tag-slug="money"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/money"
+>
+Money
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Policy"
+data-tag-slug="policy"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/policy"
+>
+Policy
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Business"
+data-tag-slug="business"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/business"
+>
+Business
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Amazon"
+data-tag-slug="amazon"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/amazon"
+>
+Amazon
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-10 19:02:23 GMT">
+<time datetime="2019-06-10 19:02:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Lasting controversy over the company's HQ2 race is changing attitudes  —  and regulation  —  around tax giveaways.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2X2Ni96&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2X2Ni96&amp;text=The+Legacy+Of+Amazon+HQ2%3A+Rebellion+Against+Corporate+Welfare&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2X2Ni96&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2X2Ni96&amp;text=The+Legacy+Of+Amazon+HQ2%3A+Rebellion+Against+Corporate+Welfare&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-9688c409787917d491cdfa4c1e6916489d3f05af:di
+
+
+"
+data-content-id="9688c409787917d491cdfa4c1e6916489d3f05af:di"
+data-contenturl="http://digg.com/2019/new-york-helicopter-crash-midtown-fire"
+data-position="5"
+data-datetime="1560192110.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/2019/new-york-helicopter-crash-midtown-fire" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/de13c47ec9dc44a08a71d357f018299c_55077555090d4db2ae5c20cf41fcf5a1_1_www_marquee_standard.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/2019/new-york-helicopter-crash-midtown-fire" target="_blank"
+
+>
+
+Helicopter Reportedly Crashes Onto Manhattan Tower Rooftop
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Hot Content™ brought to you by Skynet.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-10 18:41:50 GMT">
+<time datetime="2019-06-10 18:41:50 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+​Around 2 pm on Friday, reports came in of an aircraft crash at the top of the AXA Equitable Center, a 750-foot skyscraper in midtown Manhattan.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fdigg.com%2F2019%2Fnew-york-helicopter-crash-midtown-fire&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdigg.com%2F2019%2Fnew-york-helicopter-crash-midtown-fire&amp;text=Helicopter+Reportedly+Crashes+Onto+Manhattan+Tower+Rooftop&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fdigg.com%2F2019%2Fnew-york-helicopter-crash-midtown-fire&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdigg.com%2F2019%2Fnew-york-helicopter-crash-midtown-fire&amp;text=Helicopter+Reportedly+Crashes+Onto+Manhattan+Tower+Rooftop&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-311Ul13
+
+
+"
+data-content-id="311Ul13"
+data-contenturl="https://www.npr.org/2019/06/03/729263193/lawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder"
+data-position="6"
+data-datetime="1559604733.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.npr.org/2019/06/03/729263193/lawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.npr.org%2F2019%2F06%2F03%2F729263193%2Flawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder&amp;position=6&amp;content_id=311Ul13"
+
+>
+
+
+<img src="http://static.digg.com/images/4bd8a74b83da4566a34230902ea39af3_311Ul13_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+RIP
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.npr.org/2019/06/03/729263193/lawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.npr.org%2F2019%2F06%2F03%2F729263193%2Flawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder&amp;position=6&amp;content_id=311Ul13"
+
+>
+
+Lawrence Leathers, Grammy-Winning Jazz Drummer, Victim Of Suspected Murder
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/npr.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.npr.org%2F2019%2F06%2F03%2F729263193%2Flawrence-leathers-grammy-winning-jazz-drummer-victim-of-suspected-murder&amp;position=6&amp;content_id=311Ul13"
+
+>
+
+NPR
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-03 23:32:13 GMT">
+<time datetime="2019-06-03 23:32:13 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3 Jun</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Leathers was 37. He was killed on Sunday in the hallway of an apartment building in the Bronx, according to the NYPD. The police have arrested a suspect in connection to the incident.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F311Ul13&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F311Ul13&amp;text=Lawrence+Leathers%2C+Grammy-Winning+Jazz+Drummer%2C+Victim+Of+Suspected+Murder&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F311Ul13&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F311Ul13&amp;text=Lawrence+Leathers%2C+Grammy-Winning+Jazz+Drummer%2C+Victim+Of+Suspected+Murder&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-ed93844505b7a4ca407b6fc6482d978ac579e2fe:di
+
+
+"
+data-content-id="ed93844505b7a4ca407b6fc6482d978ac579e2fe:di"
+data-contenturl="https://www.nytimes.com/2019/05/30/nyregion/buying-luxury-apartments-nyc-real-estate.html"
+data-position="7"
+data-datetime="1559498409.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+is--nytimes
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nytimes.com/2019/05/30/nyregion/buying-luxury-apartments-nyc-real-estate.html" target="_blank"
+
+>
+
+
+<img src="https://static01.nyt.com/images/2019/06/02/nyregion/02nyluxury2/02nyluxury2-facebookJumbo.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nytimes.com/2019/05/30/nyregion/buying-luxury-apartments-nyc-real-estate.html" target="_blank"
+
+>
+
+Perk for the Ultrarich: Buy an $85 Million Apartment, Get a Trip to Space
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>We, too, anticipate our robot overlords with hope and trepidation.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.nytimes.com/2019/05/30/nyregion/buying-luxury-apartments-nyc-real-estate.html"
+target="_blank"
+
+
+>
+
+The New York Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-02 18:00:09 GMT">
+<time datetime="2019-06-02 18:00:09 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2 Jun</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+A Manhattan unit is being marketed with impressive incentives, including three luxury cars and a home in the Hamptons.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F30%2Fnyregion%2Fbuying-luxury-apartments-nyc-real-estate.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F30%2Fnyregion%2Fbuying-luxury-apartments-nyc-real-estate.html&amp;text=Perk+for+the+Ultrarich%3A+Buy+an+%2485+Million+Apartment%2C+Get+a+Trip+to+Space&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F30%2Fnyregion%2Fbuying-luxury-apartments-nyc-real-estate.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F30%2Fnyregion%2Fbuying-luxury-apartments-nyc-real-estate.html&amp;text=Perk+for+the+Ultrarich%3A+Buy+an+%2485+Million+Apartment%2C+Get+a+Trip+to+Space&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2QC1nER
+
+
+"
+data-content-id="2QC1nER"
+data-contenturl="https://www.buzzfeednews.com/article/justinbrannan/nyc-brooklyn-safe-citizen-app-freakout"
+data-position="8"
+data-datetime="1559391873.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.buzzfeednews.com/article/justinbrannan/nyc-brooklyn-safe-citizen-app-freakout" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Fjustinbrannan%2Fnyc-brooklyn-safe-citizen-app-freakout&amp;position=8&amp;content_id=2QC1nER"
+
+>
+
+
+<img src="http://static.digg.com/images/c1053e069abe44478534b0bf460a538d_2QC1nER_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+PANIC DELIVERED VIA PUSH NOTIFICATION
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.buzzfeednews.com/article/justinbrannan/nyc-brooklyn-safe-citizen-app-freakout" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Fjustinbrannan%2Fnyc-brooklyn-safe-citizen-app-freakout&amp;position=8&amp;content_id=2QC1nER"
+
+>
+
+NYC Is The Safest Big City, But Citizen Is Scaring The Hell Out Of People
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/buzzfeednews.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Fjustinbrannan%2Fnyc-brooklyn-safe-citizen-app-freakout&amp;position=8&amp;content_id=2QC1nER"
+
+>
+
+buzzfeednews.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Technology"
+data-tag-slug="technology"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/technology"
+>
+Technology
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Crime"
+data-tag-slug="crime"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/crime"
+>
+Crime
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-06-01 12:24:33 GMT">
+<time datetime="2019-06-01 12:24:33 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1 Jun</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Just as crime hits historic lows, people are consuming a freakout-inducing stream of every single 911 call in their neighborhood.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2QC1nER&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2QC1nER&amp;text=NYC+Is+The+Safest+Big+City%2C+But+Citizen+Is+Scaring+The+Hell+Out+Of+People&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2QC1nER&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2QC1nER&amp;text=NYC+Is+The+Safest+Big+City%2C+But+Citizen+Is+Scaring+The+Hell+Out+Of+People&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XapU6y
+
+
+"
+data-content-id="2XapU6y"
+data-contenturl="https://www.nytimes.com/interactive/2019/05/30/magazine/subway-dance-new-york.html"
+data-position="9"
+data-datetime="1559246953.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+is--nytimes
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nytimes.com/interactive/2019/05/30/magazine/subway-dance-new-york.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2019%2F05%2F30%2Fmagazine%2Fsubway-dance-new-york.html&amp;position=9&amp;content_id=2XapU6y"
+
+>
+
+
+<img src="http://static.digg.com/images/84c28d6926bb47d9b1a786250f568bfb_2XapU6y_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE REALITIES OF SHOWTIME
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nytimes.com/interactive/2019/05/30/magazine/subway-dance-new-york.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2019%2F05%2F30%2Fmagazine%2Fsubway-dance-new-york.html&amp;position=9&amp;content_id=2XapU6y"
+
+>
+
+The Life Of A Subway Dancer
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nytimes.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2019%2F05%2F30%2Fmagazine%2Fsubway-dance-new-york.html&amp;position=9&amp;content_id=2XapU6y"
+
+>
+
+The New York Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-30 20:09:12 GMT">
+<time datetime="2019-05-30 20:09:12 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>30 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Ikeem Jones dazzles commuters for as long as it takes to make $100.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XapU6y&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XapU6y&amp;text=The+Life+Of+A+Subway+Dancer&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XapU6y&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XapU6y&amp;text=The+Life+Of+A+Subway+Dancer&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2WcL3AB
+
+
+"
+data-content-id="2WcL3AB"
+data-contenturl="http://nymag.com/intelligencer/2019/05/new-york-infrastructure-costs.html"
+data-position="10"
+data-datetime="1559226758.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://nymag.com/intelligencer/2019/05/new-york-infrastructure-costs.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fnymag.com%2Fintelligencer%2F2019%2F05%2Fnew-york-infrastructure-costs.html&amp;position=10&amp;content_id=2WcL3AB"
+
+>
+
+
+<img src="http://static.digg.com/images/05c0857c3a7443a5afc042620e6424c7_2WcL3AB_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NOT A WALK IN THE PARK
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://nymag.com/intelligencer/2019/05/new-york-infrastructure-costs.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fnymag.com%2Fintelligencer%2F2019%2F05%2Fnew-york-infrastructure-costs.html&amp;position=10&amp;content_id=2WcL3AB"
+
+>
+
+Why New York Can't Have Nice Things
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nymag.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fnymag.com%2Fintelligencer%2F2019%2F05%2Fnew-york-infrastructure-costs.html&amp;position=10&amp;content_id=2WcL3AB"
+
+>
+
+New York Magazine
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Transportation"
+data-tag-slug="transportation"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/transportation"
+>
+Transportation
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-30 14:32:38 GMT">
+<time datetime="2019-05-30 14:32:38 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>30 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+It costs three times more to build a subway station here than in London or Paris. What if we could change that?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2WcL3AB&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2WcL3AB&amp;text=Why+New+York+Can%27t+Have+Nice+Things&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2WcL3AB&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2WcL3AB&amp;text=Why+New+York+Can%27t+Have+Nice+Things&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JQYKij
+
+
+"
+data-content-id="2JQYKij"
+data-contenturl="http://digg.com/2019/f-train-rat"
+data-position="11"
+data-datetime="1559155124.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/2019/f-train-rat" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/3cd7342e0b38441b9f1df3bc113e6f26_e72056745df44c64b40bdb5c74ccec83_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+ABSOLUTELY NOT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/2019/f-train-rat" target="_blank"
+
+>
+
+Another Day, Another Nightmare On The New York Subway
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Animals"
+data-tag-slug="animals"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/animals"
+>
+Animals
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-29 18:38:43 GMT">
+<time datetime="2019-05-29 18:38:43 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>29 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The New York City subway is full of delays, oddities and horrors, and this clip from the F Train is a whole new level of nightmare.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JQYKij&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JQYKij&amp;text=Another+Day%2C+Another+Nightmare+On+The+New+York+Subway&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JQYKij&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JQYKij&amp;text=Another+Day%2C+Another+Nightmare+On+The+New+York+Subway&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Et5ApK
+
+
+"
+data-content-id="2Et5ApK"
+data-contenturl="https://www.nytimes.com/2019/05/24/realestate/new-yorks-vanishing-diners.html"
+data-position="12"
+data-datetime="1558903126.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+is--nytimes
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nytimes.com/2019/05/24/realestate/new-yorks-vanishing-diners.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F24%2Frealestate%2Fnew-yorks-vanishing-diners.html&amp;position=12&amp;content_id=2Et5ApK"
+
+>
+
+
+<img src="http://static.digg.com/images/f5678c251bee47e1b734acdb27c55d86_2Et5ApK_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+ONE LAST MEAL
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nytimes.com/2019/05/24/realestate/new-yorks-vanishing-diners.html" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F24%2Frealestate%2Fnew-yorks-vanishing-diners.html&amp;position=12&amp;content_id=2Et5ApK"
+
+>
+
+New York's Vanishing Diners
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/nytimes.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F24%2Frealestate%2Fnew-yorks-vanishing-diners.html&amp;position=12&amp;content_id=2Et5ApK"
+
+>
+
+The New York Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Food"
+data-tag-slug="food"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/food"
+>
+Food
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-26 20:38:45 GMT">
+<time datetime="2019-05-26 20:38:45 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>26 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The diner's imprint on New York culture can be felt among the holdouts, the mourners of the recently shuttered and the restaurant owners who find life after the death of their diners.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Et5ApK&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Et5ApK&amp;text=New+York%27s+Vanishing+Diners&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Et5ApK&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Et5ApK&amp;text=New+York%27s+Vanishing+Diners&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2K42Ra1
+
+
+"
+data-content-id="2K42Ra1"
+data-contenturl="https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927"
+data-position="13"
+data-datetime="1558875690.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.politico.com%2Fmagazine%2Fstory%2F2019%2F05%2F23%2Fnew-york-city-without-cars-transportation-226927&amp;position=13&amp;content_id=2K42Ra1"
+
+>
+
+
+<img src="http://static.digg.com/images/a7a7a9620f684524a693c7a1bb391020_2K42Ra1_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+GETTING OUT OF A JAM
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.politico.com%2Fmagazine%2Fstory%2F2019%2F05%2F23%2Fnew-york-city-without-cars-transportation-226927&amp;position=13&amp;content_id=2K42Ra1"
+
+>
+
+New York Experiments With A 'Holy Grail' To End Gridlock
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/politico.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.politico.com%2Fmagazine%2Fstory%2F2019%2F05%2F23%2Fnew-york-city-without-cars-transportation-226927&amp;position=13&amp;content_id=2K42Ra1"
+
+>
+
+POLITICO
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Policy"
+data-tag-slug="policy"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/policy"
+>
+Policy
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Transportation"
+data-tag-slug="transportation"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/transportation"
+>
+Transportation
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-26 13:01:29 GMT">
+<time datetime="2019-05-26 13:01:29 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>26 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The first American city is about to try congestion pricing. Will it be a miracle or meh?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2K42Ra1&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2K42Ra1&amp;text=New+York+Experiments+With+A+%27Holy+Grail%27+To+End+Gridlock&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2K42Ra1&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2K42Ra1&amp;text=New+York+Experiments+With+A+%27Holy+Grail%27+To+End+Gridlock&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2WfjuGd
+
+
+"
+data-content-id="2WfjuGd"
+data-contenturl="http://digg.com/video/the-view-from-a-58-million-dollar-apartment"
+data-position="14"
+data-datetime="1558557801.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/video/the-view-from-a-58-million-dollar-apartment" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/a963e2f59e974ecaa44c5d93ee8483a2_e57d332f529d8be04b54d9911caff1a7_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+HIGHER THAN THE EMPIRE STATE BUILDING
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/the-view-from-a-58-million-dollar-apartment" target="_blank"
+
+>
+
+The View From A $58 Million Dollar Apartment In A 1,400+ Foot Skyscraper
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Architecture"
+data-tag-slug="architecture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/architecture"
+>
+Architecture
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Money"
+data-tag-slug="money"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/money"
+>
+Money
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-22 20:43:20 GMT">
+<time datetime="2019-05-22 20:43:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>22 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+This view is going to cost you a pretty penny.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2WfjuGd&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2WfjuGd&amp;text=The+View+From+A+%2458+Million+Dollar+Apartment+In+A+1%2C400%2B+Foot+Skyscraper&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2WfjuGd&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2WfjuGd&amp;text=The+View+From+A+%2458+Million+Dollar+Apartment+In+A+1%2C400%2B+Foot+Skyscraper&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-19da125253b1115528d10a890130aaf337b61355:di
+
+
+"
+data-content-id="19da125253b1115528d10a890130aaf337b61355:di"
+data-contenturl="https://jalopnik.com/new-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243"
+data-position="15"
+data-datetime="1558542497.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://jalopnik.com/new-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243" target="_blank"
+
+>
+
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--GrjxHPq3--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rm3hvfnstednl1bsop3n.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://jalopnik.com/new-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243" target="_blank"
+
+>
+
+New York Has a Supervillain Pulling Emergency Brakes and Destroying Subway Commutes
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Hot Content™ brought to you by Skynet.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://jalopnik.com/new-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243"
+target="_blank"
+
+
+>
+
+Jalopnik
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-22 16:28:17 GMT">
+<time datetime="2019-05-22 16:28:17 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>22 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+“This is a nutcase who is addicted to fucking with the trains.”
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fjalopnik.com%2Fnew-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjalopnik.com%2Fnew-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243&amp;text=New+York+Has+a+Supervillain+Pulling+Emergency+Brakes+and+Destroying+Subway+Commutes&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fjalopnik.com%2Fnew-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjalopnik.com%2Fnew-york-has-a-supervillain-pulling-emergency-brakes-an-1834936243&amp;text=New+York+Has+a+Supervillain+Pulling+Emergency+Brakes+and+Destroying+Subway+Commutes&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2M1x8c3
+
+
+"
+data-content-id="2M1x8c3"
+data-contenturl="http://gothamist.com/2019/05/22/brooklyn_heights_tunnels_jehovahs_witnesses.php"
+data-position="16"
+data-datetime="1558537314.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://gothamist.com/2019/05/22/brooklyn_heights_tunnels_jehovahs_witnesses.php" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fgothamist.com%2F2019%2F05%2F22%2Fbrooklyn_heights_tunnels_jehovahs_witnesses.php&amp;position=16&amp;content_id=2M1x8c3"
+
+>
+
+
+<img src="http://static.digg.com/images/9f8bf2f51b4641f79dac1259973f48c4_2M1x8c3_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+UNDERNEATH THE WATCHTOWER
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://gothamist.com/2019/05/22/brooklyn_heights_tunnels_jehovahs_witnesses.php" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fgothamist.com%2F2019%2F05%2F22%2Fbrooklyn_heights_tunnels_jehovahs_witnesses.php&amp;position=16&amp;content_id=2M1x8c3"
+
+>
+
+Inside The Lost Jehovah's Witnesses Tunnels Under Brooklyn Heights
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/gothamist.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fgothamist.com%2F2019%2F05%2F22%2Fbrooklyn_heights_tunnels_jehovahs_witnesses.php&amp;position=16&amp;content_id=2M1x8c3"
+
+>
+
+Gothamist
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Curious"
+data-tag-slug="curious"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/curious"
+>
+Curious
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-22 15:01:53 GMT">
+<time datetime="2019-05-22 15:01:53 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>22 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+When the Jehovah's Witnesses moved out of Brooklyn Heights over the past few years, cashing in on their now-valuable properties and moving upstate, they left behind a collection of buildings that had been their headquarters for over a century.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2M1x8c3&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2M1x8c3&amp;text=Inside+The+Lost+Jehovah%27s+Witnesses+Tunnels+Under+Brooklyn+Heights&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2M1x8c3&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2M1x8c3&amp;text=Inside+The+Lost+Jehovah%27s+Witnesses+Tunnels+Under+Brooklyn+Heights&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-e573bc84bdc25d5a27c8b959a7ec91b8f5c20d15:di
+
+
+"
+data-content-id="e573bc84bdc25d5a27c8b959a7ec91b8f5c20d15:di"
+data-contenturl="https://www.nytimes.com/2019/05/22/nyregion/rat-infestation-nyc.html"
+data-position="17"
+data-datetime="1558531088.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+is--nytimes
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.nytimes.com/2019/05/22/nyregion/rat-infestation-nyc.html" target="_blank"
+
+>
+
+
+<img src="https://static01.nyt.com/images/2019/05/21/nyregion/00rats01/00rats01-facebookJumbo.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.nytimes.com/2019/05/22/nyregion/rat-infestation-nyc.html" target="_blank"
+
+>
+
+Rats Are Taking Over New York City
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Hot Content™ brought to you by Skynet.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.nytimes.com/2019/05/22/nyregion/rat-infestation-nyc.html"
+target="_blank"
+
+
+>
+
+The New York Times
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-22 13:18:08 GMT">
+<time datetime="2019-05-22 13:18:08 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>22 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Gentrifying neighborhoods are a key reason behind the vermin outbreak, which extends beyond New York — Philadelphia, Chicago and Los Angeles are also confronting issues.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F22%2Fnyregion%2Frat-infestation-nyc.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F22%2Fnyregion%2Frat-infestation-nyc.html&amp;text=Rats+Are+Taking+Over+New+York+City&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F22%2Fnyregion%2Frat-infestation-nyc.html&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F05%2F22%2Fnyregion%2Frat-infestation-nyc.html&amp;text=Rats+Are+Taking+Over+New+York+City&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2EcNJTI
+
+
+"
+data-content-id="2EcNJTI"
+data-contenturl="http://digg.com/2019/new-york-helicopter-crash-hudson-river"
+data-position="18"
+data-datetime="1557948634.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/2019/new-york-helicopter-crash-hudson-river" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/0b7487f041d649188ccc2e0e0d6e9685_2EcNJTI_3_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WHOA
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/2019/new-york-helicopter-crash-hudson-river" target="_blank"
+
+>
+
+Helicopter Plummets Out Of The Sky Into New York's Hudson River
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Video"
+data-tag-slug="video"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/video"
+>
+Video
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-15 19:30:33 GMT">
+<time datetime="2019-05-15 19:30:33 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>15 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Luckily, the pilot and a heliport worker only suffered non-life-threatening injuries.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2EcNJTI&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2EcNJTI&amp;text=Helicopter+Plummets+Out+Of+The+Sky+Into+New+York%27s+Hudson+River&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2EcNJTI&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2EcNJTI&amp;text=Helicopter+Plummets+Out+Of+The+Sky+Into+New+York%27s+Hudson+River&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Htvfiy
+
+
+"
+data-content-id="2Htvfiy"
+data-contenturl="https://www.vice.com/en_us/article/bj9vjm/underground-photos-from-new-yorks-seediest-years"
+data-position="19"
+data-datetime="1557944580.0"
+data-source="channel.new-york-city"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vice.com/en_us/article/bj9vjm/underground-photos-from-new-yorks-seediest-years" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fbj9vjm%2Funderground-photos-from-new-yorks-seediest-years&amp;position=19&amp;content_id=2Htvfiy"
+
+>
+
+
+<img src="http://static.digg.com/images/81af3d0d140844588fb37e9eb905aaf4_2Htvfiy_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+TIMES SQUARE IS A CHANGIN'
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vice.com/en_us/article/bj9vjm/underground-photos-from-new-yorks-seediest-years" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fbj9vjm%2Funderground-photos-from-new-yorks-seediest-years&amp;position=19&amp;content_id=2Htvfiy"
+
+>
+
+Underground Photos From New York's Seediest Years
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/vice.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fbj9vjm%2Funderground-photos-from-new-yorks-seediest-years&amp;position=19&amp;content_id=2Htvfiy"
+
+>
+
+VICE
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Photos"
+data-tag-slug="photos"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/photos"
+>
+Photos
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="New York City"
+data-tag-slug="new-york-city"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/new-york-city"
+>
+New York City
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-15 18:23:00 GMT">
+<time datetime="2019-05-15 18:23:00 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>15 May</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Miron Zownir captures the provocative energy and aggressive hedonism of the city in the 80s.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Htvfiy&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Htvfiy&amp;text=Underground+Photos+From+New+York%27s+Seediest+Years&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Htvfiy&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Htvfiy&amp;text=Underground+Photos+From+New+York%27s+Seediest+Years&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+</div>
+<div class="digg-story-stream__loading-icon"></div>
+<div class="digg-story-stream__error js--digg-story-stream__error"></div>
+
+<div class="digg-story-stream__read-more js--digg-story-stream__read-more">
+That's our best stuff for today. Great job!
+<a href="#" class="digg-story-stream__read-more__link">Read more</a>
+</div>
+
+</div>
+</section>
+<div class="col-right">
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="js--story-sources" class="modal-story-sources modal--v2 modal hide fade">
+<div class="modal--v2__header">
+<div class="modal--v2__close js--btn-modal-close" data-dismiss="modal" aria-label="Close">&#x2716;</div>
+<div class="modal__header-text">Also On</div>
+</div>
+<div class="modal--v2__body">
+<div id="js--story-sources__main-item"></div>
+<div class="story-source__related-hdr digg-story__also-on__label" id="js--story-source__related-hdr"></div>
+<div id="js--story-sources__related"></div>
+</div>
+</div>
+<form>
+<input type="hidden" name="_xsrf" value="dd5e28f694e24f1d86ff4768518c9258"/>
+</form>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/channel_v2_1.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+window._sf_async_config.useCanonical = true;
+
+
+window._sf_async_config.sections = "Channels";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>

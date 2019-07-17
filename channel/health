@@ -1,0 +1,7036 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/channel/health" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content="Health">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/channel/health" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Health" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+<meta name="description" content="Health on Digg: the best articles, videos, tweets, and original content that the web is talking about right now.">
+<meta name="twitter:description" content="Health on Digg: the best articles, videos, tweets, and original content that the web is talking about right now." />
+<meta property="og:description" content="Health on Digg: the best articles, videos, tweets, and original content that the web is talking about right now." />
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title>Health - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Sleep Stories RSS" href="/channel/health.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+</script>
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/channel_v2_1.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<style type="text/css">
+
+
+
+
+
+
+
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/channel/health&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=58636481.2005812889.1563332632.1563332632.1563332632&_utmz=58636481.1563332632.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=2005812889.1563332632&tid=UA-33556916-1&z=2005812889
+" border="0">
+</noscript>
+
+
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_feed', ['fluid', [1, 1]], 'gpt--channel_feed')
+
+.addService(googletag.pubads());
+
+
+googletag.defineSlot('/89446989/digg.channel.index.channel_featured_grid', ['fluid', [1, 1]], 'gpt--channel_featured_grid')
+
+.addService(googletag.pubads());
+
+
+googletag.pubads().setTargeting('digg-page', 'index');
+
+googletag.pubads().setTargeting('digg-section', 'channel');
+
+googletag.pubads().setTargeting('digg-slug', 'health');
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+//googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="channel">
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+site-header--secondary
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fchannel%2Fhealth" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+<div class="site-header__title-wrapper">
+<div class="site-header__title">
+<span class="site-header__title__live">Live</span>
+
+<span class="site-header__title__text js--site-header__title">Health</span>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+
+
+<div id="js--content-main" class="content-main channel-page--branded" role="main">
+
+
+
+<div class="channel__subnav-outer">
+<div class="channel__subnav scrollable">
+
+
+<a class="channel__subnav__nav-item" href="/channel/technology">
+
+Tech<span class="channel__subnav__nav-item-abbrev-truncate">nology</span>
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/longreads">
+
+Long Reads
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/science">
+
+Science
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/donaldtrump">
+
+Donald Trump
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/news">
+
+News
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/entertainment">
+
+Entertainment
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/digg-feature">
+
+Digg Features
+
+</a>
+
+
+<a class="channel__subnav__nav-item" href="/channel/originals">
+
+Originals
+
+</a>
+
+
+</div>
+</div>
+
+<div class="channel-branding--plain js--channel-branding">
+
+<div class="channel-branding__overlay"></div>
+<div class="channel-branding-content">
+<div class="channel-branding-content-inner">
+
+<div class="channel-branding-title">
+
+
+
+Health
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="channel__body has--col-right">
+<section
+class="digg-story-stream digg-story-stream--v2 js--tag-profile col-left"
+data-tag-name="Health"
+data-tag-slug="health"
+data-tag-id="e1ed8240893247b581e18a4dd30813a0"
+data-new-items-polling="false"
+>
+<div class="digg-story-stream--v2__hdr">
+
+Latest News
+
+</div>
+<div
+class="digg-user-diggs js--digg-story-stream"
+data-next-position="1562763480.0"
+data-tracking-section="Tag Page"
+data-new-items-polling="false"
+>
+<div class="js--digg-story-stream__stories">
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-32pBspL
+
+
+"
+data-content-id="32pBspL"
+data-contenturl="https://www.theatlantic.com/science/archive/2019/07/apollo-11-moon-heart-rates/593971/"
+data-position="0"
+data-datetime="1563324261.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.theatlantic.com/science/archive/2019/07/apollo-11-moon-heart-rates/593971/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F07%2Fapollo-11-moon-heart-rates%2F593971%2F&amp;position=0&amp;content_id=32pBspL"
+
+>
+
+
+<img src="http://static.digg.com/images/b853df7223384aafb1a53d5bc4f1ef91_32pBspL_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE PRESSURE OF SPACE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.theatlantic.com/science/archive/2019/07/apollo-11-moon-heart-rates/593971/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F07%2Fapollo-11-moon-heart-rates%2F593971%2F&amp;position=0&amp;content_id=32pBspL"
+
+>
+
+The Moment That Made Neil Armstrong's Heart Rate Spike
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/theatlantic.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2019%2F07%2Fapollo-11-moon-heart-rates%2F593971%2F&amp;position=0&amp;content_id=32pBspL"
+
+>
+
+The Atlantic
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Space"
+data-tag-slug="space"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/space"
+>
+Space
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-17 00:44:20 GMT">
+<time datetime="2019-07-17 00:44:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Real-time data from the Apollo 11 astronauts, carefully monitored by Mission Control, capture the frenzied maneuvers that put men on the moon.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32pBspL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32pBspL&amp;text=The+Moment+That+Made+Neil+Armstrong%27s+Heart+Rate+Spike&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32pBspL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32pBspL&amp;text=The+Moment+That+Made+Neil+Armstrong%27s+Heart+Rate+Spike&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2k9CKDS
+
+
+"
+data-content-id="2k9CKDS"
+data-contenturl="https://longreads.com/2019/07/16/whole-60/"
+data-position="1"
+data-datetime="1563324260.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://longreads.com/2019/07/16/whole-60/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F16%2Fwhole-60%2F&amp;position=1&amp;content_id=2k9CKDS"
+
+>
+
+
+<img src="http://static.digg.com/images/2ddefce8f9a14e378c31f0f3adf3ecd3_2k9CKDS_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+VIGNETTES ABOUT AGING GRACEFULLY (?)
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://longreads.com/2019/07/16/whole-60/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F16%2Fwhole-60%2F&amp;position=1&amp;content_id=2k9CKDS"
+
+>
+
+Whole 60
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/longreads.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flongreads.com%2F2019%2F07%2F16%2Fwhole-60%2F&amp;position=1&amp;content_id=2k9CKDS"
+
+>
+
+longreads.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Personal Essay"
+data-tag-slug="personal-essay"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/personal-essay"
+>
+Personal Essay
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Sex"
+data-tag-slug="sex"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sex"
+>
+Sex
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Funny"
+data-tag-slug="funny"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/funny"
+>
+Funny
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Books"
+data-tag-slug="books"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/books"
+>
+Books
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-17 00:44:20 GMT">
+<time datetime="2019-07-17 00:44:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+This diet plan requires that you eat whatever you want whenever you want to eat it, and declare yourself beautiful. We’re not going to lie — it's really hard.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k9CKDS&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k9CKDS&amp;text=Whole+60&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k9CKDS&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k9CKDS&amp;text=Whole+60&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2k4e2EL
+
+
+"
+data-content-id="2k4e2EL"
+data-contenturl="https://elemental.medium.com/pump-you-up-the-enduring-power-of-protein-powder-bcaf31610633"
+data-position="2"
+data-datetime="1563319824.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://elemental.medium.com/pump-you-up-the-enduring-power-of-protein-powder-bcaf31610633" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Felemental.medium.com%2Fpump-you-up-the-enduring-power-of-protein-powder-bcaf31610633&amp;position=2&amp;content_id=2k4e2EL"
+
+>
+
+
+<img src="http://static.digg.com/images/de0b409d658542ed8e2f8ed02bf8af77_2k4e2EL_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SHAKING IT UP
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://elemental.medium.com/pump-you-up-the-enduring-power-of-protein-powder-bcaf31610633" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Felemental.medium.com%2Fpump-you-up-the-enduring-power-of-protein-powder-bcaf31610633&amp;position=2&amp;content_id=2k4e2EL"
+
+>
+
+The Enduring Power Of Protein Powder
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/elemental.medium.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Felemental.medium.com%2Fpump-you-up-the-enduring-power-of-protein-powder-bcaf31610633&amp;position=2&amp;content_id=2k4e2EL"
+
+>
+
+elemental.medium.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Food"
+data-tag-slug="food"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/food"
+>
+Food
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Sports"
+data-tag-slug="sports"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sports"
+>
+Sports
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 23:30:23 GMT">
+<time datetime="2019-07-16 23:30:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The biggest issue with protein powders is what else might be in them.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k4e2EL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k4e2EL&amp;text=The+Enduring+Power+Of+Protein+Powder&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2k4e2EL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2k4e2EL&amp;text=The+Enduring+Power+Of+Protein+Powder&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+
+<div class="gpt-ad gpt--channel_feed js--gpt--channel_feed" id="gpt--channel_feed" data-ad-unit-component="channel_feed">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt--channel_feed'); });
+</script>
+
+</div>
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2LT588D
+
+
+"
+data-content-id="2LT588D"
+data-contenturl="https://lifehacker.com/you-need-to-wear-sunscreen-on-an-airplane-1836371739"
+data-position="3"
+data-datetime="1563319823.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://lifehacker.com/you-need-to-wear-sunscreen-on-an-airplane-1836371739" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flifehacker.com%2Fyou-need-to-wear-sunscreen-on-an-airplane-1836371739&amp;position=3&amp;content_id=2LT588D"
+
+>
+
+
+<img src="http://static.digg.com/images/8db3080ee2724f02abc60b9fe108c2d3_2LT588D_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WILL NOT SEE THE LIGHT OF DAY
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://lifehacker.com/you-need-to-wear-sunscreen-on-an-airplane-1836371739" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flifehacker.com%2Fyou-need-to-wear-sunscreen-on-an-airplane-1836371739&amp;position=3&amp;content_id=2LT588D"
+
+>
+
+You Need To Wear Sunscreen On An Airplane
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/lifehacker.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Flifehacker.com%2Fyou-need-to-wear-sunscreen-on-an-airplane-1836371739&amp;position=3&amp;content_id=2LT588D"
+
+>
+
+Lifehacker
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Aviation"
+data-tag-slug="aviation"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/aviation"
+>
+Aviation
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 23:30:22 GMT">
+<time datetime="2019-07-16 23:30:22 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The fact that our skin is more susceptible to sun damage when we're in the sky is something we're rarely warned about.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LT588D&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LT588D&amp;text=You+Need+To+Wear+Sunscreen+On+An+Airplane&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LT588D&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LT588D&amp;text=You+Need+To+Wear+Sunscreen+On+An+Airplane&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2SjwQfX
+
+
+"
+data-content-id="2SjwQfX"
+data-contenturl="https://www.newyorker.com/magazine/2019/07/22/the-promise-and-price-of-cellular-therapies?mbid=synd_digg"
+data-position="4"
+data-datetime="1563280123.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.newyorker.com/magazine/2019/07/22/the-promise-and-price-of-cellular-therapies?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2019%2F07%2F22%2Fthe-promise-and-price-of-cellular-therapies%3Fmbid%3Dsynd_digg&amp;position=4&amp;content_id=2SjwQfX"
+
+>
+
+
+<img src="http://static.digg.com/images/875c0f9d30bf464d908f7d3ebbee7085_2SjwQfX_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+COST/BENEFIT
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.newyorker.com/magazine/2019/07/22/the-promise-and-price-of-cellular-therapies?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2019%2F07%2F22%2Fthe-promise-and-price-of-cellular-therapies%3Fmbid%3Dsynd_digg&amp;position=4&amp;content_id=2SjwQfX"
+
+>
+
+Cellular Therapy Breakthroughs Could Save Lives— Can Anyone Afford Them?
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/newyorker.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2019%2F07%2F22%2Fthe-promise-and-price-of-cellular-therapies%3Fmbid%3Dsynd_digg&amp;position=4&amp;content_id=2SjwQfX"
+
+>
+
+The New Yorker
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 12:28:43 GMT">
+<time datetime="2019-07-16 12:28:43 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>14h</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+New "living drugs" — made from a patient's own cells — can cure once incurable cancers. But can we afford them?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2SjwQfX&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2SjwQfX&amp;text=Cellular+Therapy+Breakthroughs+Could+Save+Lives%E2%80%94+Can+Anyone+Afford+Them%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2SjwQfX&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2SjwQfX&amp;text=Cellular+Therapy+Breakthroughs+Could+Save+Lives%E2%80%94+Can+Anyone+Afford+Them%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2LUzZSy
+
+
+"
+data-content-id="2LUzZSy"
+data-contenturl="https://www.vice.com/en_us/article/j5wzn7/the-vaccine-that-could-prevent-stress-anxiety-and-depression"
+data-position="5"
+data-datetime="1563206851.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vice.com/en_us/article/j5wzn7/the-vaccine-that-could-prevent-stress-anxiety-and-depression" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5wzn7%2Fthe-vaccine-that-could-prevent-stress-anxiety-and-depression&amp;position=5&amp;content_id=2LUzZSy"
+
+>
+
+
+<img src="http://static.digg.com/images/6078dc9dd2b24c9f81c89b59c4853a15_2LUzZSy_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+AN INFLAMED SITUATION
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vice.com/en_us/article/j5wzn7/the-vaccine-that-could-prevent-stress-anxiety-and-depression" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5wzn7%2Fthe-vaccine-that-could-prevent-stress-anxiety-and-depression&amp;position=5&amp;content_id=2LUzZSy"
+
+>
+
+The Vaccine That Could Prevent Stress, Anxiety And Depression
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/vice.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5wzn7%2Fthe-vaccine-that-could-prevent-stress-anxiety-and-depression&amp;position=5&amp;content_id=2LUzZSy"
+
+>
+
+VICE
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-15 16:07:31 GMT">
+<time datetime="2019-07-15 16:07:31 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+As mental health disorders run rampant, scientists are trying to make an immunization from bacteria that could help.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LUzZSy&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LUzZSy&amp;text=The+Vaccine+That+Could+Prevent+Stress%2C+Anxiety+And+Depression&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LUzZSy&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LUzZSy&amp;text=The+Vaccine+That+Could+Prevent+Stress%2C+Anxiety+And+Depression&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2YNsJeP
+
+
+"
+data-content-id="2YNsJeP"
+data-contenturl="https://qz.com/1662990/scientists-could-have-a-better-way-to-spot-early-signs-of-dementia/"
+data-position="6"
+data-datetime="1563127307.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://qz.com/1662990/scientists-could-have-a-better-way-to-spot-early-signs-of-dementia/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fqz.com%2F1662990%2Fscientists-could-have-a-better-way-to-spot-early-signs-of-dementia%2F&amp;position=6&amp;content_id=2YNsJeP"
+
+>
+
+
+<img src="http://static.digg.com/images/3084697970cb4b1d88d5c73a124f8b47_b5672aad6049b721ee316dce2b953d80_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THESE EYES
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://qz.com/1662990/scientists-could-have-a-better-way-to-spot-early-signs-of-dementia/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fqz.com%2F1662990%2Fscientists-could-have-a-better-way-to-spot-early-signs-of-dementia%2F&amp;position=6&amp;content_id=2YNsJeP"
+
+>
+
+Scientists May Have Found A Better Way To Spot Early Signs Of Dementia: Our Eyes
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/qz.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fqz.com%2F1662990%2Fscientists-could-have-a-better-way-to-spot-early-signs-of-dementia%2F&amp;position=6&amp;content_id=2YNsJeP"
+
+>
+
+Quartz
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-14 18:01:46 GMT">
+<time datetime="2019-07-14 18:01:46 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+As our body’s central control center, the brain has to keep going at all costs. It makes sense that it’s surrounded by biological safeguards: a bony skull, a sack of tissue, and blood vessels that filter out most infectious bugs.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YNsJeP&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YNsJeP&amp;text=Scientists+May+Have+Found+A+Better+Way+To+Spot+Early+Signs+Of+Dementia%3A+Our+Eyes&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2YNsJeP&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2YNsJeP&amp;text=Scientists+May+Have+Found+A+Better+Way+To+Spot+Early+Signs+Of+Dementia%3A+Our+Eyes&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-333a676f5c45997edfedf92cee9c40c02c337f8b:di
+
+
+"
+data-content-id="333a676f5c45997edfedf92cee9c40c02c337f8b:di"
+data-contenturl="https://www.glamour.com/story/park-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment?mbid=synd_digg"
+data-position="7"
+data-datetime="1563032371.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.glamour.com/story/park-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment?mbid=synd_digg" target="_blank"
+
+>
+
+
+<img src="https://media.glamour.com/photos/5d260f3bc5527e0008b7100f/16:9/w_1280,c_limit/GettyImages-867195960.jpg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.glamour.com/story/park-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment?mbid=synd_digg" target="_blank"
+
+>
+
+Doctors Are Prescribing Nature to Improve Your Health
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>These bots are making our editorial team jealous.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.glamour.com/story/park-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment?mbid=synd_digg"
+target="_blank"
+
+
+>
+
+glamour.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 15:39:31 GMT">
+<time datetime="2019-07-13 15:39:31 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Spending time in nature as a treatment for everything from chronic stress to hypertension is gaining steam among mainstream docs. Can taking a walk in the park really cure all ills?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.glamour.com%2Fstory%2Fpark-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment%3Fmbid%3Dsynd_digg&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.glamour.com%2Fstory%2Fpark-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment%3Fmbid%3Dsynd_digg&amp;text=Doctors+Are+Prescribing+Nature+to+Improve+Your+Health&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.glamour.com%2Fstory%2Fpark-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment%3Fmbid%3Dsynd_digg&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.glamour.com%2Fstory%2Fpark-prescriptions-are-gaining-steam-as-a-mainstream-medical-treatment%3Fmbid%3Dsynd_digg&amp;text=Doctors+Are+Prescribing+Nature+to+Improve+Your+Health&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-59dd11d3a44019b688e575edb266d46f9e3fff1c:di
+
+
+"
+data-content-id="59dd11d3a44019b688e575edb266d46f9e3fff1c:di"
+data-contenturl="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life"
+data-position="8"
+data-datetime="1563021115.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life" target="_blank"
+
+>
+
+
+<img src="https://video-images.vice.com/articles/5d24e169fdeb46000a542044/lede/1562698940426-CLIMATE_CHANGE_WORKING_04_061219.png?crop=1xw:1xh;center,center&amp;resize=1200:*" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life" target="_blank"
+
+>
+
+'Climate Despair' Is Making People Give Up on Life
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>Algorithms helped find this.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.vice.com/en_us/article/j5w374/climate-despair-is-making-people-give-up-on-life"
+target="_blank"
+
+
+>
+
+VICE
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-13 12:31:55 GMT">
+<time datetime="2019-07-13 12:31:55 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+"It's super painful to be a human being right now at this point in history."
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;text=%27Climate+Despair%27+Is+Making+People+Give+Up+on+Life&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fj5w374%2Fclimate-despair-is-making-people-give-up-on-life&amp;text=%27Climate+Despair%27+Is+Making+People+Give+Up+on+Life&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JGUleZ
+
+
+"
+data-content-id="2JGUleZ"
+data-contenturl="https://melmagazine.com/en-us/story/ranking-energy-bars-by-how-healthy-they-are"
+data-position="9"
+data-datetime="1562945837.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://melmagazine.com/en-us/story/ranking-energy-bars-by-how-healthy-they-are" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fmelmagazine.com%2Fen-us%2Fstory%2Franking-energy-bars-by-how-healthy-they-are&amp;position=9&amp;content_id=2JGUleZ"
+
+>
+
+
+<img src="http://static.digg.com/images/38f748e753c2492d9ba393f058bbc4c3_2JGUleZ_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WELL, SUGAR DOES GIVE YOU ENERGY
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://melmagazine.com/en-us/story/ranking-energy-bars-by-how-healthy-they-are" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fmelmagazine.com%2Fen-us%2Fstory%2Franking-energy-bars-by-how-healthy-they-are&amp;position=9&amp;content_id=2JGUleZ"
+
+>
+
+Ranking Energy Bars By How Healthy They Are
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/melmagazine.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fmelmagazine.com%2Fen-us%2Fstory%2Franking-energy-bars-by-how-healthy-they-are&amp;position=9&amp;content_id=2JGUleZ"
+
+>
+
+melmagazine.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Food"
+data-tag-slug="food"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/food"
+>
+Food
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-12 15:37:17 GMT">
+<time datetime="2019-07-12 15:37:17 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+LÄRABAR? KIND bar? CLIF bar? Which one's actually healthy? And why the hell can't their package designers figure out how to turn off CAPS LOCK?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JGUleZ&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JGUleZ&amp;text=Ranking+Energy+Bars+By+How+Healthy+They+Are&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JGUleZ&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JGUleZ&amp;text=Ranking+Energy+Bars+By+How+Healthy+They+Are&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JBdT4r
+
+
+"
+data-content-id="2JBdT4r"
+data-contenturl="https://aeon.co/essays/why-the-constant-trashing-of-antidepressants-is-absurd?utm_medium=feed&amp;utm_source=atom-feed"
+data-position="10"
+data-datetime="1562889513.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://aeon.co/essays/why-the-constant-trashing-of-antidepressants-is-absurd?utm_medium=feed&amp;utm_source=atom-feed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Faeon.co%2Fessays%2Fwhy-the-constant-trashing-of-antidepressants-is-absurd%3Futm_medium%3Dfeed%26utm_source%3Datom-feed&amp;position=10&amp;content_id=2JBdT4r"
+
+>
+
+
+<img src="http://static.digg.com/images/0e58bc5c9e8d40b9932d31a2d0357b4c_2JBdT4r_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A HARD PILL TO SWALLOW
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://aeon.co/essays/why-the-constant-trashing-of-antidepressants-is-absurd?utm_medium=feed&amp;utm_source=atom-feed" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Faeon.co%2Fessays%2Fwhy-the-constant-trashing-of-antidepressants-is-absurd%3Futm_medium%3Dfeed%26utm_source%3Datom-feed&amp;position=10&amp;content_id=2JBdT4r"
+
+>
+
+In Defense Of Antidepressants
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/aeon.co"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Faeon.co%2Fessays%2Fwhy-the-constant-trashing-of-antidepressants-is-absurd%3Futm_medium%3Dfeed%26utm_source%3Datom-feed&amp;position=10&amp;content_id=2JBdT4r"
+
+>
+
+aeon.co
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Drugs"
+data-tag-slug="drugs"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/drugs"
+>
+Drugs
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 23:58:33 GMT">
+<time datetime="2019-07-11 23:58:33 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The backlash against antidepressants results from a suspicion of medicine and misunderstands the very nature of depression.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JBdT4r&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JBdT4r&amp;text=In+Defense+Of+Antidepressants&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JBdT4r&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JBdT4r&amp;text=In+Defense+Of+Antidepressants&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2JzjxnT
+
+
+"
+data-content-id="2JzjxnT"
+data-contenturl="https://www.wired.com/story/inside-bulletproof-coffee-guys-new-body-hacking-gym/?mbid=synd_digg"
+data-position="11"
+data-datetime="1562885339.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.wired.com/story/inside-bulletproof-coffee-guys-new-body-hacking-gym/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Finside-bulletproof-coffee-guys-new-body-hacking-gym%2F%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2JzjxnT"
+
+>
+
+
+<img src="http://static.digg.com/images/e72042ef831e46e586a58bf11cd4edd0_2JzjxnT_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+IS THAT SNAKE OIL IN YOUR COFFEE?
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.wired.com/story/inside-bulletproof-coffee-guys-new-body-hacking-gym/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Finside-bulletproof-coffee-guys-new-body-hacking-gym%2F%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2JzjxnT"
+
+>
+
+Inside The Bulletproof Coffee Guy's New Bodyhacking Gym
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wired.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wired.com%2Fstory%2Finside-bulletproof-coffee-guys-new-body-hacking-gym%2F%3Fmbid%3Dsynd_digg&amp;position=11&amp;content_id=2JzjxnT"
+
+>
+
+Wired
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 22:48:59 GMT">
+<time datetime="2019-07-11 22:48:59 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The new Upgrade Labs facility has the gleaming white, spa-like aesthetic of your standard five-star hotel gym, but the front desk staff has you fill out a lengthy waiver before you enter. Personal trainers are called Biohacker Technicians.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JzjxnT&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JzjxnT&amp;text=Inside+The+Bulletproof+Coffee+Guy%27s+New+Bodyhacking+Gym&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2JzjxnT&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2JzjxnT&amp;text=Inside+The+Bulletproof+Coffee+Guy%27s+New+Bodyhacking+Gym&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2NOqUgD
+
+
+"
+data-content-id="2NOqUgD"
+data-contenturl="https://thewirecutter.com/blog/history-of-the-treadmill/"
+data-position="12"
+data-datetime="1562881418.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://thewirecutter.com/blog/history-of-the-treadmill/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fthewirecutter.com%2Fblog%2Fhistory-of-the-treadmill%2F&amp;position=12&amp;content_id=2NOqUgD"
+
+>
+
+
+<img src="http://static.digg.com/images/ebb5a8abb37840b5b4d9caf95b5e62cc_2NOqUgD_3_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+LET'S GET PHYSICAL
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://thewirecutter.com/blog/history-of-the-treadmill/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fthewirecutter.com%2Fblog%2Fhistory-of-the-treadmill%2F&amp;position=12&amp;content_id=2NOqUgD"
+
+>
+
+The Torturous History Of The Treadmill
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/thewirecutter.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fthewirecutter.com%2Fblog%2Fhistory-of-the-treadmill%2F&amp;position=12&amp;content_id=2NOqUgD"
+
+>
+
+The Wirecutter
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 21:43:38 GMT">
+<time datetime="2019-07-11 21:43:38 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Treadmills are one of the most popular fitness machines in the world, but they were originally invented as a way to "reform" (and torture) prisoners in English jails.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NOqUgD&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NOqUgD&amp;text=The+Torturous+History+Of+The+Treadmill&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NOqUgD&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NOqUgD&amp;text=The+Torturous+History+Of+The+Treadmill&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-c8b90511bab856a07fb3d30575dca8ddaf505feb:di
+
+
+"
+data-content-id="c8b90511bab856a07fb3d30575dca8ddaf505feb:di"
+data-contenturl="https://www.vice.com/en_us/article/neap7z/the-rise-of-a-mysteriously-effective-therapy-for-trauma"
+data-position="13"
+data-datetime="1562877274.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vice.com/en_us/article/neap7z/the-rise-of-a-mysteriously-effective-therapy-for-trauma" target="_blank"
+
+>
+
+
+<img src="https://video-images.vice.com/articles/5d274c4f4feba9000838afc3/lede/1562857320178-EMDR_EB.jpeg?crop=1xw:1xh;center,center&amp;resize=1200:*" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vice.com/en_us/article/neap7z/the-rise-of-a-mysteriously-effective-therapy-for-trauma" target="_blank"
+
+>
+
+Even Scientists Don't Understand This Mysteriously Effective Therapy for Trauma
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<svg class="ico-bolt" viewBox="0 0 11 11" width="11" height="11" xmlns="http://www.w3.org/2000/svg"><title>These bots are making our editorial team jealous.</title><path fill="#ec752b" fill-rule="evenodd" d="M5.962 3.96H10L4.9 10l.716-4.04H2L6.66 0l-.698 3.96z"/></svg>
+
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__link
+"
+
+
+href="https://www.vice.com/en_us/article/neap7z/the-rise-of-a-mysteriously-effective-therapy-for-trauma"
+target="_blank"
+
+
+>
+
+VICE
+
+</a>
+</span>
+
+
+
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 20:34:34 GMT">
+<time datetime="2019-07-11 20:34:34 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+An increasingly popular treatment called EMDR is bizarre to say the least. But mainstream psychologists are embracing it.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fneap7z%2Fthe-rise-of-a-mysteriously-effective-therapy-for-trauma&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fneap7z%2Fthe-rise-of-a-mysteriously-effective-therapy-for-trauma&amp;text=Even+Scientists+Don%27t+Understand+This+Mysteriously+Effective+Therapy+for+Trauma&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fneap7z%2Fthe-rise-of-a-mysteriously-effective-therapy-for-trauma&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fneap7z%2Fthe-rise-of-a-mysteriously-effective-therapy-for-trauma&amp;text=Even+Scientists+Don%27t+Understand+This+Mysteriously+Effective+Therapy+for+Trauma&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2jByRao
+
+
+"
+data-content-id="2jByRao"
+data-contenturl="https://arstechnica.com/science/2019/07/mysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc/?mbid=synd_digg"
+data-position="14"
+data-datetime="1562861922.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://arstechnica.com/science/2019/07/mysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2019%2F07%2Fmysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc%2F%3Fmbid%3Dsynd_digg&amp;position=14&amp;content_id=2jByRao"
+
+>
+
+
+<img src="http://static.digg.com/images/856db7c976ad41fb9658c452b71b9ae0_2jByRao_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+AN URGENT RIDDLE
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://arstechnica.com/science/2019/07/mysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc/?mbid=synd_digg" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2019%2F07%2Fmysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc%2F%3Fmbid%3Dsynd_digg&amp;position=14&amp;content_id=2jByRao"
+
+>
+
+Mysterious Illness That Paralyzes Healthy Kids Prompts Plea From CDC
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/arstechnica.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Farstechnica.com%2Fscience%2F2019%2F07%2Fmysterious-illness-that-paralyses-healthy-kids-prompts-plea-from-cdc%2F%3Fmbid%3Dsynd_digg&amp;position=14&amp;content_id=2jByRao"
+
+>
+
+Ars Technica
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 16:18:42 GMT">
+<time datetime="2019-07-11 16:18:42 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Acute flaccid myelitis, or AFM, first gained attention in 2014, when health officials noted a spike in the polio-like condition nationwide and began carefully documenting cases. Since then, health officials have seen a distinct every-other-year pattern to the illness.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jByRao&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jByRao&amp;text=Mysterious+Illness+That+Paralyzes+Healthy+Kids+Prompts+Plea+From+CDC&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2jByRao&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2jByRao&amp;text=Mysterious+Illness+That+Paralyzes+Healthy+Kids+Prompts+Plea+From+CDC&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2NLgKNO
+
+
+"
+data-content-id="2NLgKNO"
+data-contenturl="https://www.vox.com/culture/2019/7/10/18715664/double-cleansing-skin-care-explained"
+data-position="15"
+data-datetime="1562845384.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.vox.com/culture/2019/7/10/18715664/double-cleansing-skin-care-explained" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vox.com%2Fculture%2F2019%2F7%2F10%2F18715664%2Fdouble-cleansing-skin-care-explained&amp;position=15&amp;content_id=2NLgKNO"
+
+>
+
+
+<img src="http://static.digg.com/images/1b8e4b47f76840169d5326bca3647d14_2NLgKNO_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+JUST ONE MORE STEP FOR YOUR ROUTINE...
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.vox.com/culture/2019/7/10/18715664/double-cleansing-skin-care-explained" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vox.com%2Fculture%2F2019%2F7%2F10%2F18715664%2Fdouble-cleansing-skin-care-explained&amp;position=15&amp;content_id=2NLgKNO"
+
+>
+
+Why You Should Wash Your Face Twice
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/vox.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.vox.com%2Fculture%2F2019%2F7%2F10%2F18715664%2Fdouble-cleansing-skin-care-explained&amp;position=15&amp;content_id=2NLgKNO"
+
+>
+
+vox.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Explainer"
+data-tag-slug="explainer"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/explainer"
+>
+Explainer
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 11:43:04 GMT">
+<time datetime="2019-07-11 11:43:04 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>5d</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The double-cleanse method many skin care gurus swear by, explained.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NLgKNO&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NLgKNO&amp;text=Why+You+Should+Wash+Your+Face+Twice&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2NLgKNO&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2NLgKNO&amp;text=Why+You+Should+Wash+Your+Face+Twice&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XAIWat
+
+
+"
+data-content-id="2XAIWat"
+data-contenturl="https://www.theatlantic.com/health/archive/2019/07/allergies-anxiety/593572/"
+data-position="16"
+data-datetime="1562803240.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://www.theatlantic.com/health/archive/2019/07/allergies-anxiety/593572/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fhealth%2Farchive%2F2019%2F07%2Fallergies-anxiety%2F593572%2F&amp;position=16&amp;content_id=2XAIWat"
+
+>
+
+
+<img src="http://static.digg.com/images/6eaf4b9116474ed7b8d758488108925f_2XAIWat_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WHEEZE THE PAIN
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.theatlantic.com/health/archive/2019/07/allergies-anxiety/593572/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fhealth%2Farchive%2F2019%2F07%2Fallergies-anxiety%2F593572%2F&amp;position=16&amp;content_id=2XAIWat"
+
+>
+
+People With Allergies Are More Likely To Be Anxious
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/theatlantic.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.theatlantic.com%2Fhealth%2Farchive%2F2019%2F07%2Fallergies-anxiety%2F593572%2F&amp;position=16&amp;content_id=2XAIWat"
+
+>
+
+The Atlantic
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-11 00:00:40 GMT">
+<time datetime="2019-07-11 00:00:40 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+There might be a hidden link between seasonal sniffles and mood disorders.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XAIWat&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XAIWat&amp;text=People+With+Allergies+Are+More+Likely+To+Be+Anxious&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XAIWat&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XAIWat&amp;text=People+With+Allergies+Are+More+Likely+To+Be+Anxious&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2Xyl1IL
+
+
+"
+data-content-id="2Xyl1IL"
+data-contenturl="https://washingtonmonthly.com/magazine/july-august-2019/the-strange-political-silence-on-elder-care/"
+data-position="17"
+data-datetime="1562792553.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://washingtonmonthly.com/magazine/july-august-2019/the-strange-political-silence-on-elder-care/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwashingtonmonthly.com%2Fmagazine%2Fjuly-august-2019%2Fthe-strange-political-silence-on-elder-care%2F&amp;position=17&amp;content_id=2Xyl1IL"
+
+>
+
+
+<img src="http://static.digg.com/images/3954d3a9e7a640fbb02b02f3fc4cd979_2Xyl1IL_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+'A LONG-TERM CARE CRISIS'
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://washingtonmonthly.com/magazine/july-august-2019/the-strange-political-silence-on-elder-care/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwashingtonmonthly.com%2Fmagazine%2Fjuly-august-2019%2Fthe-strange-political-silence-on-elder-care%2F&amp;position=17&amp;content_id=2Xyl1IL"
+
+>
+
+The Strange Political Silence On Elder Care
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/washingtonmonthly.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwashingtonmonthly.com%2Fmagazine%2Fjuly-august-2019%2Fthe-strange-political-silence-on-elder-care%2F&amp;position=17&amp;content_id=2Xyl1IL"
+
+>
+
+The Washington Monthly
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Policy"
+data-tag-slug="policy"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/policy"
+>
+Policy
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 21:02:32 GMT">
+<time datetime="2019-07-10 21:02:32 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Millions of middle-aged women struggle to care for ailing older relatives, and the crisis is only getting worse. So why is no one talking about it?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xyl1IL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xyl1IL&amp;text=The+Strange+Political+Silence+On+Elder+Care&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Xyl1IL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Xyl1IL&amp;text=The+Strange+Political+Silence+On+Elder+Care&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-2XBy4V6
+
+
+"
+data-content-id="2XBy4V6"
+data-contenturl="http://digg.com/2019/too-much-caffeine-visualized"
+data-position="18"
+data-datetime="1562778658.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="http://digg.com/2019/too-much-caffeine-visualized" target="_blank"
+
+>
+
+
+<img src="http://static.digg.com/images/1b18955cd67445bdb86f0ef857583fbb_f4b374c68d964b1f84d4245b62289a6a_2_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+LIVING LA VIDA MOCHA
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/2019/too-much-caffeine-visualized" target="_blank"
+
+>
+
+How Many Of Each Caffeinated Drink You Can Safely Have On A Daily Basis, Visualized
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Data Viz"
+data-tag-slug="data-viz"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/data-viz"
+>
+Data Viz
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 17:10:57 GMT">
+<time datetime="2019-07-10 17:10:57 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+How many servings of your caffeinated drink of choice puts you into the caffeine danger zone?
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XBy4V6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XBy4V6&amp;text=How+Many+Of+Each+Caffeinated+Drink+You+Can+Safely+Have+On+A+Daily+Basis%2C+Visualized&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2XBy4V6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2XBy4V6&amp;text=How+Many+Of+Each+Caffeinated+Drink+You+Can+Safely+Have+On+A+Daily+Basis%2C+Visualized&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story
+digg-story--social
+
+digg-story--editors-pick
+
+
+digg-story--has-media
+digg-story--has-no-video
+digg-story--has-no-embed
+js--digg-story
+js--digg-story--social
+js--story-32kNPDw
+
+
+"
+data-content-id="32kNPDw"
+data-contenturl="https://humanparts.medium.com/everything-is-scary-164d85b2fc44"
+data-position="19"
+data-datetime="1562763480.0"
+data-source="channel.health"
+>
+
+
+
+
+
+
+
+<div class="
+digg-story__media-container
+
+">
+
+
+
+
+
+
+
+
+
+
+
+<figure class="digg-story__image">
+<a class="js--digg-story__link digg-story__image-link"
+
+href="https://humanparts.medium.com/everything-is-scary-164d85b2fc44" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fhumanparts.medium.com%2Feverything-is-scary-164d85b2fc44&amp;position=19&amp;content_id=32kNPDw"
+
+>
+
+
+<img src="http://static.digg.com/images/381978a7fa234113b23c05cecb91924e_32kNPDw_1_www_large_thumb.jpeg" alt="" class="js--digg-story__img digg-story__image-img">
+</a>
+</figure>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+DARK AND FULL OF TERRORS
+</div>
+
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://humanparts.medium.com/everything-is-scary-164d85b2fc44" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fhumanparts.medium.com%2Feverything-is-scary-164d85b2fc44&amp;position=19&amp;content_id=32kNPDw"
+
+>
+
+This Is My Brain On OCD
+
+
+</a>
+</h2>
+
+
+
+<div class="digg-story__metadata-container">
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/humanparts.medium.com"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fhumanparts.medium.com%2Feverything-is-scary-164d85b2fc44&amp;position=19&amp;content_id=32kNPDw"
+
+>
+
+humanparts.medium.com
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Personal Essay"
+data-tag-slug="personal-essay"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/personal-essay"
+>
+Personal Essay
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-10 12:57:59 GMT">
+<time datetime="2019-07-10 12:57:59 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1w</a>
+</time>
+</abbr>
+
+
+</div>
+
+</header>
+<div class="digg-story__dek--truncate js--digg-story__ellipsis-truncate">
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+OCD isn't a preference for organization, it's a campaign of fear your brain wages on your life.
+</div>
+
+
+</div>
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32kNPDw&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32kNPDw&amp;text=This+Is+My+Brain+On+OCD&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container is--zero">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count"></span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+digg
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F32kNPDw&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F32kNPDw&amp;text=This+Is+My+Brain+On+OCD&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+
+
+
+</article>
+
+
+</div>
+<div class="digg-story-stream__loading-icon"></div>
+<div class="digg-story-stream__error js--digg-story-stream__error"></div>
+
+<div class="digg-story-stream__read-more js--digg-story-stream__read-more">
+That's our best stuff for today. Great job!
+<a href="#" class="digg-story-stream__read-more__link">Read more</a>
+</div>
+
+</div>
+</section>
+<div class="col-right">
+
+<div class="channel__email-social-promo js--email-social-promo">
+
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://facebook.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-fb-like" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.117 1H1.883A.883.883 0 0 0 1 1.883v14.234c0 .488.395.883.883.883h7.663v-6.196H7.46V8.39h2.086V6.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V17h4.077a.883.883 0 0 0 .883-.883V1.883A.883.883 0 0 0 16.117 1"/></svg>
+ Like us on Facebook
+</a>
+</div>
+<div class="channel__subscribe-widget__social-promo">
+<a href="https://twitter.com/digg" class="channel__subscribe-widget__social-promo-link">
+
+<svg class="ico-twitter-follow" viewBox="0 0 18 18" width="18" height="18" xmlns="http://www.w3.org/2000/svg"><path fill="#191919" fill-rule="evenodd" d="M16.999 4.54a6.62 6.62 0 0 1-1.885.517 3.298 3.298 0 0 0 1.443-1.816 6.591 6.591 0 0 1-2.085.795A3.273 3.273 0 0 0 12.076 3a3.28 3.28 0 0 0-3.197 4.03 9.33 9.33 0 0 1-6.766-3.428 3.241 3.241 0 0 0-.444 1.65c0 1.14.58 2.142 1.46 2.73a3.279 3.279 0 0 1-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22a3.337 3.337 0 0 1-1.482.056 3.287 3.287 0 0 0 3.067 2.28 6.593 6.593 0 0 1-4.077 1.403A6.75 6.75 0 0 1 1 14.526 9.304 9.304 0 0 0 6.032 16c6.038 0 9.34-4.999 9.34-9.336 0-.143-.004-.284-.01-.425A6.67 6.67 0 0 0 17 4.54h-.001z"/></svg>
+ Follow us on Twitter
+</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="js--story-sources" class="modal-story-sources modal--v2 modal hide fade">
+<div class="modal--v2__header">
+<div class="modal--v2__close js--btn-modal-close" data-dismiss="modal" aria-label="Close">&#x2716;</div>
+<div class="modal__header-text">Also On</div>
+</div>
+<div class="modal--v2__body">
+<div id="js--story-sources__main-item"></div>
+<div class="story-source__related-hdr digg-story__also-on__label" id="js--story-source__related-hdr"></div>
+<div id="js--story-sources__related"></div>
+</div>
+</div>
+<form>
+<input type="hidden" name="_xsrf" value="dd5e28f694e24f1d86ff4768518c9258"/>
+</form>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/channel_v2_1.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+window._sf_async_config.useCanonical = true;
+
+
+window._sf_async_config.sections = "Channels";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>

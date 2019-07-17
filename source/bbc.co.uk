@@ -1,0 +1,5816 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/source/bbc.co.uk" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content="Stories from BBC">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/source/bbc.co.uk" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Stories from BBC" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+<meta name="description" content="Archive of the best BBC stories on Digg including articles, videos, and photos.">
+<meta name="twitter:description" content="Archive of the best BBC stories on Digg including articles, videos, and photos." />
+<meta property="og:description" content="Archive of the best BBC stories on Digg including articles, videos, and photos." />
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title>Stories from BBC - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Stories from BBC RSS" href="/source/bbc.co.uk.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/pivot.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/source/bbc.co.uk&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=98808819.1389802426.1563332624.1563332624.1563332624&_utmz=98808819.1563332624.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=1389802426.1563332624&tid=UA-33556916-1&z=1389802426
+" border="0">
+</noscript>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fsource%2Fbbc.co.uk" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+<div id="content-main" class="content-main">
+<div class="content-primary" role="main">
+
+<section
+class="section story-list pivot hfeed stories-container"
+id="source-story-list"
+data-pivot-name="bbc.co.uk"
+data-data-provider="source/bbc.co.uk"
+data-tracking-section="Source"
+data-tracking-label="BBC"
+>
+<header class="object-header">
+<h1 class="object-hed">BBC</h1>
+<div class="object-header-meta-wrap">
+<span class="object-header-meta object-header-rss"><a class="object-header-link" href="/source/bbc.co.uk.rss" target="_blank">RSS</a></span>&nbsp;
+<span class="object-header-meta object-header-domain"><a class="object-header-link" href="http://bbc.co.uk" target="_blank">bbc.co.uk</a></span>
+</div>
+<span class="object-header-scrollto-tag-sitemap" id="object-header-scrollto-tag-sitemap" data-status="inactive"></span>
+</header>
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-30dq0LH digg-story--pivot"
+data-content-id="30dq0LH"
+data-contenturl="https://www.bbc.co.uk/news/extra/PLNMqvmycN/conjoined-twins"
+data-position="0"
+data-source="pivot_page"
+data-diggs="2"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="2">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/extra/PLNMqvmycN/conjoined-twins"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fextra%2FPLNMqvmycN%2Fconjoined-twins&amp;position=0&amp;content_id=30dq0LH"
+
+target="_blank"
+data-position="0"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/2bf6aa356e24480087db2f9065618304_30dq0LH_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A DIRE OPERATION
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/extra/PLNMqvmycN/conjoined-twins" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fextra%2FPLNMqvmycN%2Fconjoined-twins&amp;position=0&amp;content_id=30dq0LH"
+
+>
+
+The Battle To Separate Safa And Marwa
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">2</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fextra%2FPLNMqvmycN%2Fconjoined-twins&amp;position=0&amp;content_id=30dq0LH"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-16 22:22:52 GMT">
+<time datetime="2019-07-16 22:22:52 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4h</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+It's the rarest form of a rare condition — conjoined twins, fused at the head.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">2</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F30dq0LH&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F30dq0LH&amp;text=The+Battle+To+Separate+Safa+And+Marwa&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2MctUT6 digg-story--pivot"
+data-content-id="2MctUT6"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/the_killer_queues_of_ukraine?utm_source=fark&amp;utm_medium=website&amp;utm_content=link&amp;ICID=ref_fark"
+data-position="1"
+data-source="pivot_page"
+data-diggs="4"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="4">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_killer_queues_of_ukraine?utm_source=fark&amp;utm_medium=website&amp;utm_content=link&amp;ICID=ref_fark"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_killer_queues_of_ukraine%3Futm_source%3Dfark%26utm_medium%3Dwebsite%26utm_content%3Dlink%26ICID%3Dref_fark&amp;position=1&amp;content_id=2MctUT6"
+
+target="_blank"
+data-position="1"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/eb70d567809d49c29d460740efc2e7b3_2MctUT6_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A HARD CROSSING
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_killer_queues_of_ukraine?utm_source=fark&amp;utm_medium=website&amp;utm_content=link&amp;ICID=ref_fark" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_killer_queues_of_ukraine%3Futm_source%3Dfark%26utm_medium%3Dwebsite%26utm_content%3Dlink%26ICID%3Dref_fark&amp;position=1&amp;content_id=2MctUT6"
+
+>
+
+The Killer Queues Of Ukraine
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">4</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_killer_queues_of_ukraine%3Futm_source%3Dfark%26utm_medium%3Dwebsite%26utm_content%3Dlink%26ICID%3Dref_fark&amp;position=1&amp;content_id=2MctUT6"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Death"
+data-tag-slug="death"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/death"
+>
+Death
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Warfare"
+data-tag-slug="warfare"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/warfare"
+>
+Warfare
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-28 23:27:17 GMT">
+<time datetime="2019-05-28 23:27:17 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>28 May</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Ukraine's simmering war with Russian-backed fighters has an inevitable civilian cost — people are caught in crossfire or step on mines. But a surprising number die in a more unexpected way — collapsing in the queues at the front line.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">4</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2MctUT6&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2MctUT6&amp;text=The+Killer+Queues+Of+Ukraine&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2ZWZSp8 digg-story--pivot"
+data-content-id="2ZWZSp8"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/the_boy_in_the_photo"
+data-position="2"
+data-source="pivot_page"
+data-diggs="3"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="3">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_boy_in_the_photo"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_boy_in_the_photo&amp;position=2&amp;content_id=2ZWZSp8"
+
+target="_blank"
+data-position="2"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/8be3ec21456946f687cee946a8fd4e04_2ZWZSp8_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A TALE OF TWISTS AND TURNS
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_boy_in_the_photo" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_boy_in_the_photo&amp;position=2&amp;content_id=2ZWZSp8"
+
+>
+
+The Boy In The Photo
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">3</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_boy_in_the_photo&amp;position=2&amp;content_id=2ZWZSp8"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Warfare"
+data-tag-slug="warfare"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/warfare"
+>
+Warfare
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-05-14 21:57:04 GMT">
+<time datetime="2019-05-14 21:57:04 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>14 May</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+For a short time in the early 1990s, Amar Kanim was famous. His scarred face and desperate story featured on newspaper front pages around the world. He was known as the little boy who had lost everything in a napalm attack.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">3</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2ZWZSp8&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2ZWZSp8&amp;text=The+Boy+In+The+Photo&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2Ue337Q digg-story--pivot"
+data-content-id="2Ue337Q"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/The_surfers_of_Tynemouth"
+data-position="3"
+data-source="pivot_page"
+data-diggs="4"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="4">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/The_surfers_of_Tynemouth"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_surfers_of_Tynemouth&amp;position=3&amp;content_id=2Ue337Q"
+
+target="_blank"
+data-position="3"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/31d4d341556c434a8a4974991fcb88a2_2Ue337Q_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+'YOU HAVE TO BE IN IT TO EXPERIENCE IT'
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/The_surfers_of_Tynemouth" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_surfers_of_Tynemouth&amp;position=3&amp;content_id=2Ue337Q"
+
+>
+
+The Surfers Of Tynemouth
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">4</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_surfers_of_Tynemouth&amp;position=3&amp;content_id=2Ue337Q"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Sports"
+data-tag-slug="sports"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sports"
+>
+Sports
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="United Kingdom"
+data-tag-slug="england"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/england"
+>
+United Kingdom
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-04-14 18:56:39 GMT">
+<time datetime="2019-04-14 18:56:39 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>14 Apr</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Tynemouth has produced some well known British surfers, including four-time British surf champion Gabe Davies and Nigel Veitch, the original North East pro surfer. The special thing about Tynemouth is the mix of people, of all abilities, using the same beach.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">4</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Ue337Q&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Ue337Q&amp;text=The+Surfers+Of+Tynemouth&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2ECGVhL digg-story--pivot"
+data-content-id="2ECGVhL"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/haven_shepherd"
+data-position="4"
+data-source="pivot_page"
+data-diggs="2"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="2">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/haven_shepherd"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fhaven_shepherd&amp;position=4&amp;content_id=2ECGVhL"
+
+target="_blank"
+data-position="4"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/1f42fbdb8d1e4c24ba9842176895f404_2ECGVhL_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/1f42fbdb8d1e4c24ba9842176895f404_2ECGVhL_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SAFE HAVEN
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/haven_shepherd" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fhaven_shepherd&amp;position=4&amp;content_id=2ECGVhL"
+
+>
+
+The Girl Who Was Never Meant To Survive
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">2</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fhaven_shepherd&amp;position=4&amp;content_id=2ECGVhL"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-03-07 15:11:48 GMT">
+<time datetime="2019-03-07 15:11:48 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>7 Mar</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+When Haven Shepherd was a baby her father detonated a suicide bomb intended to kill the whole family. This is the story of her extraordinary survival and her dreams for the future.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">2</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2ECGVhL&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2ECGVhL&amp;text=The+Girl+Who+Was+Never+Meant+To+Survive&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2EtYanH digg-story--pivot"
+data-content-id="2EtYanH"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/jered_threatin"
+data-position="5"
+data-source="pivot_page"
+data-diggs="3"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="3">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/jered_threatin"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fjered_threatin&amp;position=5&amp;content_id=2EtYanH"
+
+target="_blank"
+data-position="5"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/3c5f30a56401474883301e3279fb2e38_2EtYanH_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/3c5f30a56401474883301e3279fb2e38_2EtYanH_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+MINOR THREATIN
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/jered_threatin" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fjered_threatin&amp;position=5&amp;content_id=2EtYanH"
+
+>
+
+A Conversation With A False Rock God
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">3</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fjered_threatin&amp;position=5&amp;content_id=2EtYanH"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Internet"
+data-tag-slug="internet"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/internet"
+>
+Internet
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-12-18 16:27:53 GMT">
+<time datetime="2018-12-18 16:27:53 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>18 Dec 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+He tried to fake his way to fame and got caught red-handed. Or did he?
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">3</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2EtYanH&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2EtYanH&amp;text=A+Conversation+With+A+False+Rock+God&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2EaHvFz digg-story--pivot"
+data-content-id="2EaHvFz"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/isis_tunnels"
+data-position="6"
+data-source="pivot_page"
+data-diggs="4"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="4">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/isis_tunnels"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fisis_tunnels&amp;position=6&amp;content_id=2EaHvFz"
+
+target="_blank"
+data-position="6"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/9fde6329999f49df92f8267c26e540d3_2EaHvFz_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/9fde6329999f49df92f8267c26e540d3_2EaHvFz_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WHAT LIES UNDER MOSUL
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/isis_tunnels" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fisis_tunnels&amp;position=6&amp;content_id=2EaHvFz"
+
+>
+
+Inside The Islamic State's Tunnels
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">4</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fisis_tunnels&amp;position=6&amp;content_id=2EaHvFz"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-12-04 21:41:27 GMT">
+<time datetime="2018-12-04 21:41:27 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4 Dec 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+How the Islamic State group destroyed a mosque but revealed a 3,000-year old palace.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">4</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2EaHvFz&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2EaHvFz&amp;text=Inside+The+Islamic+State%27s+Tunnels&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2yl3BQk digg-story--pivot"
+data-content-id="2yl3BQk"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/moving_to_Chernobyl"
+data-position="7"
+data-source="pivot_page"
+data-diggs="31"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="31">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/moving_to_Chernobyl"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmoving_to_Chernobyl&amp;position=7&amp;content_id=2yl3BQk"
+
+target="_blank"
+data-position="7"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/00ee470a7e1940b784307ae6c0639d43_2yl3BQk_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/00ee470a7e1940b784307ae6c0639d43_2yl3BQk_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+LIVING ON THE EDGE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/moving_to_Chernobyl" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmoving_to_Chernobyl&amp;position=7&amp;content_id=2yl3BQk"
+
+>
+
+The People Who Moved To Chernobyl
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">31</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmoving_to_Chernobyl&amp;position=7&amp;content_id=2yl3BQk"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Photos"
+data-tag-slug="photos"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/photos"
+>
+Photos
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-10-12 22:02:07 GMT">
+<time datetime="2018-10-12 22:02:07 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>12 Oct 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The Chernobyl nuclear disaster of 1986 left a ring of ghost villages as residents fled, fearing radiation poisoning. But now people are choosing to live in the crumbling houses on the edge of the exclusion zone.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">31</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2yl3BQk&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2yl3BQk&amp;text=The+People+Who+Moved+To+Chernobyl&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2DWxTz4 digg-story--pivot"
+data-content-id="2DWxTz4"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/the_reykjavik_confessions"
+data-position="8"
+data-source="pivot_page"
+data-diggs="7"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="7">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_reykjavik_confessions"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_reykjavik_confessions&amp;position=8&amp;content_id=2DWxTz4"
+
+target="_blank"
+data-position="8"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/46ce913747324ce28fbb3d898990b7c1_2DWxTz4_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/46ce913747324ce28fbb3d898990b7c1_2DWxTz4_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A WAKING NIGHTMARE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_reykjavik_confessions" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_reykjavik_confessions&amp;position=8&amp;content_id=2DWxTz4"
+
+>
+
+The Reykjavik Confessions
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">7</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_reykjavik_confessions&amp;position=8&amp;content_id=2DWxTz4"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Criminal Justice"
+data-tag-slug="criminal-justice"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/criminal-justice"
+>
+Criminal Justice
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Crime"
+data-tag-slug="crime"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/crime"
+>
+Crime
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-10-09 12:23:25 GMT">
+<time datetime="2018-10-09 12:23:25 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>9 Oct 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The mystery of why six people admitted to roles in two murders, when they couldn't remember anything about the crimes.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">7</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2DWxTz4&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2DWxTz4&amp;text=The+Reykjavik+Confessions&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2R8xn3j digg-story--pivot"
+data-content-id="2R8xn3j"
+data-contenturl="https://www.bbc.co.uk/bbcthree/article/6b0548de-903f-4b15-8dd8-5c11bed79efc"
+data-position="9"
+data-source="pivot_page"
+data-diggs="6"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="6">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/bbcthree/article/6b0548de-903f-4b15-8dd8-5c11bed79efc"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F6b0548de-903f-4b15-8dd8-5c11bed79efc&amp;position=9&amp;content_id=2R8xn3j"
+
+target="_blank"
+data-position="9"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/57b9e4bfe95042eaa3a2f6957ed392c5_2R8xn3j_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/57b9e4bfe95042eaa3a2f6957ed392c5_2R8xn3j_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+'I WILL ALWAYS FEEL LIKE IT NEEDS WORK'
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/bbcthree/article/6b0548de-903f-4b15-8dd8-5c11bed79efc" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F6b0548de-903f-4b15-8dd8-5c11bed79efc&amp;position=9&amp;content_id=2R8xn3j"
+
+>
+
+I Was On A Diet For 18 Years. Here's What I Learned
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">6</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F6b0548de-903f-4b15-8dd8-5c11bed79efc&amp;position=9&amp;content_id=2R8xn3j"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-10-01 21:10:40 GMT">
+<time datetime="2018-10-01 21:10:40 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1 Oct 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+I've been on a diet since I was 12. I was fat, with a round face and soft, thick thighs which spread and spilled over the sides of chairs when I sat down. From the moment I became fully aware of it, my body — like most fat bodies at the time — was a problem.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">6</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2R8xn3j&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2R8xn3j&amp;text=I+Was+On+A+Diet+For+18+Years.+Here%27s+What+I+Learned&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2x5Reb7 digg-story--pivot"
+data-content-id="2x5Reb7"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/The_lost_decade"
+data-position="10"
+data-source="pivot_page"
+data-diggs="13"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="13">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/The_lost_decade"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_lost_decade&amp;position=10&amp;content_id=2x5Reb7"
+
+target="_blank"
+data-position="10"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/051150c18f2c45aab5b3b498b91fdf6e_2x5Reb7_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/051150c18f2c45aab5b3b498b91fdf6e_2x5Reb7_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NO EASY RECOVERIES
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/The_lost_decade" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_lost_decade&amp;position=10&amp;content_id=2x5Reb7"
+
+>
+
+The Lost Decade
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">13</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2FThe_lost_decade&amp;position=10&amp;content_id=2x5Reb7"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Economics"
+data-tag-slug="economics"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/economics"
+>
+Economics
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-09-12 18:48:30 GMT">
+<time datetime="2018-09-12 18:48:30 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>12 Sep 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+A decade ago the global financial crisis saw plunging markets and collapsing banks. The human cost was profound — 10 years of low wages, public sector cuts and hard times. Here's why it still matters.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">13</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2x5Reb7&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2x5Reb7&amp;text=The+Lost+Decade&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2OEklbJ digg-story--pivot"
+data-content-id="2OEklbJ"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/madagascar_vanillla"
+data-position="11"
+data-source="pivot_page"
+data-diggs="17"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="17">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/madagascar_vanillla"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmadagascar_vanillla&amp;position=11&amp;content_id=2OEklbJ"
+
+target="_blank"
+data-position="11"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/7888a935c5574d95839cbe1143f7fc76_2OEklbJ_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/7888a935c5574d95839cbe1143f7fc76_2OEklbJ_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+EXPENSIVE TASTE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/madagascar_vanillla" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmadagascar_vanillla&amp;position=11&amp;content_id=2OEklbJ"
+
+>
+
+Fighting The Vanilla Thieves Of Madagascar
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">17</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fmadagascar_vanillla&amp;position=11&amp;content_id=2OEklbJ"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Food"
+data-tag-slug="food"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/food"
+>
+Food
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-08-19 07:12:30 GMT">
+<time datetime="2018-08-19 07:12:30 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>19 Aug 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+A barefoot farmer is making his way through a forest. The rusty machete he holds isn’t for cutting down vines or chopping away stubborn branches — it is a defense against thieves.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">17</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2OEklbJ&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2OEklbJ&amp;text=Fighting+The+Vanilla+Thieves+Of+Madagascar&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2B3iNpT digg-story--pivot"
+data-content-id="2B3iNpT"
+data-contenturl="https://www.bbc.co.uk/news/world-asia-44636934"
+data-position="12"
+data-source="pivot_page"
+data-diggs="6"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="6">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/world-asia-44636934"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-44636934&amp;position=12&amp;content_id=2B3iNpT"
+
+target="_blank"
+data-position="12"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/d04e9440c1504a93bd665c12ebbb1f19_2B3iNpT_3_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/d04e9440c1504a93bd665c12ebbb1f19_2B3iNpT_3_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+25 CENTIMETERS A YEAR
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/world-asia-44636934" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-44636934&amp;position=12&amp;content_id=2B3iNpT"
+
+>
+
+The Fastest-Sinking City In The World
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">6</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-44636934&amp;position=12&amp;content_id=2B3iNpT"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-08-13 17:47:55 GMT">
+<time datetime="2018-08-13 17:47:55 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>13 Aug 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The Indonesian capital of Jakarta is home to 10 million people but it is also one of the fastest-sinking cities in the world. If this goes unchecked, parts of the megacity could be entirely submerged by 2050, say researchers. Is it too late?
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">6</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2B3iNpT&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2B3iNpT&amp;text=The+Fastest-Sinking+City+In+The+World&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2AhSIDo digg-story--pivot"
+data-content-id="2AhSIDo"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/the_secret_in_my_blood"
+data-position="13"
+data-source="pivot_page"
+data-diggs="22"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="22">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_secret_in_my_blood"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_secret_in_my_blood&amp;position=13&amp;content_id=2AhSIDo"
+
+target="_blank"
+data-position="13"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/ed817cd062524888854aec54fda04fb0_2AhSIDo_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/ed817cd062524888854aec54fda04fb0_2AhSIDo_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+'THE BIGGEST SCANDAL IN NHS HISTORY'
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/the_secret_in_my_blood" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_secret_in_my_blood&amp;position=13&amp;content_id=2AhSIDo"
+
+>
+
+The Secret In My Blood
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">22</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fthe_secret_in_my_blood&amp;position=13&amp;content_id=2AhSIDo"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="United Kingdom"
+data-tag-slug="england"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/england"
+>
+United Kingdom
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-07-28 20:34:11 GMT">
+<time datetime="2018-07-28 20:34:11 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>28 Jul 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+I've had this since I was eight years old, and I was always told I'd have two years to live.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">22</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2AhSIDo&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2AhSIDo&amp;text=The+Secret+In+My+Blood&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2I2eOIw digg-story--pivot"
+data-content-id="2I2eOIw"
+data-contenturl="https://www.bbc.co.uk/news/world-us-canada-44543286?ns_source=twitter&amp;ns_linkname=news_central&amp;ns_mchannel=social&amp;ns_campaign=bbc_breaking"
+data-position="14"
+data-source="pivot_page"
+data-diggs="44"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="44">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/world-us-canada-44543286?ns_source=twitter&amp;ns_linkname=news_central&amp;ns_mchannel=social&amp;ns_campaign=bbc_breaking"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-us-canada-44543286%3Fns_source%3Dtwitter%26ns_linkname%3Dnews_central%26ns_mchannel%3Dsocial%26ns_campaign%3Dbbc_breaking&amp;position=14&amp;content_id=2I2eOIw"
+
+target="_blank"
+data-position="14"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/dafc46e8a3b74e139a3084b01710d2b0_2I2eOIw_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/dafc46e8a3b74e139a3084b01710d2b0_2I2eOIw_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+DRAKE AND BAKE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/world-us-canada-44543286?ns_source=twitter&amp;ns_linkname=news_central&amp;ns_mchannel=social&amp;ns_campaign=bbc_breaking" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-us-canada-44543286%3Fns_source%3Dtwitter%26ns_linkname%3Dnews_central%26ns_mchannel%3Dsocial%26ns_campaign%3Dbbc_breaking&amp;position=14&amp;content_id=2I2eOIw"
+
+>
+
+Canada Legalizes Recreational Marijuana
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">44</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-us-canada-44543286%3Fns_source%3Dtwitter%26ns_linkname%3Dnews_central%26ns_mchannel%3Dsocial%26ns_campaign%3Dbbc_breaking&amp;position=14&amp;content_id=2I2eOIw"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Drugs"
+data-tag-slug="drugs"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/drugs"
+>
+Drugs
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-06-19 23:53:48 GMT">
+<time datetime="2018-06-19 23:53:48 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>19 Jun 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The Cannabis Act passed its final hurdle on Tuesday in a 52-29 vote in the Senate. The bill controls and regulates how the drug can be grown, distributed and sold.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">44</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2I2eOIw&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2I2eOIw&amp;text=Canada+Legalizes+Recreational+Marijuana&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2LsUDFz digg-story--pivot"
+data-content-id="2LsUDFz"
+data-contenturl="https://www.bbc.co.uk/news/resources/idt-sh/yashin"
+data-position="15"
+data-source="pivot_page"
+data-diggs="12"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="12">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/yashin"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fyashin&amp;position=15&amp;content_id=2LsUDFz"
+
+target="_blank"
+data-position="15"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/8e00ab0ea96b46bb9fd9a1eaa1dc3708_2LsUDFz_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/8e00ab0ea96b46bb9fd9a1eaa1dc3708_2LsUDFz_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+FROM BULLET MAKER TO GOALKEEPER
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/resources/idt-sh/yashin" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fyashin&amp;position=15&amp;content_id=2LsUDFz"
+
+>
+
+The Greatest Goalkeeper Of All Time
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">12</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fyashin&amp;position=15&amp;content_id=2LsUDFz"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Sports"
+data-tag-slug="sports"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sports"
+>
+Sports
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Human Nature"
+data-tag-slug="human-nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/human-nature"
+>
+Human Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-06-07 16:58:00 GMT">
+<time datetime="2018-06-07 16:58:00 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>7 Jun 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Lev Yashin revolutionized his position and became a hero of the Soviet Union.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">12</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2LsUDFz&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2LsUDFz&amp;text=The+Greatest+Goalkeeper+Of+All+Time&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2IbCJG9 digg-story--pivot"
+data-content-id="2IbCJG9"
+data-contenturl="https://www.bbc.co.uk/news/amp/uk-scotland-44079462"
+data-position="16"
+data-source="pivot_page"
+data-diggs="6"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="6">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/amp/uk-scotland-44079462"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Famp%2Fuk-scotland-44079462&amp;position=16&amp;content_id=2IbCJG9"
+
+target="_blank"
+data-position="16"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/d6203d9da6864ab7b123c3432119dc08_2IbCJG9_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/d6203d9da6864ab7b123c3432119dc08_2IbCJG9_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+INCREDIBLY SAD AND A TREMENDOUS LOSS
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.bbc.co.uk/news/amp/uk-scotland-44079462" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Famp%2Fuk-scotland-44079462&amp;position=16&amp;content_id=2IbCJG9"
+
+>
+
+Body Confirmed As Missing Frightened Rabbit Singer
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">6</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Famp%2Fuk-scotland-44079462&amp;position=16&amp;content_id=2IbCJG9"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Music"
+data-tag-slug="music"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/music"
+>
+Music
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-05-11 14:02:14 GMT">
+<time datetime="2018-05-11 14:02:14 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>11 May 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Relatives pay tribute to "passionate, articulate and charismatic" Frightened Rabbit singer Scott Hutchison.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">6</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2IbCJG9&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2IbCJG9&amp;text=Body+Confirmed+As+Missing+Frightened+Rabbit+Singer&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2E4XWyH digg-story--pivot"
+data-content-id="2E4XWyH"
+data-contenturl="http://www.bbc.co.uk/news/resources/idt-sh/when_cops_become_robbers"
+data-position="17"
+data-source="pivot_page"
+data-diggs="19"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="19">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/news/resources/idt-sh/when_cops_become_robbers"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fwhen_cops_become_robbers&amp;position=17&amp;content_id=2E4XWyH"
+
+target="_blank"
+data-position="17"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/681162fb00c84d2db452790cd02cc085_2E4XWyH_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/681162fb00c84d2db452790cd02cc085_2E4XWyH_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+THE SHERIFFS OF MOBTOWN
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/news/resources/idt-sh/when_cops_become_robbers" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fwhen_cops_become_robbers&amp;position=17&amp;content_id=2E4XWyH"
+
+>
+
+When Cops Become Robbers
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">19</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fwhen_cops_become_robbers&amp;position=17&amp;content_id=2E4XWyH"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Criminal Justice"
+data-tag-slug="criminal-justice"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/criminal-justice"
+>
+Criminal Justice
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Crime"
+data-tag-slug="crime"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/crime"
+>
+Crime
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-04-03 15:53:44 GMT">
+<time datetime="2018-04-03 15:53:44 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>3 Apr 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Inside one of America's most corrupt police squads.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">19</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2E4XWyH&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2E4XWyH&amp;text=When+Cops+Become+Robbers&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2FHZR18 digg-story--pivot"
+data-content-id="2FHZR18"
+data-contenturl="http://www.bbc.co.uk/bbcthree/article/4b0273af-2963-4121-9370-0ab30625f4f7"
+data-position="18"
+data-source="pivot_page"
+data-diggs="14"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="14">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/bbcthree/article/4b0273af-2963-4121-9370-0ab30625f4f7"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F4b0273af-2963-4121-9370-0ab30625f4f7&amp;position=18&amp;content_id=2FHZR18"
+
+target="_blank"
+data-position="18"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/b7e0ce816e5744e591dd659bc922b95d_2FHZR18_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt="None"
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/b7e0ce816e5744e591dd659bc922b95d_2FHZR18_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt="None"
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+REST UNEASY
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/bbcthree/article/4b0273af-2963-4121-9370-0ab30625f4f7" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F4b0273af-2963-4121-9370-0ab30625f4f7&amp;position=18&amp;content_id=2FHZR18"
+
+>
+
+Trying Every Sleep Hack Imaginable For An Entire Month
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">14</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Farticle%2F4b0273af-2963-4121-9370-0ab30625f4f7&amp;position=18&amp;content_id=2FHZR18"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Human Nature"
+data-tag-slug="human-nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/human-nature"
+>
+Human Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Science"
+data-tag-slug="science"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/science"
+>
+Science
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Personal Essay"
+data-tag-slug="personal-essay"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/personal-essay"
+>
+Personal Essay
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-03-12 16:04:51 GMT">
+<time datetime="2018-03-12 16:04:51 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>12 Mar 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Kate Leaver is a diagnosed insomniac. Here, she spends an entire month trying to find relief.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">14</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2FHZR18&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2FHZR18&amp;text=Trying+Every+Sleep+Hack+Imaginable+For+An+Entire+Month&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2Fzt3F4 digg-story--pivot"
+data-content-id="2Fzt3F4"
+data-contenturl="http://www.bbc.co.uk/news/resources/idt-sh/nicaragua_exorcism_vilma_trujillo_murder"
+data-position="19"
+data-source="pivot_page"
+data-diggs="15"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="15">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/news/resources/idt-sh/nicaragua_exorcism_vilma_trujillo_murder"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fnicaragua_exorcism_vilma_trujillo_murder&amp;position=19&amp;content_id=2Fzt3F4"
+
+target="_blank"
+data-position="19"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/79e6078b82174b22a06a55627a04e9fb_2Fzt3F4_2_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/79e6078b82174b22a06a55627a04e9fb_2Fzt3F4_2_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WHY WAS VILMA TRUJILLO KILLED?
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.bbc.co.uk/news/resources/idt-sh/nicaragua_exorcism_vilma_trujillo_murder" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fnicaragua_exorcism_vilma_trujillo_murder&amp;position=19&amp;content_id=2Fzt3F4"
+
+>
+
+The 'Exorcism' That Turned Into Murder
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">15</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/bbc.co.uk"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-sh%2Fnicaragua_exorcism_vilma_trujillo_murder&amp;position=19&amp;content_id=2Fzt3F4"
+
+>
+
+BBC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Crime"
+data-tag-slug="crime"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/crime"
+>
+Crime
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2018-03-01 18:00:21 GMT">
+<time datetime="2018-03-01 18:00:21 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>1 Mar 2018</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+When a young Nicaraguan woman became mentally ill, the pastor in her village decided to carry out an exorcism to expel her "demons." Soon, she was dead.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">15</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2Fzt3F4&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2Fzt3F4&amp;text=The+%27Exorcism%27+That+Turned+Into+Murder&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+<footer class="btn-more-stories" data-next-position="20" data-incrementor="1">
+Load More Stories
+</footer>
+
+</section>
+
+<div id="modal-savedstories" class="savedstories modal--v2 modal fade hide" role="dialog" aria-hidden="true">
+<header class="modal--v2__header">
+<span class="modal--v2__header-text" id="modal-savedstories-txt">Saved</span>
+<div id="btn-savedstories-modal-close" class="modal--v2__close js--btn-modal-close" data-dismiss="modal">&#x2716;</div>
+</header>
+<section
+id="modal-savedstories-container"
+class="modal--v2__body stories-container"
+data-tracking-section="Frontpage: Saved Stories"
+></section>
+</div>
+
+
+
+</div>
+</div>
+
+
+<div id="fb-root"></div>
+<div id="session-forms"></div>
+
+
+<footer id="footer" class="ftr">
+<div class="ftr-nav">
+<div class="ftr-inner">
+<ul class="ftr-nav-list nav-primary">
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/about">About</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/faq">FAQ</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="http://blog.digg.com/">Blog</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/jobs">Jobs</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/advertising">Advertise</a></li>
+
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" id="btn-hdr-submit-link" href="/submit">Submit a Link</a></li>
+
+</ul>
+<ul class="ftr-nav-list nav-secondary">
+<li class="ftr-nav-list-item">&copy; <span id="footer-copyright-year">2019</span> Digg Holdings, LLC</li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/community-guidelines">Community Guidelines</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/tos">Terms</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/privacy">Privacy</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/pivot.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+
+window._sf_async_config.sections = "Search";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>

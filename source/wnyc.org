@@ -1,0 +1,5828 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie10" lang="en"> <![endif]-->
+<!--[if IE 11]> <html class="no-js ie11" lang="en"> <![endif]-->
+<!--[if gt IE 11]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<link rel="dns-prefetch" href="//static.digg.com">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="microtip" content="33NWbMsckoLcoVX6Tz9o6ksuBrJVeu3en2" data-currency="btc">
+<script>
+if (document.location.protocol === 'https:')
+window.location.replace('http://' + window.location.hostname + window.location.pathname);
+</script>
+
+
+
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+<link rel="canonical" href="http://digg.com/source/wnyc.org" class="js--canonical-url" />
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digg">
+<meta name="twitter:title" content="Stories from WNYC">
+<meta name="twitter:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png">
+<meta property="fb:app_id" content="123277257693179" />
+<meta property="og:url" content="http://digg.com/source/wnyc.org" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Stories from WNYC" />
+<meta property="og:image" content="http://static.digg.com/static/fe/4bef2d/images/logo-og-digg@2x.png" />
+<meta name="application-name" content="Digg"/>
+<meta name="msapplication-TileImage" content="/static/images/windows-tile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+
+
+
+<meta name="description" content="Archive of the best WNYC stories on Digg including articles, videos, and photos.">
+<meta name="twitter:description" content="Archive of the best WNYC stories on Digg including articles, videos, and photos." />
+<meta property="og:description" content="Archive of the best WNYC stories on Digg including articles, videos, and photos." />
+
+
+
+
+<link rel="icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.digg.com/static/fe/4bef2d/images/digg_favicon.png" type="image/x-icon">
+<title>Stories from WNYC - Digg</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Stories from WNYC RSS" href="/source/wnyc.org.rss" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/static/fe/4bef2d/js/external/jquery/1.8.3/jquery.min.js"><\/script>')</script>
+
+
+
+<script>
+// 
+!function(){"use strict";function e(e){if(!o()||!window.XMLHttpRequest)return void t(e);if(localStorage[e])a(localStorage[e]);else{var r=function(){n(e)};window.addEventListener?addEventListener("load",r,!1):window.attachEvent&&attachEvent("onload",r)}}function t(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}function n(e){var t=new XMLHttpRequest;t.open("GET",e,!0),t.onreadystatechange=function(){4===t.readyState&&(a(t.responseText),localStorage[e]=t.responseText)},t.send()}function a(e){var t=document.createElement("style");t.setAttribute("type","text/css"),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}function o(){try{if(!window.localStorage)return!1;var e="teststorage"+Date.now();return localStorage.setItem(e,1),localStorage.removeItem(e),!0}catch(t){return!1}}window.cleverlyLoadCSS=e}();
+// 
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-base.css?v=3');
+// 
+cleverlyLoadCSS('//static.digg.com/static/fonts/css/fonts-additional.css?v=3');
+// 
+</script>
+
+
+<script src="https://api.b2c.com/api/init-449wvfefrot8kjo9xad.js" data-cfasync="false" async></script><noscript><img src="https://api.b2c.com/api/noscript-449wvfefrot8kjo9xad.gif"></noscript>
+
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/digg_v2.css" type="text/css" media="screen" />
+
+
+<link rel="stylesheet" href="http://static.digg.com/static/fe/4bef2d/css/bs/pivot.css" type="text/css" media="screen" />
+
+
+<link rel="apple-touch-icon" href="/static/images/apple/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple/apple-touch-icon-144.png" />
+
+<!--[if lt IE 9]>
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-33556916-1', 'auto');
+ga('require', 'displayfeatures');
+
+
+
+
+
+ga('send', 'pageview');
+
+</script>
+<noscript>
+<img src="http://www.google-analytics.com/collect?v=1&_v=j27d&t=pageview&_s=1&dl=/nojs/source/wnyc.org&ul=en-us&de=UTF-8&&je=1&fl=15.0%20r0&_utma=48720098.1185081229.1563332652.1563332652.1563332652&_utmz=48720098.1563332652.2.2.utmcsr%3D(direct)%7Cutmcmd%3D(none)&_utmht=1411419978909&_u=MSACAEQ~&cid=1185081229.1563332652&tid=UA-33556916-1&z=1185081229
+" border="0">
+</noscript>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1397659756922323');
+fbq('track', 'PageView');
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script src="https://js.violet.io/"></script>
+<link href="https://js.violet.io/default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+
+<noscript class="digg-amp-keep"><img height="1" width="1" src="https://www.facebook.com/tr?id=1397659756922323&ev=PageView&noscript=1"/></noscript>
+
+
+
+
+
+
+
+
+
+<header
+class="
+site-header
+js--digg-header
+site-header--anonymous
+
+"
+id="js--digg-header"
+>
+<div class="site-header__inner">
+<a href="http://digg.com/"><h1 class="site-header__logo">
+<svg class="ico-digg-logo" viewBox="0 0 47 27" width="47" height="27" xmlns="http://www.w3.org/2000/svg"><title>Digg</title><path d="M5.025 10.025H7V17H5.025v-6.975zM0 21h12V0H7v6H0v15zM14 6h5v15h-5zm0-6h5v4h-5zm12 10h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H21v15zm19-11h2v7h-2v-7zm-5 11h7v2h-7v4h12V6H35v15z" fill="#1B1A19" fill-rule="evenodd"/></svg>
+</h1></a>
+<p class="skip"><a href="#content-main">Skip to content</a>, or <a href="#header-search">skip to search</a>.</p>
+<div class="site-header__nav-container">
+<div class="site-header__nav-container-inner">
+<nav class="site-navigation__nav is--primary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/editions/today">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav class="site-navigation__nav is--secondary-nav">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item site-navigation__nav-item--search">
+<a href="/search" class="site-navigation__nav-item-link site-navigation__nav-item-search-link">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</a>
+<span id="js--nav-search">
+<span class="site-navigation__nav-item-link site-navigation__nav-item-link-search-btn " title="Search" href="/search" >
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-search" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M21.038 1.4c8.284 0 15 6.717 15 15 0 8.286-6.716 15-15 15-8.284 0-15-6.714-15-15 0-8.283 6.716-15 15-15m5.153 32.146L34.555 46.7l6.523-4.147-8.132-12.796c-1.925 1.718-4.222 3.026-6.753 3.79z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Search</span>
+</span >
+<form id="form-digg-search" class="form-digg-search" action="/search" method="GET" autocomplete="off">
+<label class="form-digg-search__btn-search" for="form-digg-search-input">Search</label>
+<input type="text" class="form-digg-search__input" id="form-digg-search-input" placeholder="Search Digg" name="q" autocomplete="off" spellcheck="false" />
+</form>
+</span>
+</li>
+<li class="site-navigation__nav-item site-navigation__nav-item--account">
+<span class="site-navigation__nav-item-link" title="Account">
+
+<a href="/welcome?next=%2Fsource%2Fwnyc.org" class="btn-login">Sign In <span class="btn-login__signup-label">/ Sign Up</span></a>
+</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+<div id="content-main" class="content-main">
+<div class="content-primary" role="main">
+
+<section
+class="section story-list pivot hfeed stories-container"
+id="source-story-list"
+data-pivot-name="wnyc.org"
+data-data-provider="source/wnyc.org"
+data-tracking-section="Source"
+data-tracking-label="WNYC"
+>
+<header class="object-header">
+<h1 class="object-hed">WNYC</h1>
+<div class="object-header-meta-wrap">
+<span class="object-header-meta object-header-rss"><a class="object-header-link" href="/source/wnyc.org.rss" target="_blank">RSS</a></span>&nbsp;
+<span class="object-header-meta object-header-domain"><a class="object-header-link" href="http://wnyc.org" target="_blank">wnyc.org</a></span>
+</div>
+<span class="object-header-scrollto-tag-sitemap" id="object-header-scrollto-tag-sitemap" data-status="inactive"></span>
+</header>
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2kcbTa9 digg-story--pivot"
+data-content-id="2kcbTa9"
+data-contenturl="https://www.wnyc.org/story/palantir-directly-powers-ice-workplace-raids-emails-show/"
+data-position="0"
+data-source="pivot_page"
+data-diggs="3"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="3">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.wnyc.org/story/palantir-directly-powers-ice-workplace-raids-emails-show/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wnyc.org%2Fstory%2Fpalantir-directly-powers-ice-workplace-raids-emails-show%2F&amp;position=0&amp;content_id=2kcbTa9"
+
+target="_blank"
+data-position="0"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/0bd3a6da77164b3b976ba558493eb47f_2kcbTa9_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+PETER THIEL DOESN'T WANT YOU TO KNOW
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="https://www.wnyc.org/story/palantir-directly-powers-ice-workplace-raids-emails-show/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wnyc.org%2Fstory%2Fpalantir-directly-powers-ice-workplace-raids-emails-show%2F&amp;position=0&amp;content_id=2kcbTa9"
+
+>
+
+Palantir Directly Powers Immigration Raids In Workplace
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">3</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=https%3A%2F%2Fwww.wnyc.org%2Fstory%2Fpalantir-directly-powers-ice-workplace-raids-emails-show%2F&amp;position=0&amp;content_id=2kcbTa9"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Immigration"
+data-tag-slug="immigration"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/immigration"
+>
+Immigration
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Technology"
+data-tag-slug="technology"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/technology"
+>
+Technology
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Criminal Justice"
+data-tag-slug="criminal-justice"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/criminal-justice"
+>
+Criminal Justice
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Surveillance"
+data-tag-slug="surveillance"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/surveillance"
+>
+Surveillance
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2019-07-17 00:44:20 GMT">
+<time datetime="2019-07-17 00:44:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2h</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Palantir Technologies, co-founded by a Trump advisor in Silicon Valley, has created a smart-phone app that helps ICE round up undocumented workers. The number of arrests has shot up.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">3</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kcbTa9&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kcbTa9&amp;text=Palantir+Directly+Powers+Immigration+Raids+In+Workplace&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2kF8SP7 digg-story--pivot"
+data-content-id="2kF8SP7"
+data-contenturl="http://www.wnyc.org/story/who-will-live-islands-trash/"
+data-position="1"
+data-source="pivot_page"
+data-diggs="5"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="5">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/who-will-live-islands-trash/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwho-will-live-islands-trash%2F&amp;position=1&amp;content_id=2kF8SP7"
+
+target="_blank"
+data-position="1"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/955635c24b3844e9a224bcc7ac7edbfa_2kF8SP7_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+A GROSS FUTURE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/who-will-live-islands-trash/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwho-will-live-islands-trash%2F&amp;position=1&amp;content_id=2kF8SP7"
+
+>
+
+Who Will Live On The Islands Of Trash?
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">5</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwho-will-live-islands-trash%2F&amp;position=1&amp;content_id=2kF8SP7"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2017-10-12 16:54:32 GMT">
+<time datetime="2017-10-12 16:54:32 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>12 Oct 2017</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+What will the world look like in 50 years?  While we don't have a time machine yet, we do have science fiction writers to take us there.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">5</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2kF8SP7&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2kF8SP7&amp;text=Who+Will+Live+On+The+Islands+Of+Trash%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-2bRNAXf digg-story--pivot"
+data-content-id="2bRNAXf"
+data-contenturl="http://www.wnyc.org/story/florida-town-says-no-experimental-zika-control/"
+data-position="2"
+data-source="pivot_page"
+data-diggs="15"
+data-tweets="0"
+data-fb-shares="0"
+data-digg-score="15">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/florida-town-says-no-experimental-zika-control/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fflorida-town-says-no-experimental-zika-control%2F&amp;position=2&amp;content_id=2bRNAXf"
+
+target="_blank"
+data-position="2"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/bf46ddc2a37c47c98e54c7dc861fb8e1_2bRNAXf_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+SIX-LEGGED FREAKS
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/florida-town-says-no-experimental-zika-control/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fflorida-town-says-no-experimental-zika-control%2F&amp;position=2&amp;content_id=2bRNAXf"
+
+>
+
+GMO Mosquitos Are Coming To Florida To Fight Zika. Floridians Aren't Thrilled.
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">15</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fflorida-town-says-no-experimental-zika-control%2F&amp;position=2&amp;content_id=2bRNAXf"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Nature"
+data-tag-slug="nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/nature"
+>
+Nature
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-08-26 16:39:23 GMT">
+<time datetime="2016-08-26 16:39:23 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>26 Aug 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+After a Dengue Fever scare several years ago, the Florida Keys Mosquito Control Board has been trying to add a new tool to its already well-equipped arsenal for combating the Zika-carrying Aedes aegypti mosquito: Genetically modified mosquitoes from a British company called Oxitec. But families there aren't up for the experiment.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">15</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F2bRNAXf&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F2bRNAXf&amp;text=GMO+Mosquitos+Are+Coming+To+Florida+To+Fight+Zika.+Floridians+Aren%27t+Thrilled.&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-293cS0I digg-story--pivot"
+data-content-id="293cS0I"
+data-contenturl="http://www.wnyc.org/story/does-snapchats-speed-filter-encourage-reckless-driving/?utm_source=wnyc-facebook&amp;utm_medium=facebook&amp;hootPostID=32fb58e6501fed0ba2882ed3e5ffaff2"
+data-position="3"
+data-source="pivot_page"
+data-diggs="15"
+data-tweets="0"
+data-fb-shares="10"
+data-digg-score="25">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/does-snapchats-speed-filter-encourage-reckless-driving/?utm_source=wnyc-facebook&amp;utm_medium=facebook&amp;hootPostID=32fb58e6501fed0ba2882ed3e5ffaff2"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fdoes-snapchats-speed-filter-encourage-reckless-driving%2F%3Futm_source%3Dwnyc-facebook%26utm_medium%3Dfacebook%26hootPostID%3D32fb58e6501fed0ba2882ed3e5ffaff2&amp;position=3&amp;content_id=293cS0I"
+
+target="_blank"
+data-position="3"
+>
+
+
+<img class="digg-story__image-img js--digg-story__image-img"
+src="http://static.digg.com/images/06ce039f4c6445d586fe8ef70fdc1d95_293cS0I_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+PICS OR IT DIDN'T HAPPEN
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/does-snapchats-speed-filter-encourage-reckless-driving/?utm_source=wnyc-facebook&amp;utm_medium=facebook&amp;hootPostID=32fb58e6501fed0ba2882ed3e5ffaff2" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fdoes-snapchats-speed-filter-encourage-reckless-driving%2F%3Futm_source%3Dwnyc-facebook%26utm_medium%3Dfacebook%26hootPostID%3D32fb58e6501fed0ba2882ed3e5ffaff2&amp;position=3&amp;content_id=293cS0I"
+
+>
+
+Does This Snapchat Filter Encourage Reckless Driving?
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">15</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fdoes-snapchats-speed-filter-encourage-reckless-driving%2F%3Futm_source%3Dwnyc-facebook%26utm_medium%3Dfacebook%26hootPostID%3D32fb58e6501fed0ba2882ed3e5ffaff2&amp;position=3&amp;content_id=293cS0I"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Technology"
+data-tag-slug="technology"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/technology"
+>
+Technology
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cars"
+data-tag-slug="cars"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cars"
+>
+Cars
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Culture"
+data-tag-slug="culture"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/culture"
+>
+Culture
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-07-02 07:39:03 GMT">
+<time datetime="2016-07-02 07:39:03 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2 Jul 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The Snapchat "speed filter" captures how fast you are traveling when taking a photo on the app. A Georgia teenager is the latest person to be cited for a car accident that may be related to the app.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">15</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F293cS0I&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F293cS0I&amp;text=Does+This+Snapchat+Filter+Encourage+Reckless+Driving%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-28NOTIS digg-story--pivot"
+data-content-id="28NOTIS"
+data-contenturl="http://www.wnyc.org/story/how-succeed-broadway-without-going-crazy/"
+data-position="4"
+data-source="pivot_page"
+data-diggs="3"
+data-tweets="0"
+data-fb-shares="623"
+data-digg-score="626">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/how-succeed-broadway-without-going-crazy/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhow-succeed-broadway-without-going-crazy%2F&amp;position=4&amp;content_id=28NOTIS"
+
+target="_blank"
+data-position="4"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/1edb44086be84f1e93b7d4d0da3cc953_28NOTIS_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/1edb44086be84f1e93b7d4d0da3cc953_28NOTIS_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+IT'S LIKE THE DMV, IF IT HAD A DANCE BREAK
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/how-succeed-broadway-without-going-crazy/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhow-succeed-broadway-without-going-crazy%2F&amp;position=4&amp;content_id=28NOTIS"
+
+>
+
+A Day In The Life Of A Broadway Hopeful
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">3</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhow-succeed-broadway-without-going-crazy%2F&amp;position=4&amp;content_id=28NOTIS"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Entertainment"
+data-tag-slug="entertainment"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/entertainment"
+>
+Entertainment
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-06-24 10:15:03 GMT">
+<time datetime="2016-06-24 10:15:03 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>24 Jun 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Madee Seagle, 23, moved to New York from North Carolina six months ago to try and make it in musical theater. In that time, she’s found that show business requires more than just talent — it demands a lot of patience.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">3</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F28NOTIS&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F28NOTIS&amp;text=A+Day+In+The+Life+Of+A+Broadway+Hopeful&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1Psy8fl digg-story--pivot"
+data-content-id="1Psy8fl"
+data-contenturl="http://www.wnyc.org/story/nursing-home-residents-often-mistreat-each-other/?hootPostID=87b62893534de8968017696bcd9f630c"
+data-position="5"
+data-source="pivot_page"
+data-diggs="8"
+data-tweets="0"
+data-fb-shares="11"
+data-digg-score="19">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/nursing-home-residents-often-mistreat-each-other/?hootPostID=87b62893534de8968017696bcd9f630c"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnursing-home-residents-often-mistreat-each-other%2F%3FhootPostID%3D87b62893534de8968017696bcd9f630c&amp;position=5&amp;content_id=1Psy8fl"
+
+target="_blank"
+data-position="5"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/f54e972be02b421b843aecb8c9aa4eea_1Psy8fl_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/f54e972be02b421b843aecb8c9aa4eea_1Psy8fl_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NOW, NOW MILDRED PLAY NICE!
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/nursing-home-residents-often-mistreat-each-other/?hootPostID=87b62893534de8968017696bcd9f630c" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnursing-home-residents-often-mistreat-each-other%2F%3FhootPostID%3D87b62893534de8968017696bcd9f630c&amp;position=5&amp;content_id=1Psy8fl"
+
+>
+
+Nursing Home Residents Often Mistreat Each Other
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">8</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnursing-home-residents-often-mistreat-each-other%2F%3FhootPostID%3D87b62893534de8968017696bcd9f630c&amp;position=5&amp;content_id=1Psy8fl"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Curious"
+data-tag-slug="curious"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/curious"
+>
+Curious
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Studies"
+data-tag-slug="studies"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/studies"
+>
+Studies
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-06-16 22:42:03 GMT">
+<time datetime="2016-06-16 22:42:03 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>16 Jun 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Assaults on elderly nursing home residents by abusive caregivers can make big headlines. A new report suggests that as egregious as those assaults are, and as necessary as it is to prevent and detect them, nursing homes should be focusing attention on a lesser, but more common form of abuse: mistreatment of residents at the hands of fellow residents.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">8</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1Psy8fl&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1Psy8fl&amp;text=Nursing+Home+Residents+Often+Mistreat+Each+Other&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1Y4lMBg digg-story--pivot"
+data-content-id="1Y4lMBg"
+data-contenturl="http://www.wnyc.org/story/cholera-continues-its-slow-burn-haiti/"
+data-position="6"
+data-source="pivot_page"
+data-diggs="6"
+data-tweets="0"
+data-fb-shares="58"
+data-digg-score="64">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/cholera-continues-its-slow-burn-haiti/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fcholera-continues-its-slow-burn-haiti%2F&amp;position=6&amp;content_id=1Y4lMBg"
+
+target="_blank"
+data-position="6"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/51840c3962914fdc8a909e6d68c8d2d1_1Y4lMBg_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/51840c3962914fdc8a909e6d68c8d2d1_1Y4lMBg_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NO REST FOR THE WEARY
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/cholera-continues-its-slow-burn-haiti/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fcholera-continues-its-slow-burn-haiti%2F&amp;position=6&amp;content_id=1Y4lMBg"
+
+>
+
+UN Accused Of Cover Up As Cholera Ravages Haiti
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">6</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fcholera-continues-its-slow-burn-haiti%2F&amp;position=6&amp;content_id=1Y4lMBg"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-06-02 20:27:20 GMT">
+<time datetime="2016-06-02 20:27:20 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>2 Jun 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Since cholera first broke out in Haiti five years ago, Doctors Without Borders estimates that it has killed as many as 30,000 people, and another 2 million have survived the disease — which has been traced back to a UN compound that was housing peacekeepers from Nepal.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">6</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1Y4lMBg&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1Y4lMBg&amp;text=UN+Accused+Of+Cover+Up+As+Cholera+Ravages+Haiti&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1WPLJFN digg-story--pivot"
+data-content-id="1WPLJFN"
+data-contenturl="http://www.wnyc.org/story/isanely-long-airport-wait-times-likely-new-normal/"
+data-position="7"
+data-source="pivot_page"
+data-diggs="19"
+data-tweets="0"
+data-fb-shares="145"
+data-digg-score="164">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/isanely-long-airport-wait-times-likely-new-normal/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fisanely-long-airport-wait-times-likely-new-normal%2F&amp;position=7&amp;content_id=1WPLJFN"
+
+target="_blank"
+data-position="7"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/757083cee1084197af8d83b98d5d12e0_1WPLJFN_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/757083cee1084197af8d83b98d5d12e0_1WPLJFN_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+WE'RE ALREADY IN LINE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/isanely-long-airport-wait-times-likely-new-normal/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fisanely-long-airport-wait-times-likely-new-normal%2F&amp;position=7&amp;content_id=1WPLJFN"
+
+>
+
+Why Insanely Long Airport Wait Times Are Likely The New Normal
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">19</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fisanely-long-airport-wait-times-likely-new-normal%2F&amp;position=7&amp;content_id=1WPLJFN"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Aviation"
+data-tag-slug="aviation"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/aviation"
+>
+Aviation
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-05-24 18:36:36 GMT">
+<time datetime="2016-05-24 18:36:36 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>24 May 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Cuts in TSA's budget and a decrease in staff make it very difficult to speed up wait times. And while a solution does exist, it's politically unpopular.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">19</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1WPLJFN&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1WPLJFN&amp;text=Why+Insanely+Long+Airport+Wait+Times+Are+Likely+The+New+Normal&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-236cB2i digg-story--pivot"
+data-content-id="236cB2i"
+data-contenturl="http://www.wnyc.org/story/rescuing-malis-invaluable-texts-jihadists/"
+data-position="8"
+data-source="pivot_page"
+data-diggs="12"
+data-tweets="0"
+data-fb-shares="1,040"
+data-digg-score="1,052">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/rescuing-malis-invaluable-texts-jihadists/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Frescuing-malis-invaluable-texts-jihadists%2F&amp;position=8&amp;content_id=236cB2i"
+
+target="_blank"
+data-position="8"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/d8bc5d59cb9544e39cc2176e431da728_236cB2i_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/d8bc5d59cb9544e39cc2176e431da728_236cB2i_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+INVISIBLE INK
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/rescuing-malis-invaluable-texts-jihadists/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Frescuing-malis-invaluable-texts-jihadists%2F&amp;position=8&amp;content_id=236cB2i"
+
+>
+
+How 'Bad-Ass Librarians' Rescued Mali's Precious Texts From Jihadists
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">12</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Frescuing-malis-invaluable-texts-jihadists%2F&amp;position=8&amp;content_id=236cB2i"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Books"
+data-tag-slug="books"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/books"
+>
+Books
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-04-29 16:30:13 GMT">
+<time datetime="2016-04-29 16:30:13 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>29 Apr 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The brave men and women of Timbuktu were able to save 375,000 precious manuscripts from destruction by Islamist rebels.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">12</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F236cB2i&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F236cB2i&amp;text=How+%27Bad-Ass+Librarians%27+Rescued+Mali%27s+Precious+Texts+From+Jihadists&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1RJdCHv digg-story--pivot"
+data-content-id="1RJdCHv"
+data-contenturl="http://www.wnyc.org/story/why-uk-gamblers-love-betting-us-elections/"
+data-position="9"
+data-source="pivot_page"
+data-diggs="11"
+data-tweets="0"
+data-fb-shares="75"
+data-digg-score="86">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/why-uk-gamblers-love-betting-us-elections/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwhy-uk-gamblers-love-betting-us-elections%2F&amp;position=9&amp;content_id=1RJdCHv"
+
+target="_blank"
+data-position="9"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/e0aec97ba4b74555bcc4666b257a14c6_1RJdCHv_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/e0aec97ba4b74555bcc4666b257a14c6_1RJdCHv_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+ODDS ARE CLINTON WINS IT ALL
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/why-uk-gamblers-love-betting-us-elections/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwhy-uk-gamblers-love-betting-us-elections%2F&amp;position=9&amp;content_id=1RJdCHv"
+
+>
+
+UK Gamblers Spend Millions Betting On American Elections
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">11</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fwhy-uk-gamblers-love-betting-us-elections%2F&amp;position=9&amp;content_id=1RJdCHv"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="World"
+data-tag-slug="world"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/world"
+>
+World
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-03-16 06:42:03 GMT">
+<time datetime="2016-03-16 06:42:03 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>16 Mar 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Forget March Madness. Across the pond, millions of British pounds have already been wagered on the race for the White House. UK gamblers are putting their money on Clinton to win it all in November, while Trump's odds are about 4 to 1.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">11</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1RJdCHv&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1RJdCHv&amp;text=UK+Gamblers+Spend+Millions+Betting+On+American+Elections&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1p5sqK0 digg-story--pivot"
+data-content-id="1p5sqK0"
+data-contenturl="http://digg.com/video/the-secret-history-and-future-of-cyber-war"
+data-position="10"
+data-source="pivot_page"
+data-diggs="21"
+data-tweets="0"
+data-fb-shares="38"
+data-digg-score="59">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/the-secret-history-and-future-of-cyber-war"
+
+target="_self"
+data-position="10"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/8e6d9235e4924e6e9067101b8a3d3866_49dee49b283d2b934b3e7daf40089d15_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/8e6d9235e4924e6e9067101b8a3d3866_49dee49b283d2b934b3e7daf40089d15_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+NOT JUST FUN AND WAR GAMES
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://digg.com/video/the-secret-history-and-future-of-cyber-war" target="_self"
+
+>
+
+The Secret History, And Future, Of Cyber War
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">21</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Technology"
+data-tag-slug="technology"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/technology"
+>
+Technology
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Histories"
+data-tag-slug="histories"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/histories"
+>
+Histories
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Warfare"
+data-tag-slug="warfare"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/warfare"
+>
+Warfare
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2016-03-04 21:25:41 GMT">
+<time datetime="2016-03-04 21:25:41 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4 Mar 2016</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+"War Games," the 1983 movie starring Matthew Broderick and Ally Sheedy, was not only a great film. President Reagan saw it as a wake-up call that cyber war would become a reality. Fred Kaplan, Slate's War Stories columnist and the author of "Dark Territory: The Secret History of Cyber War," reports on how the US has conducted "information warfare" since before the first Gulf War.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">21</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1p5sqK0&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1p5sqK0&amp;text=The+Secret+History%2C+And+Future%2C+Of+Cyber+War&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1k0LWVe digg-story--pivot"
+data-content-id="1k0LWVe"
+data-contenturl="http://www.wnyc.org/story/hard-truth-about-cops-who-lie/"
+data-position="11"
+data-source="pivot_page"
+data-diggs="16"
+data-tweets="420"
+data-fb-shares="393"
+data-digg-score="829">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/hard-truth-about-cops-who-lie/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhard-truth-about-cops-who-lie%2F&amp;position=11&amp;content_id=1k0LWVe"
+
+target="_blank"
+data-position="11"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/a34c1f0694584b1f8dd0ef6b6cb6641d_1k0LWVe_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/a34c1f0694584b1f8dd0ef6b6cb6641d_1k0LWVe_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+BLUE LIE SPECIAL
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/hard-truth-about-cops-who-lie/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhard-truth-about-cops-who-lie%2F&amp;position=11&amp;content_id=1k0LWVe"
+
+>
+
+The Hard Truth About Cops Who Lie
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">16</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhard-truth-about-cops-who-lie%2F&amp;position=11&amp;content_id=1k0LWVe"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Law"
+data-tag-slug="law"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/law"
+>
+Law
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Long Reads"
+data-tag-slug="longreads"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/longreads"
+>
+Long Reads
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2015-10-14 15:46:36 GMT">
+<time datetime="2015-10-14 15:46:36 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>14 Oct 2015</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+With the ongoing national and local discussion about criminal justice reform, WNYC spent five months looking at the issue of police officer credibility to see how often the NYPD’s 35,000 officers are found to distort the truth and what happens to them after.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">16</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1k0LWVe&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1k0LWVe&amp;text=The+Hard+Truth+About+Cops+Who+Lie&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1N6JvYM digg-story--pivot"
+data-content-id="1N6JvYM"
+data-contenturl="http://www.wnyc.org/story/the-two-leukemia-patients/"
+data-position="12"
+data-source="pivot_page"
+data-diggs="14"
+data-tweets="133"
+data-fb-shares="446"
+data-digg-score="593">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/the-two-leukemia-patients/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fthe-two-leukemia-patients%2F&amp;position=12&amp;content_id=1N6JvYM"
+
+target="_blank"
+data-position="12"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/78f53a6e54b741eba8e7bf182acbd016_1N6JvYM_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/78f53a6e54b741eba8e7bf182acbd016_1N6JvYM_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+TWO VERY SMALL TEST SUBJECTS
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/the-two-leukemia-patients/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fthe-two-leukemia-patients%2F&amp;position=12&amp;content_id=1N6JvYM"
+
+>
+
+The Two Leukemia Patients Whose Survival Revolutionized Cancer Treatment
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">14</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fthe-two-leukemia-patients%2F&amp;position=12&amp;content_id=1N6JvYM"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Health"
+data-tag-slug="health"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/health"
+>
+Health
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Histories"
+data-tag-slug="histories"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/histories"
+>
+Histories
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2015-03-24 17:37:18 GMT">
+<time datetime="2015-03-24 17:37:18 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>24 Mar 2015</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The physicians at St. Jude were trying something new: a chemotherapy drug cocktail paired with radiation. They called it “Total Therapy.” It’s an early variation of what most acute lymphoblastic leukemia patients still get today. But patients like James Eversull were among the first ones to try it, acting as experimental guinea pigs.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">14</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1N6JvYM&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1N6JvYM&amp;text=The+Two+Leukemia+Patients+Whose+Survival+Revolutionized+Cancer+Treatment&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1MkYTSA digg-story--pivot"
+data-content-id="1MkYTSA"
+data-contenturl="http://www.wnyc.org/series/being-12/"
+data-position="13"
+data-source="pivot_page"
+data-diggs="14"
+data-tweets="101"
+data-fb-shares="435"
+data-digg-score="550">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/series/being-12/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fseries%2Fbeing-12%2F&amp;position=13&amp;content_id=1MkYTSA"
+
+target="_blank"
+data-position="13"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/af8a66d077464ca999becaf3f819643b_1MkYTSA_2_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/af8a66d077464ca999becaf3f819643b_1MkYTSA_2_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+CAUGHT IN TWEEN
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/series/being-12/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fseries%2Fbeing-12%2F&amp;position=13&amp;content_id=1MkYTSA"
+
+>
+
+Being 12: The Year Everything Changes
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">14</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fseries%2Fbeing-12%2F&amp;position=13&amp;content_id=1MkYTSA"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Human Nature"
+data-tag-slug="human-nature"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/human-nature"
+>
+Human Nature
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2015-03-09 12:48:00 GMT">
+<time datetime="2015-03-09 12:48:00 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>9 Mar 2015</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+It's no secret that being 12 years old can be tough. At 12, kids shed layers, test new roles and transform before our eyes as they explore what kind of adult they want to be. Their brains and bodies change at alarming rates. At the same time, school gets harder. In New York City, academic performance in seventh grade largely sets a student's path in high school.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">14</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1MkYTSA&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1MkYTSA&amp;text=Being+12%3A+The+Year+Everything+Changes&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1DSBhnb digg-story--pivot"
+data-content-id="1DSBhnb"
+data-contenturl="http://www.wnyc.org/story/nyc-speed-cameras-streets-safer-rake-millions-yes/"
+data-position="14"
+data-source="pivot_page"
+data-diggs="14"
+data-tweets="157"
+data-fb-shares="321"
+data-digg-score="492">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/nyc-speed-cameras-streets-safer-rake-millions-yes/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnyc-speed-cameras-streets-safer-rake-millions-yes%2F&amp;position=14&amp;content_id=1DSBhnb"
+
+target="_blank"
+data-position="14"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/8f4b20ad65cd40edaf214bf9fc85419c_1DSBhnb_2_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/8f4b20ad65cd40edaf214bf9fc85419c_1DSBhnb_2_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+YES
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/nyc-speed-cameras-streets-safer-rake-millions-yes/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnyc-speed-cameras-streets-safer-rake-millions-yes%2F&amp;position=14&amp;content_id=1DSBhnb"
+
+>
+
+Do Speed Cameras Make Streets Safer Or Just Rake In Millions?
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">14</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fnyc-speed-cameras-streets-safer-rake-millions-yes%2F&amp;position=14&amp;content_id=1DSBhnb"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cars"
+data-tag-slug="cars"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cars"
+>
+Cars
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Crime"
+data-tag-slug="crime"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/crime"
+>
+Crime
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Data Viz"
+data-tag-slug="data-viz"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/data-viz"
+>
+Data Viz
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Politics"
+data-tag-slug="politics"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/politics"
+>
+Politics
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2015-02-25 17:29:41 GMT">
+<time datetime="2015-02-25 17:29:41 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>25 Feb 2015</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Drivers have complained that the cameras are just a cash cow for New York City. Safety advocates — and the de Blasio administration — say they help prevent crashes. It turns out, both sides seem to be right.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">14</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1DSBhnb&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1DSBhnb&amp;text=Do+Speed+Cameras+Make+Streets+Safer+Or+Just+Rake+In+Millions%3F&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1wdvKOU digg-story--pivot"
+data-content-id="1wdvKOU"
+data-contenturl="http://www.wnyc.org/story/2015-oscar-nominated-movies-you-can-watch-from-home/"
+data-position="15"
+data-source="pivot_page"
+data-diggs="14"
+data-tweets="123"
+data-fb-shares="769"
+data-digg-score="906">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/2015-oscar-nominated-movies-you-can-watch-from-home/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2F2015-oscar-nominated-movies-you-can-watch-from-home%2F&amp;position=15&amp;content_id=1wdvKOU"
+
+target="_blank"
+data-position="15"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/8c7b704627474ff78c145695671cd6a1_1wdvKOU_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/8c7b704627474ff78c145695671cd6a1_1wdvKOU_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+OR IN OUR CASE, AT THE OFFICE
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/2015-oscar-nominated-movies-you-can-watch-from-home/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2F2015-oscar-nominated-movies-you-can-watch-from-home%2F&amp;position=15&amp;content_id=1wdvKOU"
+
+>
+
+The 2015 Oscar-Nominated Movies You Can Watch From Home
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">14</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2F2015-oscar-nominated-movies-you-can-watch-from-home%2F&amp;position=15&amp;content_id=1wdvKOU"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Movies"
+data-tag-slug="movies"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/movies"
+>
+Movies
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Internet"
+data-tag-slug="internet"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/internet"
+>
+Internet
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2015-01-15 17:28:30 GMT">
+<time datetime="2015-01-15 17:28:30 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>15 Jan 2015</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+Whether you're an Oscar completist who tries to see every single movie nominated, or you want to score in the smaller categories on your office Oscar ballot — here's your guide to the movies that aren't in theaters anymore.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">14</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1wdvKOU&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1wdvKOU&amp;text=The+2015+Oscar-Nominated+Movies+You+Can+Watch+From+Home&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-13EahaD digg-story--pivot"
+data-content-id="13EahaD"
+data-contenturl="http://www.wnyc.org/story/homelessness-crisis/"
+data-position="16"
+data-source="pivot_page"
+data-diggs="2"
+data-tweets="123"
+data-fb-shares="64"
+data-digg-score="189">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/homelessness-crisis/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhomelessness-crisis%2F&amp;position=16&amp;content_id=13EahaD"
+
+target="_blank"
+data-position="16"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/d883c948788d4ebbb8d9a7951d8a44c8_13EahaD_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/d883c948788d4ebbb8d9a7951d8a44c8_13EahaD_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+CAN YOU SPARE SOME CHANGE?
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/homelessness-crisis/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhomelessness-crisis%2F&amp;position=16&amp;content_id=13EahaD"
+
+>
+
+NYC Homeless Population Hits Record High
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">2</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fhomelessness-crisis%2F&amp;position=16&amp;content_id=13EahaD"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Cities"
+data-tag-slug="cities"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/cities"
+>
+Cities
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Economics"
+data-tag-slug="economics"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/economics"
+>
+Economics
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2014-12-30 00:23:57 GMT">
+<time datetime="2014-12-30 00:23:57 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>30 Dec 2014</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+New Yorkers have been pouring into the city’s homeless shelters throughout 2014, bringing the number of homeless people to a new record high: 58,913.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">2</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F13EahaD&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F13EahaD&amp;text=NYC+Homeless+Population+Hits+Record+High&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1CmyDor digg-story--pivot"
+data-content-id="1CmyDor"
+data-contenturl="http://www.wnyc.org/story/john-mcenroe/"
+data-position="17"
+data-source="pivot_page"
+data-diggs="7"
+data-tweets="75"
+data-fb-shares="104"
+data-digg-score="186">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/john-mcenroe/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fjohn-mcenroe%2F&amp;position=17&amp;content_id=1CmyDor"
+
+target="_blank"
+data-position="17"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/4e73da1a302445da9fffd1fe02c3f8f6_1CmyDor_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/4e73da1a302445da9fffd1fe02c3f8f6_1CmyDor_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+BAN UMPIRES
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/john-mcenroe/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fjohn-mcenroe%2F&amp;position=17&amp;content_id=1CmyDor"
+
+>
+
+Alec Baldwin Interviews John McEnroe About The Problems With Tennis
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">7</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fjohn-mcenroe%2F&amp;position=17&amp;content_id=1CmyDor"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Fame"
+data-tag-slug="fame"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/fame"
+>
+Fame
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Sports"
+data-tag-slug="sports"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/sports"
+>
+Sports
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Entertainment"
+data-tag-slug="entertainment"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/entertainment"
+>
+Entertainment
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2014-12-22 23:04:42 GMT">
+<time datetime="2014-12-22 23:04:42 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>22 Dec 2014</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+To revive the sport from what he calls its current status as an elitist cult, tennis needs more than just the introduction of instant replay.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">7</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1CmyDor&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1CmyDor&amp;text=Alec+Baldwin+Interviews+John+McEnroe+About+The+Problems+With+Tennis&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1BsyiQT digg-story--pivot"
+data-content-id="1BsyiQT"
+data-contenturl="http://www.wnyc.org/story/christie-aide-exchanged-messages-their-cover-story-unravelled/"
+data-position="18"
+data-source="pivot_page"
+data-diggs="12"
+data-tweets="359"
+data-fb-shares="466"
+data-digg-score="837">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/christie-aide-exchanged-messages-their-cover-story-unravelled/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fchristie-aide-exchanged-messages-their-cover-story-unravelled%2F&amp;position=18&amp;content_id=1BsyiQT"
+
+target="_blank"
+data-position="18"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/2abd390468304226a651f3a91d1be54d_1BsyiQT_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/2abd390468304226a651f3a91d1be54d_1BsyiQT_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+PROBABLY JUST EXCHANGING PLEASANTRIES
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/christie-aide-exchanged-messages-their-cover-story-unravelled/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fchristie-aide-exchanged-messages-their-cover-story-unravelled%2F&amp;position=18&amp;content_id=1BsyiQT"
+
+>
+
+Chris Christie And Aide Texted As Bridgegate Cover Story Unraveled
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">12</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Fchristie-aide-exchanged-messages-their-cover-story-unravelled%2F&amp;position=18&amp;content_id=1BsyiQT"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="Politics"
+data-tag-slug="politics"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/politics"
+>
+Politics
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2014-12-08 20:33:00 GMT">
+<time datetime="2014-12-08 20:33:00 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>8 Dec 2014</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+The New Jersey governor maintains he didn’t pay much attention to the controversy until he found out he was lied to by Deputy Chief of Staff Bridget Ann Kelly. But newly disclosed phone records may show otherwise.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">12</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1BsyiQT&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1BsyiQT&amp;text=Chris+Christie+And+Aide+Texted+As+Bridgegate+Cover+Story+Unraveled&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+
+
+<article itemscope itemtype="http://schema.org/Article"
+class="digg-story js--digg-story js--story-1AhoRjI digg-story--pivot"
+data-content-id="1AhoRjI"
+data-contenturl="http://www.wnyc.org/story/listen-eric-garners-dad-try-calm-angry-prostester/"
+data-position="19"
+data-source="pivot_page"
+data-diggs="15"
+data-tweets="194"
+data-fb-shares="377"
+data-digg-score="586">
+
+
+
+
+<div class="digg-story__image--thumb">
+<a
+class="js--digg-story__link digg-story__image-link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/listen-eric-garners-dad-try-calm-angry-prostester/"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Flisten-eric-garners-dad-try-calm-angry-prostester%2F&amp;position=19&amp;content_id=1AhoRjI"
+
+target="_blank"
+data-position="19"
+>
+
+
+<noscript>
+<img
+class="digg-story__image-img"
+src="http://static.digg.com/images/07d0061ffdb6480bb9eb83b42a24176d_907514f678c62a48032c66a7fa5cd0a4_1_www_large_thumb.jpeg"
+width="312"
+height="170"
+alt=""
+/>
+</noscript>
+<img
+class="digg-story__image-img js--digg-story__image-img lazy-image-img need-offset"
+data-src="http://static.digg.com/images/07d0061ffdb6480bb9eb83b42a24176d_907514f678c62a48032c66a7fa5cd0a4_1_www_large_thumb.jpeg"
+src="http://static.digg.com/static/fe/4bef2d/images/x_455x248.png"
+width="312"
+height="170"
+alt=""
+/>
+</a>
+</div>
+
+
+
+
+<div class="digg-story__content">
+<header class="digg-story__header">
+
+
+<div itemprop="alternativeHeadline" class="digg-story__kicker js--digg-story__kicker"
+>
+'KEEP THE PEACE'
+</div>
+
+
+
+<h2 itemprop="headline" class="digg-story__title entry-title">
+<a
+class="digg-story__title-link js--digg-story__title-link js--digg-story__link"
+
+rel="bookmark" itemprop="url"
+
+href="http://www.wnyc.org/story/listen-eric-garners-dad-try-calm-angry-prostester/" target="_blank"
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Flisten-eric-garners-dad-try-calm-angry-prostester%2F&amp;position=19&amp;content_id=1AhoRjI"
+
+>
+
+Listen To Eric Garner's Dad Try To Calm An Angry Protester
+
+
+</a>
+</h2>
+
+<div class="digg-story__metadata-container">
+
+
+
+
+
+
+<span class="digg-story__metadata-diggs js--diggs-container ">
+<span class="js--digg-count">15</span>
+<span class="js--digg-label">diggs</span>
+</span>
+
+
+
+<span class="digg-story__metadata-source">
+<a itemprop="publisher copyrightHolder sourceOrganization provider"
+class="
+digg-story__metadata-link
+js--digg-story__metadata-link--source
+"
+
+
+href="/source/wnyc.org"
+
+
+data-href="http://api.digg.com/api/v5/redirect?url=http%3A%2F%2Fwww.wnyc.org%2Fstory%2Flisten-eric-garners-dad-try-calm-angry-prostester%2F&amp;position=19&amp;content_id=1AhoRjI"
+
+>
+
+WNYC
+
+</a>
+</span>
+
+
+
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+is--first-tag
+
+"
+data-tag-display="Audio"
+data-tag-slug="audio"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/audio"
+>
+Audio
+</a>
+</span>
+
+
+
+
+<span class="digg-story__metadata-tag
+js--digg-story__metadata-tag
+
+"
+data-tag-display="News"
+data-tag-slug="news"
+>
+<a itemprop="keywords" rel="tag"
+class="digg-story__metadata-link js--digg-story__metadata-link--tag"
+href="/channel/news"
+>
+News
+</a>
+</span>
+
+
+
+
+
+
+<abbr class="published digg-story__metadata-timestamp" title="2014-12-04 01:14:16 GMT">
+<time datetime="2014-12-04 01:14:16 GMT">
+<a
+
+class="digg-story__metadata-link--timestamp js--digg-permalink-link"
+>4 Dec 2014</a>
+</time>
+</abbr>
+
+
+
+
+
+</div>
+</header>
+
+
+<div itemprop="description"
+class="digg-story__description entry-content js--digg-story__description"
+>
+In this 25-second audio clip, Ben Garner shows incredible poise, despite what was undoubtedly a disappointing verdict not to indict the officer who killed his son.
+</div>
+
+
+</div>
+<div class="digg-story__actions">
+
+
+
+<div class="item-actions js--item-actions">
+
+
+
+
+
+
+<button class="digg-story__action item-actions__action item-actions__digg js--digg-btn--story">
+<span class="item-actions__digg__icon"></span>
+<span class="item-actions__label-wrapper js--diggs-container ">
+<span class="item-actions__digg__count-wrapper">
+<span class="item-actions__digg__count js--digg-btn__count">15</span>
+</span>
+<span class="item-actions__label item-actions__digg__label js--digg-btn__label">
+diggs
+</span>
+</span>
+</button>
+
+
+<button class="digg-story__action--save item-actions__action js--save-btn">
+<span class="item-actions__save__icon"></span>
+<span class="item-actions__label js--save-btn-label">
+Save
+</span>
+</button>
+
+
+
+<span class="item-actions__share-actions">
+<button href="https://www.facebook.com/dialog/feed?redirect_uri=http%3A%2F%2Fdigg.com%2Ffbshare&amp;link=http%3A%2F%2Fon.digg.com%2F1AhoRjI&amp;display=popup&amp;app_id=123277257693179" class="item-actions__action js--facebook-share-btn">
+<span class="item-actions__facebook__icon"></span>
+<span class="item-actions__label">Share</span>
+</button>
+<button href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fon.digg.com%2F1AhoRjI&amp;text=Listen+To+Eric+Garner%27s+Dad+Try+To+Calm+An+Angry+Protester&amp;via=Digg" class="item-actions__action js--tweet-btn">
+<span class="item-actions__twitter__icon"></span>
+<span class="item-actions__label">Tweet</span>
+</button>
+<div class="item-actions__channel-tools">
+<button class="item-actions__action js--story-show-additional-actions">
+<span class="item-actions__banana__icon"></span>
+<span class="item-actions__label">'nana</span>
+</button>
+<div class="item-actions__additional-list-container">
+<ul class="item-actions__additional-list">
+<li><button class="item-actions__blacklist js--blacklist-story">Blacklist story</button></li>
+<li><button class="item-actions__blacklist js--blacklist-domain">Blacklist domain</button></li>
+</ul>
+</div>
+</div>
+</span>
+
+</div>
+
+</div>
+
+
+
+</article>
+
+
+
+<footer class="btn-more-stories" data-next-position="20" data-incrementor="1">
+Load More Stories
+</footer>
+
+</section>
+
+<div id="modal-savedstories" class="savedstories modal--v2 modal fade hide" role="dialog" aria-hidden="true">
+<header class="modal--v2__header">
+<span class="modal--v2__header-text" id="modal-savedstories-txt">Saved</span>
+<div id="btn-savedstories-modal-close" class="modal--v2__close js--btn-modal-close" data-dismiss="modal">&#x2716;</div>
+</header>
+<section
+id="modal-savedstories-container"
+class="modal--v2__body stories-container"
+data-tracking-section="Frontpage: Saved Stories"
+></section>
+</div>
+
+
+
+</div>
+</div>
+
+
+<div id="fb-root"></div>
+<div id="session-forms"></div>
+
+
+<footer id="footer" class="ftr">
+<div class="ftr-nav">
+<div class="ftr-inner">
+<ul class="ftr-nav-list nav-primary">
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/about">About</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/faq">FAQ</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="http://blog.digg.com/">Blog</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/jobs">Jobs</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/advertising">Advertise</a></li>
+
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" id="btn-hdr-submit-link" href="/submit">Submit a Link</a></li>
+
+</ul>
+<ul class="ftr-nav-list nav-secondary">
+<li class="ftr-nav-list-item">&copy; <span id="footer-copyright-year">2019</span> Digg Holdings, LLC</li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/community-guidelines">Community Guidelines</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/tos">Terms</a></li>
+<li class="ftr-nav-list-item"><a class="ftr-nav-list-link" href="/privacy">Privacy</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+ 
+
+
+
+
+
+<div class="site-navigation-bottom js--digg-nav--bottom">
+<nav class="site-navigation__nav--bottom">
+<ul class="site-navigation__nav-list">
+<li class="site-navigation__nav-item">
+<a href="http://digg.com/" class="site-navigation__nav-item-link  js--nav-home" title="Home" href="/">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-home" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M6.03 23.958H0L24 0l24 23.958h-6.03V46H6.03V23.958zM20 46h8V30h-8v16z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Home</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Video" href="/video">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-video" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M8 2v44l37-22z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Video</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link " title="Editions" href="/edition">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-editions" viewBox="0 0 12 12" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M2 1.047L11 1v9.43c0 .717-.2.97-1 .97H2c-.8 0-1-.249-1-.97V2.981h8v6.56c0 .229.166.52.507.52.34 0 .493-.292.493-.52V2.044H2v-.997z" fill-rule="evenodd"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Editions</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="https://store.digg.com?utm_source=digg.com&utm_medium=topnav">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-store" viewBox="0 0 48 48" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M36 12h8v36H4V12h8c0-6.627 5.373-12 12-12 6.626 0 12 5.373 12 12zm-20 0h16c0-4.417-3.583-8-8-8-4.418 0-8 3.583-8 8z"/></g></svg>
+</span>
+<span class="site-navigation__nav-item-label">Store</span>
+</a>
+</li>
+<li class="site-navigation__nav-item">
+<a class="site-navigation__nav-item-link" title="Store" href="/channel/digg-pick">
+<span class="site-navigation__nav-item-icon">
+<svg class="ico-nav-pick" viewBox="0 0 92 92" width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path fill="#F38F31" fill-rule="nonzero" d="M50 80.362L20.61 95.45l5.27-32.614L2.447 39.55l32.646-5.067L50 5l14.907 29.482 32.646 5.067L74.12 62.837l5.27 32.614z"/></svg>
+</span>
+<span class="site-navigation__nav-item-label">Picks</span>
+</a>
+</li>
+
+
+
+
+
+
+
+</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/modernizr/2.8.3/modernizr.custom.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/bootstrap/bootstrap-modal.min.js"></script>
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/lodash/2.3.0/lodash.min.js"></script>
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/almond/almond.min.js"></script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/external/backbone/1.0.0/backbone-min.js"></script>
+
+
+<script>
+
+window.onerror = function (errorMsg, url, line, col, err) {
+var errorDataProvider = $.ajax({
+url : '/api/miccheck.json',
+type: 'POST',
+data : {
+m : errorMsg,
+u : url,
+l : line,
+s : err && err.stack && err.stack.replace ? err.stack.replace(/\n\s*/g, ' | ') : null,
+}
+});
+};
+
+window.BS = {
+config: {
+FB_APP_ID: '123277257693179',
+FB_API_VERSION: 'v2.3',
+FB_PERMISSIONS: 'email,public_profile,user_friends',
+v: '1.6.0',
+JWPLAYER_DEFAULT_AD_TAG: 'https://pubads.g.doubleclick.net/gampad/ads?sz=16x9%7C640x480&ciu_szs=300x250&iu=/89446989/digg.preroll.video.landing&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=__page-url__&description_url=__page_url__&correlator=__timestamp__&tags=__item-tags__&cust_params=playerwidth=__player-width__&playerheight=__player-height__',
+},
+features: {"search": true, "polling_scores": false, "saved_stories": true, "dialog_requires_invite": false, "homepage_new_stories": true, "signin": true, "submit_link": true, "readlater": true, "triple_lift": true, "homepage_popular_stories": true, "homepage_new_stories_polling": false, "digg": true},
+
+newsletter_signup_data: {
+signup_modal_enabled: false
+},
+
+};
+
+
+
+BS.config.REALTIME_DIALOG_SERVICE_HOSTNAME = 'realtime-dialog.digg.com';
+
+</script>
+
+
+
+<script src="http://static.digg.com/static/fe/4bef2d/js/bs/bs/pivot.js"></script>
+
+
+<script>
+// Load Twitter SDK Asynchronously
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+// Load the FB SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "23640849" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+
+<img width="1" height="1" src="http://b.scorecardresearch.com/p?c1=2&c2=23640849&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+
+
+window._sf_async_config.sections = "Search";
+
+window._sf_async_config.ytApikey = 'AIzaSyBQJc-KcpVjMq53j6Rtpq5bDaMTvpFBhOA';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat_video.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+<!-- Quantcast Tag -->
+<script>
+qcdata = {} || qcdata;
+(function(){
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-XScWTQ3jeFt7B";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem,scpt);
+}());
+var qcdata = {
+qacct: 'p-XScWTQ3jeFt7B',
+
+};
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-XScWTQ3jeFt7B.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+
+
+<script>(function(){if(typeof _bsa !== 'undefined' && _bsa) {_bsa.init('stickybox', 'CK7I4K7Y', 'placement:digg');}})();</script>
+<!-- built with love by amateurs! -->
+</body>
+</html>
